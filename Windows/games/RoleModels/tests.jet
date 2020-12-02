@@ -1,0 +1,5 @@
+{
+    "Reveals": {
+        "availableList" : ["Majority", "Judgement", "Recount", "GetInCharacter", "Split", "MethodAct", "Trivia", "FightTiebreaker", "Abundance", "Freebie", "TagChoice", "TagResolution", "FightJustPlaying", "TagContradiction", "Powers"]
+    }
+}
