@@ -1,0 +1,482 @@
+
+{
+    "episodeid": 1389,
+    "content": [
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55589,
+            "pic": false,
+            "us": false,
+            "hasIntro": false,
+            "text": "Wie haben Sie festgelegt, dass Sie begraben werden wollen, damit Sie \"genau wie Beethoven\" sein können?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "begraben in einem Flügel"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "begraben in einem Cello"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "begraben in einem Cembalo"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "in einem normalen Sarg begraben"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55588,
+            "pic": false,
+            "us": false,
+            "hasIntro": false,
+            "text": "Wie hast du mich als Baby genannt? Du weißt schon, das spanische Wort für \"Spitzmaus\"?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "correct (#1)": true,
+                    "text": "Fierecilla"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Serpiente"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Camello"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Caballo"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55475,
+            "pic": false,
+            "us": false,
+            "hasIntro": false,
+            "text": "Du hast zur Schlafenszeit jedes Mal hysterisch gelacht, wenn du gelesen hast, welche <i>Alice's Adventures in Wonderland</i>-Figur nach einer Enthauptung ruft?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Die Pik-Dame"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Die Diamanten-Königin"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Die Kreuz-Königin"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Die Herz-Königin"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55445,
+            "pic": false,
+            "us": false,
+            "hasIntro": false,
+            "text": "Du hast mich immer dazu gebracht, dich Dr. Mutter DDS zu nennen! Was soll das überhaupt bedeuten?!",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Ich habe so getan, als wäre ich ein Arzt!"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Ich habe so getan, als wäre ich ein Zahnarzt!"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Ich habe so getan, als wäre ich ein Psychiater!"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Ich habe so getan, als wäre ich ein Ehrendoktor!"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55347,
+            "pic": false,
+            "us": true,
+            "hasIntro": false,
+            "text": "Sag mir Mutter... 1955 warst du ein sehr begeisterter Cheerleader für welches NBA-Team?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Die Los Angeles Lakers"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Die Las Vegas Lakers"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Die Minneapolis Lakers"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Die Toronto Lakers"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55346,
+            "pic": false,
+            "us": true,
+            "hasIntro": false,
+            "text": "Was hast du 1962 meinem älteren Bruder statt Babynahrung zu essen gegeben?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Wendy's"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "KFC"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Arby's"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Subway"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55330,
+            "pic": false,
+            "us": true,
+            "hasIntro": false,
+            "text": "Mutter, du hast dich an deine Opfer in einem \"Passion Pit\" herangepirscht, was in den 50er Jahren ein gängiger Slang für welches Etablissement war?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "eine Spelunke"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "ein Baseball-Stadion"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "ein Autokino"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Ein billiges Motel"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55329,
+            "pic": false,
+            "us": false,
+            "hasIntro": false,
+            "text": "Du hast mir einmal erzählt, dass du nur einmal in deinem Leben geweint hast... 1941, als du einen neu erschienenen Disney-Zeichentrickfilm im Kino gesehen hast. Was war das für ein Film, Mutter?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "correct (#1)": true,
+                    "text": "<i>Dumbo</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Dornröschen</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Susi Und Strolch</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>101 Dalmatiner</i>"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55326,
+            "pic": false,
+            "us": true,
+            "hasIntro": false,
+            "text": "Wo hast du mich damals in Tennessee hingebracht, Mutter?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Koloniales Williamsburg"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "der erste Walmart"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Dollywood"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Ferrari World"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56084,
+            "pic": false,
+            "us": true,
+            "hasIntro": false,
+            "text": "Du hast uns immer mit dem klassischen Mutter-Kind-Duo aus Stars Hollow verglichen. In welcher Serie waren die noch mal, Mutter?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "correct (#1)": true,
+                    "text": "<i>Gilmore Girls</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Mann muss nicht sein</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Good Girls</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Grace & Frankie</i>"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56046,
+            "pic": false,
+            "us": false,
+            "hasIntro": false,
+            "text": "Mutter, du hast mir mal erzählt, dass du die Reinigung angeschrien hast, weil sie Drahtbügel benutzt hat, wegen welchem berühmten Filmstar?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Audrey Hepburn"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Vivien Leigh"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Joan Crawford"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Lauren Bacall"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56043,
+            "pic": false,
+            "us": false,
+            "hasIntro": false,
+            "text": "Mami, welche Form hat das Halma-Spiel, das wir immer spielten, wenn Nebel aufkam?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "ein Kreis"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "ein Dreieck"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "ein Stern"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "die Form von China"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55437,
+            "pic": false,
+            "us": false,
+            "hasIntro": false,
+            "text": "Eines Nachts im Jahr 1961 hast du auf den Himmel gezeigt und gesagt, dass mein richtiger Vater die Erde umkreist. Das würde bedeuten, mein Vater war wer?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Neil Armstrong"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "John Glenn"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Yuri A. Gagarin"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Walentina Wladimirowna Tereschkowa"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55375,
+            "pic": false,
+            "us": true,
+            "hasIntro": false,
+            "text": "Du hast einen High Heel gegen den Fernseher geworfen, Mutter, als welcher Film 1974 den Oscar für den besten Film verlor?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "correct (#1)": true,
+                    "text": "<i>Der Exorzist</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>The Shining</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Die Fliege</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>The Thing</i>"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55477,
+            "pic": false,
+            "us": true,
+            "hasIntro": false,
+            "text": "Wie viel kostete ein Hamburger, als du 1955 in die erste McDonald's-Filiale gingst?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "$1"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "$0.65"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "$0.35"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "$0.15"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55362,
+            "pic": false,
+            "us": false,
+            "hasIntro": false,
+            "text": "Mutter, welches berühmte Buch von Dr. Benjamin Spock hast du zu meiner Geburt geschenkt bekommen, aber dann nie gelesen?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "<i>What To Expect When You're Expecting</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "<i>The Common Sense Book of Baby and Child Care</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>The Happiest Baby on the Block</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Das Attachment Parenting Buch</i>"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55325,
+            "pic": false,
+            "us": false,
+            "hasIntro": false,
+            "text": "Welches ist das erste Lied, das die Beatles jemals in der <i>The Ed Sullivan Show</i> gespielt haben?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "<i>Hey Jude</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Let It Be</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Imagine</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "<i>All My Loving</i>"
+                }
+            ]
+        }
+    ]
+}

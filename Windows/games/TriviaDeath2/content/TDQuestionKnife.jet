@@ -1,0 +1,538 @@
+
+{
+    "episodeid": 1394,
+    "content": [
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56078,
+            "pic": false,
+            "us": false,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Welche dieser Zutaten ist KEINE traditionelle Zutat im Caesar-Dressing?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Worcestershire-Sauce"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Knoblauch"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Anchovis"
+                },
+                {
+                    "correct": true,
+                    "controllerClass": "",
+                    "text": "Zucker"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56069,
+            "pic": false,
+            "us": false,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Ich weiß, dass Sie nicht der Mörder sind, wenn Sie mir sagen können, auf welchem Kontinent sich die größte Wüste befindet.",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Asien"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Afrika"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Australien"
+                },
+                {
+                    "correct": true,
+                    "controllerClass": "",
+                    "text": "Antarktis"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56041,
+            "pic": false,
+            "us": false,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Wie lautet der Name von Pinocchios Vater?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Geronimo"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Giuseppe"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Geppetto",
+                    "correct": true
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Jiminy Cricket"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56022,
+            "pic": false,
+            "us": true,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Was passiert mit dem titelgebenden Toaster am Ende von <i>Der tapfere kleine Toaster</i>?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "er wird in einer Recycling-Anlage beigesetzt"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "er erscheint in einer Werbung für Zimt-Frühstücksgebäck"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "er wird an ein Altersheim gespendet"
+                },
+                {
+                    "correct": true,
+                    "controllerClass": "",
+                    "text": "er geht mit seinem Besitzer aufs College"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56020,
+            "pic": false,
+            "us": true,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Was hat es mit den <i>Property Brothers</i> auf sich?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "sie sind eigentlich keine BrÃ¼der"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "sie wurden im Abstand von 10 Monaten geboren"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "sie sind zweieiige Zwillinge"
+                },
+                {
+                    "correct": true,
+                    "controllerClass": "",
+                    "text": "sie sind eineiige Zwillinge"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55959,
+            "pic": false,
+            "us": false,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Wie lautet der Name der fiktiven Band, die mit Ziggy Stardust spielte?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "The Spiders from Mars",
+                    "correct": true
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Ground Control"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Space Jam"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "The Fires of Venus"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55956,
+            "pic": false,
+            "us": true,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Was bedeutet \"10-4\"?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Was ist dein Standort"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "stehen für"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "bitte wiederholen"
+                },
+                {
+                    "correct": true,
+                    "controllerClass": "",
+                    "text": "empfangene Nachricht"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55920,
+            "pic": false,
+            "us": true,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Ich lasse Sie gehen, wenn Sie herausfinden können, welche dieser Sendungen eine Hulu-Originalserie ist!",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "<i>The Crown</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>The Tick</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>The OA</i>"
+                },
+                {
+                    "correct": true,
+                    "controllerClass": "",
+                    "text": "<i>The Handmaid's Tale</i>"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55918,
+            "pic": false,
+            "us": false,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Um zu beweisen, dass Sie unschuldig sind, sagen Sie mir einfach, welches Zitat Rene Descartes zugeschrieben wird.",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Das, was mich nicht umbringt, macht mich stärker."
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Das ungeprüfte Leben ist nicht lebenswert."
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Ich denke, also bin ich.",
+                    "correct": true
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Wie können Spiegel real sein, wenn unsere Augen nicht real sind?"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55916,
+            "pic": false,
+            "us": false,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Welcher KÃ¼nstler hatte eine Vorliebe fÃ¼r das Malen von Seerosen?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Pablo Picasso"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Frida Kahlo"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Claude Monet",
+                    "correct": true
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Grandma Moses"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55915,
+            "pic": false,
+            "us": true,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Ich lasse Sie gehen, wenn Sie mir sagen kÃ¶nnen, wer die Hauptrolle in Jordan Peele's <i>Us</i> spielte.",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Viola Davis"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Danai Gurira"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Sonequa Martin-Green"
+                },
+                {
+                    "correct": true,
+                    "controllerClass": "",
+                    "text": "Lupita Nyong'o"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55914,
+            "pic": false,
+            "us": true,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Sie kÃ¶nnen Ihren Namen reinwaschen, wenn Sie mir sagen, welches ein Naughty by Nature-Song ist.",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Hip Hop Hollywood"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Hip Hop Hooray",
+                    "correct": true
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Hip Hop Holiday"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Hippity Hip Hop"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55904,
+            "pic": false,
+            "us": false,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Wer schrieb die Songs \"Big Yellow Taxi\" und \"River\"?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Cat Stevens"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Joni Mitchell",
+                    "correct": true
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Joan Baez"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Alanis Morissette"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55901,
+            "pic": false,
+            "us": false,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Was ist NICHT Teil der <i>His Dark Materials</i>-Trilogie?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "<i>Der Goldene Kompass</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Das Magische Messer</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Das seidene Seil</i>",
+                    "correct": true
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Das Bernstein-Teleskop</i>"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55900,
+            "pic": false,
+            "us": false,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Auf welchem Kontinent hat die Kartoffel ihren Ursprung?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Europa"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Afrika"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Südamerika",
+                    "correct": true
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Nord-Amerika"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55864,
+            "pic": false,
+            "us": false,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Welcher dieser Weine ist traditionell der krÃ¤ftigste und dunkelste?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Merlot"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Monastrell",
+                    "correct": true
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Malbec"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Cabernet Sauvignon"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55862,
+            "pic": false,
+            "us": true,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Beweisen Sie, dass Sie unschuldig sind und sagen Sie mir, wo Calvin Harris und Rihanna in \"We Found Love\" ihre Liebe gefunden haben?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "an einem heiligen Ort"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "an einem bescheidenen Ort"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "an einem hoffnungslosen Ort",
+                    "correct": true
+                },
+                {
+                    "controllerClass": "",
+                    "text": "an einem verfluchten Ort"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55857,
+            "pic": false,
+            "us": false,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Wie wÃ¼rden Sie die Architektur des Rokoko charakterisieren?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Hammerbalkendächer in riesigen Hallen"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "sehr aufwendige, umfangreiche Verzierungen",
+                    "correct": true
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Neoklassizistische freistehende SÃ¤ulen"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Betonung auf klaren Linien und Symmetrie"
+                }
+            ]
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55856,
+            "pic": false,
+            "us": false,
+            "hasIntro": true,
+            "text": "[EventName=HOST/AltHost]Welches dieser Lebewesen ist ein wirbelloses Tier?",
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "schildkröte"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Aal"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Krabbe",
+                    "correct": true
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Schlange"
+                }
+            ]
+        }
+    ]
+}
