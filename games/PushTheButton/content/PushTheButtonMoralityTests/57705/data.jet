@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"es jedem erzählen",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"eine Falle legen",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"in ihr Haus einbrechen",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Ein Haufen winziger Elfen zieht in einen Baum in deinem Hinterhof ein. Wenn du dich ihnen näherst, zischen und kratzen sie nach dir. Du würdest...",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Ein Haufen winziger Elfen zieht in einen Baum in deinem Hinterhof ein. Wenn du dich ihnen näherst, zischen und kratzen sie nach dir. Du würdest...",
+         "t":"A",
+         "v":"835023_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

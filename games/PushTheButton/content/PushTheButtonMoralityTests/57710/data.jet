@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"lehnst ab und gehst",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"stimmst zu und bleibst",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"stimmst zu und gehst",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Eine Dame bittet dich, auf ihren knurrenden Hund aufzupassen, während sie auf die Toilette geht. Du...",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Eine Dame bittet dich, auf ihren knurrenden Hund aufzupassen, während sie auf die Toilette geht. Du...",
+         "t":"A",
+         "v":"835083_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

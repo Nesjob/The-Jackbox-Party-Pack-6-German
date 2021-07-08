@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Ich genieße Videospiele.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ich bin ein Tiermensch.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Ich habe ein schlechtes Gedächtnis.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Wenn ich herausgefordert werden würde, könnte ich ALLE Pokémon benennen.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Wenn ich herausgefordert werden würde, könnte ich ALLE Pokémon benennen.",
+            "t": "A",
+            "v": "890456_2",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

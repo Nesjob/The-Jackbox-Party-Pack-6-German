@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"zuschauen",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"sofort gehen",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"die Polizei rufen",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Es scheint, dass Aliens deine Nachbarn entführen. Du würdest...",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Es scheint, dass Aliens deine Nachbarn entführen. Du würdest...",
+         "t":"A",
+         "v":"814976_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

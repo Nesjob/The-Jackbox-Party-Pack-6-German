@@ -1,0 +1,80 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Mein zweiter Vorname ist ...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Das schmutzigste Wort, das mir einfällt, ist ...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Ein Wort, das du nie hören willst, ist ...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Das seltsamste Tier ist wahrscheinlich das ...",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "Das lustigste Wort, das mir einfällt, ist ...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Das lustigste Wort, das mir einfällt, ist ...",
+            "t": "A",
+            "v": "833538_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

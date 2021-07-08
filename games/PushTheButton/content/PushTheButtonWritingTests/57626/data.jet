@@ -1,0 +1,155 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty8"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty7"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt7"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt8"
+        },
+        {
+            "t": "S",
+            "v": "Der letzte Nachrichtenartikel, den ich las, handelte von ...",
+            "n": "AlienPromptText8"
+        },
+        {
+            "t": "S",
+            "v": "Das letzte Buch, das ich gelesen habe, handelte von ...",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Eine historische Figur, die ich faszinierend finde, ist ...",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Mein Lieblingsbuch handelte von ...",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "Das längste Buch, das ich je gelesen habe, handelte von ...",
+            "n": "AlienPromptText6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Etwas, auf das ich mich dieses Wochenende freue, ist ...",
+            "n": "AlienPromptText7"
+        },
+        {
+            "t": "S",
+            "v": "Der letzte Film, den ich gesehen habe, handelte von ...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Das letzte tolle Essen, das ich hatte, war ...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Ich hasse Filme, die nichts anderes sind als ...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Ich verbringe die meiste Zeit meiner Freizeit ...",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Das letzte Buch, das ich gelesen habe, handelte von ...",
+            "t": "A",
+            "v": "833684_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

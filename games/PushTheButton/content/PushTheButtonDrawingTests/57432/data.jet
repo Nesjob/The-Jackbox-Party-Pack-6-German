@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v": "Zeichne eine Ratte, die vom Blitz getroffen wird.",
+         "n": "AlienPromptText0"
+      },
+      {
+         "t": "S",
+         "v": "false",
+         "n": "AlienPromptAdultt1"
+      },
+      {
+         "t": "S",
+         "v": "Zeichne ein brennendes Stinktier.",
+         "n": "AlienPromptText1"
+      },
+      {
+         "t": "S",
+         "v": "false",
+         "n": "AlienPromptAdultt2"
+      },
+      {
+         "t": "S",
+         "v": "Zeichne einen magischen Waschbären.",
+         "n": "AlienPromptText2"
+      },
+      {
+         "t": "S",
+         "v": "Zeichne Pikachu.",
+         "n": "HumanPromptText"
+      },
+      {
+         "s": "Zeichne Pikachu.",
+         "t": "A",
+         "v": "830790_1",
+         "n": "HumanPromptAudio"
+      }
+   ]
+}

@@ -1,0 +1,95 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "Ich kenne den Unterschied zwischen einem Alligator und einem Krokodil nicht.",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Ich bin ein Hundefreund.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ich bin ein Katzenliebhaber.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Es muss einen Live-Action <i>Darkwing Duck<\/i> Film geben.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Spargel macht mein Pipi stinkend",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "t": "S",
+            "v": "Ich kenne durchaus den Unterschied zwischen einem Krokodil und einem Alligator.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Ich kenne durchaus den Unterschied zwischen einem Krokodil und einem Alligator.",
+            "t": "A",
+            "v": "834386_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

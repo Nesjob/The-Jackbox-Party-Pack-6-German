@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"es jedem zu erzählen",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"eine Falle aufstellen",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"in sein Haus einbrechen",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Du glaubst, dass dein Nachbar ein Serienmörder ist, aber du brauchst Beweise. Was du tun solltest ist...",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Du glaubst, dass dein Nachbar ein Serienmörder ist, aber du brauchst Beweise. Was du tun solltest ist...",
+         "t":"A",
+         "v":"819119_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

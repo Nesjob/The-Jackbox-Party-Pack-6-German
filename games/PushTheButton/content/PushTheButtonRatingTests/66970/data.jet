@@ -1,0 +1,80 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Ich bin ein kleiner Ordnungsfanatiker.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ich kann keine öffentliche Toilette benutzen.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Ich bin ein bisschen schlampig.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Welpen sind niedlicher als Entenküken.",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "Das Händewaschen nach der Benutzung der Toilette ist optional.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Das Händewaschen nach der Benutzung der Toilette ist optional.",
+            "t": "A",
+            "v": "890396_2",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

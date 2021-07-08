@@ -1,0 +1,65 @@
+{
+    "fields":[
+       {
+          "t":"N",
+          "v":"0",
+          "n":"AlienPromptDifficulty2"
+       },
+       {
+          "t":"N",
+          "v":"0",
+          "n":"AlienPromptDifficulty1"
+       },
+       {
+          "t":"N",
+          "v":"0",
+          "n":"AlienPromptDifficulty0"
+       },
+       {
+          "t":"N",
+          "v":"0",
+          "n":"Difficulty"
+       },
+       {
+          "t":"S",
+          "v":"false",
+          "n":"AlienPromptAdultt0"
+       },
+       {
+          "t":"S",
+          "v":"es zu behalten",
+          "n":"AlienPromptText0"
+       },
+       {
+          "t":"S",
+          "v":"false",
+          "n":"AlienPromptAdultt1"
+       },
+       {
+          "t":"S",
+          "v":"es einzureichen",
+          "n":"AlienPromptText1"
+       },
+       {
+          "t":"S",
+          "v":"false",
+          "n":"AlienPromptAdultt2"
+       },
+       {
+          "t":"S",
+          "v":"es deiner Großmutter zu erzählen",
+          "n":"AlienPromptText2"
+       },
+       {
+          "t":"S",
+          "v":"Ein Geldautomat gibt dir den doppelten Geldbetrag, den du angefordert hast. Was du tun solltest, ist,...",
+          "n":"HumanPromptText"
+       },
+       {
+          "s":"Ein Geldautomat gibt dir den doppelten Geldbetrag, den du angefordert hast. Was du tun solltest, ist,...",
+          "t":"A",
+          "v":"802755_0",
+          "n":"HumanPromptAudio"
+       }
+    ]
+ }

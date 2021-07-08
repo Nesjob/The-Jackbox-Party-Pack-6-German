@@ -1,0 +1,155 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty5"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty4"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty3"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"Difficulty"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty8"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty7"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty6"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt5"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt6"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt7"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt8"
+      },
+      {
+        "t": "S",
+        "v": "Zeichne eine altmodische Frisur.",
+        "n": "AlienPromptText8"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne eine Großmutter.",
+        "n": "HumanPromptText"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne eine Tänzerin.",
+        "n": "AlienPromptText4"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne Wonder Woman.",
+        "n": "AlienPromptText5"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne eine nette Dame.",
+        "n": "AlienPromptText6"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne eine Dame mit Brille.",
+        "n": "AlienPromptText7"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne einen Senioren.",
+        "n": "AlienPromptText0"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne jemanden auf einer Verandaschaukel.",
+        "n": "AlienPromptText1"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne jemanden, der eine Perücke trägt.",
+        "n": "AlienPromptText2"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt3"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne einen nervigen Prominenten.",
+        "n": "AlienPromptText3"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt4"
+     },
+     {
+        "s": "Zeichne eine Großmutter.",
+        "t": "A",
+        "v": "834214_1",
+        "n": "HumanPromptAudio"
+     }
+   ]
+}

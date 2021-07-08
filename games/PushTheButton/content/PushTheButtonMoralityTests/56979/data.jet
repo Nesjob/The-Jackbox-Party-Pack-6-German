@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"verschwindest dann von dort",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"hinterlässt dann einen Zettel",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"versuchst es dann zu reparieren",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Du verbeulst das Auto eines Fremden auf einem Parkplatz schwer. Du...",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Du verbeulst das Auto eines Fremden auf einem Parkplatz schwer. Du...",
+         "t":"A",
+         "v":"818234_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

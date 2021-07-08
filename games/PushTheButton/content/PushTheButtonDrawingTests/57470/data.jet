@@ -1,0 +1,155 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty5"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty4"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty3"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"Difficulty"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty8"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty7"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty6"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt5"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt6"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt7"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt8"
+      },
+      {
+        "t": "S",
+        "v": "Zeichne eine Torte zum 100. Geburtstag",
+        "n": "AlienPromptText8"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne eine Geburtstagstorte.",
+        "n": "HumanPromptText"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne einen Donut.",
+        "n": "AlienPromptText4"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne eine Hochzeitstorte.",
+        "n": "AlienPromptText5"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne eine Eistorte.",
+        "n": "AlienPromptText6"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne einen Kekskuchen.",
+        "n": "AlienPromptText7"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne Geburtstagskerzen.",
+        "n": "AlienPromptText0"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne eine teure Torte.",
+        "n": "AlienPromptText1"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne einen sehr großen Cupcake.",
+        "n": "AlienPromptText2"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt3"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne einen Hackbraten.",
+        "n": "AlienPromptText3"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt4"
+     },
+     {
+        "s": "Zeichne eine Geburtstagstorte.",
+        "t": "A",
+        "v": "831418_1",
+        "n": "HumanPromptAudio"
+      }
+   ]
+}

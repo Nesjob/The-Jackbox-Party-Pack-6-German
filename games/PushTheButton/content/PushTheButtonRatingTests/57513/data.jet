@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Frühstück zum Abendessen ist fantastisch.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Wurst ist besser als Speck.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Ich mag keine zuckerhaltigen Cerealien.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Raisin Bran ist eindeutig das beste Müsli.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Raisin Bran ist eindeutig das beste Müsli.",
+            "t": "A",
+            "v": "832202_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

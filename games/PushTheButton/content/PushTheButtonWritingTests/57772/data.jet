@@ -1,0 +1,155 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty8"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty7"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt7"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt8"
+        },
+        {
+            "t": "S",
+            "v": "Mein Lieblingsschauspieler ist ...",
+            "n": "AlienPromptText8"
+        },
+        {
+            "t": "S",
+            "v": "Der Prominente, mit dem ich wahrscheinlich am besten befreundet bin, ist ...",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Eine Person aus der Geschichte, die ich bewundere, ist ...",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Die Berühmtheit, von der die Leute sagen, dass ich aussehe wie ...",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "Eine Berühmtheit, in die ich verknallt bin, ist ...",
+            "n": "AlienPromptText6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Der Prominente, den ich am häufigsten in den Nachrichten sehe, ist ...",
+            "n": "AlienPromptText7"
+        },
+        {
+            "t": "S",
+            "v": "Der Promi, der im echten Leben wahrscheinlich nett ist, ist ...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Eine unterschätzte Berühmtheit ist ...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Eine altbekannte Berühmtheit ist ...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Eine Berühmtheit, die ich nicht besonders mag, ist ...",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Der Prominente, mit dem ich wahrscheinlich am besten befreundet wäre, ist ...",
+            "t": "A",
+            "v": "836753_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

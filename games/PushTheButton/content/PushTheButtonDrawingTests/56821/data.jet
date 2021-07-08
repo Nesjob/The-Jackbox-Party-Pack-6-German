@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne eine Nachspeise.",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne eine Hochzeitstorte.",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne dein liebstes Bauernhoftier.",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne eine preisgekrönte Torte für das Volksfest.",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Zeichne eine preisgekrönte Torte für das Volksfest.",
+         "t":"A",
+         "v":"814880_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

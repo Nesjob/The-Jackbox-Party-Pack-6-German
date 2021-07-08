@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Ich bin ein sehr leidenschaftlicher Mensch.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ich bin heute klüger als vor fünf Jahren.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Peperoni ist der beste Pizzabelag.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Ich bin ein toller Küsser.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Ich bin ein toller Küsser.",
+            "t": "A",
+            "v": "807096_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

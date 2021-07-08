@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Ich liebe Camping",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ich habe nichts gegen beengte Räume.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Ich möchte die Welt sehen",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Ich würde gerne in einem Wohnmobil leben.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Ich würde gerne in einem Wohnmobil leben.",
+            "t": "A",
+            "v": "818834_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

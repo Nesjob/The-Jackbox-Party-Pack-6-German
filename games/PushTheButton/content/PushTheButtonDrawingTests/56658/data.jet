@@ -1,0 +1,110 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty5"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty4"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty3"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"true",
+         "n":"AlienPromptAdultt5"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne eine betrunkene Person.",
+         "n":"HumanPromptText"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne einen Keg-Ständer.",
+         "n":"AlienPromptText4"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne jemanden, der in Ohnmacht fällt.",
+         "n":"AlienPromptText5"
+      },
+      {
+         "t":"S",
+         "v":"true",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne eine Person an einer Bar.",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"true",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne eine Person, die am Wein nippt.",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"true",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne einen Barkeeper, der einen Drink mixt.",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"true",
+         "n":"AlienPromptAdultt3"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne jemanden, der liegt.",
+         "n":"AlienPromptText3"
+      },
+      {
+         "t":"S",
+         "v":"true",
+         "n":"AlienPromptAdultt4"
+      },
+      {
+         "s":"Zeichne eine betrunkene Person.",
+         "t":"A",
+         "v":"811552_0",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}
