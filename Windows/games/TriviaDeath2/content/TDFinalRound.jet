@@ -288,105 +288,75 @@
       {
          "x":false,
          "id":55302,
-         "text":"Gewinner von <i>RuPaul\u2019s Drag Race<\/i>",
+         "text":"Backe backe Kuchen: Wer will guten Kuchen backen, der muss haben 7 Sachen. Welche sind dabei?",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"Bianca Del Rio"
+               "text":"Eier"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Alaska"
+               "text":"Schmalz"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Sharon Needles"
+               "text":"Zucker"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Jinkx Monsoon"
+               "text":"Salz"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Sasha Velour"
+               "text":"Milch"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Raja"
+               "text":"Mehl"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Bob the Drag Queen"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Chad Michaels"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Violet Chachki"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"BeBe Zahara Benet"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Tyra Sanchez"
+               "text":"Safran"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Mimi Imfurst"
+               "text":"Backpulver"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Alyssa Edwards"
+               "text":"Butter"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Courtney Act"
+               "text":"Puderzucker"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Laganja Estranja"
+               "text":"Kakao"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Pearl"
+               "text":"Haselnüsse"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Victoria \u201cPorkchop\u201d Parker"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Gia Gunn"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Milk"
+               "text":"Schokolade"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -967,77 +937,87 @@
       {
          "x":false,
          "id":56116,
-         "text":"Annette Funicello-Filme",
+         "text":"Ursachen für das Verschwinden der 10 kleinen Jägermeister im Lied der Toten Hosen",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Beach Blanket Bingo<\/i>"
+               "text":"von Joint umgehauen"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Pajama Party<\/i>"
+               "text":"musste sterben damit die anderen erben konnten"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Bikini Beach<\/i>"
+               "text":"fuhr in die falsche Stadt"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Muscle Beach Party<\/i>"
+               "text":"beim Date vom Ehemann erwischt"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Beach Party<\/i>"
+               "text":"im Gefängnis wegen Steuerhinterziehung"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>How to Stuff a Wild Bikini<\/i>"
+               "text":"von der Polizei festgenommen"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Dr. Goldfoot and the Bikini Machine<\/i>"
+               "text":"Alkoholtod bei der Bundeswehr"
+            },
+            {
+               "difficulty":0,
+               "correct":true,
+               "text":"Steak mit BSE-Erreger gegessen"
+            },
+            {
+               "difficulty":0,
+               "correct":true,
+               "text":"Asylantrag wurde abgelehnt"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Psycho Bikini Party<\/i>"
+               "text":"Hochzeitstag vergessen"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Boom Boom Bikini<\/i>"
+               "text":"mit selbstgebastelter Bombe in die Luft geflogen"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Bikini Dogs<\/i>"
+               "text":"in die Politik gegangen"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Beach Patrol<\/i>"
+               "text":"Datum verwechselt"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Sandy Pants<\/i>"
+               "text":"in Ameisenhügel geschlafen"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Two Piece Bucket Party<\/i>"
+               "text":"von Computervirus erledigt"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Suntan Slumber Party<\/i>"
+               "text":"vergifteten Apfel gegessen"
             }
          ],
          "us":true
@@ -1344,122 +1324,122 @@
       {
          "x":false,
          "id":55208,
-         "text":"Geschichten in <i>The Canterbury Tales<\/i>",
+         "text":"Spielorte bei der Fußballweltmeisterschaft 2006 in Deutschland",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"The Knight\u2019s Tale"
+               "text":"Berlin"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"The Miller\u2019s Tale"
+               "text":"Dortmund"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"The Reeve\u2019s Tale"
+               "text":"Frankfurt am Main"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"The Cook\u2019s Tale"
+               "text":"Gelsenkirchen"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"The Man of Law\u2019s Tale"
+               "text":"Hamburg"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"The Shipman\u2019s Tale"
+               "text":"Hannover"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"The Prioress\u2019s Tale"
+               "text":"Kaiserslautern"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"The Monk\u2019s Tale"
+               "text":"Köln"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"The Wife of Bath\u2019s Tale"
+               "text":"Leipzig"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"The Friar\u2019s Tale"
+               "text":"München"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"The Summoner\u2019s Tale"
+               "text":"Nürnberg"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"The Physician\u2019s Tale"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"The Merchant\u2019s Tale"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"The Second Nun\u2019s Tale"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"The Squire\u2019s Tale"
+               "text":"Stuttgart"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"The Queen\u2019s Tale"
+               "text":"Dresden"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"The King\u2019s Tale"
+               "text":"Düsseldorf"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"The Farmer\u2019s Tale"
+               "text":"Saarbrücken"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"The Jester\u2019s Tale"
+               "text":"Mainz"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"The Carpenter\u2019s Tale"
+               "text":"Wiesbaden"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"The Falconer\u2019s Tale"
+               "text":"Magdeburg"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"The Spinster\u2019s Tale"
+               "text":"Kiel"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"The Barber\u2019s Tale"
+               "text":"Freiburg"
+            },
+            {
+               "difficulty":0,
+               "correct":false,
+               "text":"Essen"
+            },
+            {
+               "difficulty":0,
+               "correct":false,
+               "text":"Bochum"
+            },
+            {
+               "difficulty":0,
+               "correct":false,
+               "text":"Duisburg"
             }
          ],
          "us":false
@@ -1628,70 +1608,85 @@
       {
          "x":false,
          "id":55265,
-         "text":"Sprünge im Eiskunstlauf",
+         "text":"Vielfache von 17",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"toe loop"
+               "text":"17"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"flip"
+               "text":"34"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"lutz"
+               "text":"51"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"salchow"
+               "text":"68"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"loop"
+               "text":"85"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"axel"
+               "text":"102"
+            },
+			{
+               "difficulty":0,
+               "correct":true,
+               "text":"119"
+            },
+			{
+               "difficulty":0,
+               "correct":true,
+               "text":"136"
+            },
+			{
+               "difficulty":0,
+               "correct":false,
+               "text":"115"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"scissor"
+               "text":"47"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"corkscrew"
+               "text":"70"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"star"
+               "text":"75"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"bell kick"
+               "text":"39"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"scoop"
+               "text":"121"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"dab"
+               "text":"130"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -5496,110 +5491,110 @@
       {
          "x":false,
          "id":55192,
-         "text":"Monster aus dem Lied \u201cThe Monster Mash\u201d",
+         "text":"Primzahlen",
          "choices":[
             {
                "difficulty":-1,
                "correct":true,
-               "text":"Dracula"
+               "text":"2"
             },
             {
                "difficulty":-1,
                "correct":true,
-               "text":"Wolfman"
+               "text":"3"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Zombies"
+               "text":"5"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Dracula\u2019s Son"
+               "text":"7"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Igor"
+               "text":"11"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Hounds"
+               "text":"13"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Boris Pickett"
+               "text":"17"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"The Coffin-Bangers"
+               "text":"19"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Ghouls"
+               "text":"23"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"The Crypt-Kicker Five"
+               "text":"29"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Medusa"
+               "text":"9"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Witches"
+               "text":"12"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"The Fish Man"
+               "text":"21"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Dragons"
+               "text":"26"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Dracula\u2019s Bride"
+               "text":"33"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Van Helsing"
+               "text":"35"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Skeleton Twins"
+               "text":"15"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"The Invisible Man"
+               "text":"18"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Gremlins"
+               "text":"8"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Go-Go Banshees"
+               "text":"14"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -6139,107 +6134,122 @@
       {
          "x":false,
          "id":55202,
-         "text":"Kentucky Derby Gewinner",
+         "text":"James Bond-Filme",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"American Pharoah"
+               "text":"Liebesgrüße aus Moskau"
             },
             {
                "difficulty":-1,
                "correct":true,
-               "text":"Secretariat"
+               "text":"Man lebt nur zweimal"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Justify"
+               "text":"Diamantenfieber"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Spectacular Bid"
+               "text":"Feuerball"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Monarchos"
+               "text":"Goldfinger"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Genuine Risk"
+               "text":"Im Angesicht des Todes"
+            },
+			            {
+               "difficulty":0,
+               "correct":true,
+               "text":"Der Hauch des Todes"
+            },
+            {
+               "difficulty":0,
+               "correct":true,
+               "text":"Ein Quantum Trost"
+            },
+            {
+               "difficulty":0,
+               "correct":true,
+               "text":"Der Morgen stirbt nie"
+            },
+            {
+               "difficulty":0,
+               "correct":true,
+               "text":"Stirb an einem anderen Tag"
+            },
+            {
+               "difficulty":0,
+               "correct":true,
+               "text":"Der Mann mit dem goldenen Colt"
+            },
+            {
+               "difficulty":0,
+               "correct":true,
+               "text":"Die Welt ist nicht genug"
+            },
+            {
+               "difficulty":0,
+               "correct":true,
+               "text":"Skyfall"
+            },
+            {
+               "difficulty":0,
+               "correct":false,
+               "text":"Die Bond-Identität"
+            },
+            {
+               "difficulty":0,
+               "correct":false,
+               "text":"Verblendung"
+            },
+            {
+               "difficulty":0,
+               "correct":false,
+               "text":"Verdammnis"
+            },
+            {
+               "difficulty":0,
+               "correct":false,
+               "text":"Der Mann, der zuviel wußte"
+            },
+            {
+               "difficulty":0,
+               "correct":false,
+               "text":"Der unsichtbare Dritte"
             },
             {
                "difficulty":-1,
-               "correct":true,
-               "text":"Smarty Jones"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"California Chrome"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Orb"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"War Admiral"
+               "correct":false,
+               "text":"Der zerrissene Vorhang"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Sentinel of Liberty"
+               "text":"Im Schatten des Zweifels"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Gal Friday"
+               "text":"Vertigo"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Brickhouse Baby"
+               "text":"Die Bond-Verschwörung"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Insecure"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Tough Nut"
-            },
-            {
-               "difficulty":-1,
-               "correct":false,
-               "text":"Billy O\u2019Brien"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Underdog"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Chocolate Pretzel"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Standby Flight"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"New Jersey Garden"
+               "text":"Das Bond-Vermächtnis"
             }
          ],
          "us":true
@@ -6463,75 +6473,75 @@
       {
          "x":false,
          "id":55718,
-         "text":"Victoria\u2019s Secret BH-Kollektionen",
+         "text":"Oscar für den besten Film zwischen 2010 und 2020",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"Body by Victoria"
+               "text":"Green Book – Eine besondere Freundschaft"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Dream Angels"
+               "text":"Shape of Water – Das Flüstern des Wassers"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Bombshell"
+               "text":"Parasite"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Showstopper"
+               "text":"Moonlight"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Incredible"
+               "text":"12 Years a Slave"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Very Sexy"
+               "text":"The Artist"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Gorgeous"
+               "text":"The King’s Speech"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Seashells"
+               "text":"Black Swan"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Spectacular"
+               "text":"Inception"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Anti-gravity"
+               "text":"The Imitation Game – Ein streng geheimes Leben"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Empowerment"
+               "text":"Boyhood"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Hocus Pocus"
+               "text":"Three Billboards Outside Ebbing, Missouri"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Busted"
+               "text":"American Sniper"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -7365,110 +7375,75 @@
       {
          "x":false,
          "id":55234,
-         "text":"Crayola Crayon Colors",
+         "text":"Die sieben Todsündens",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"Aquamarine"
+               "text":"Hochmut"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Electric Lime"
+               "text":"Geiz"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Denim"
+               "text":"Wollust"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Macaroni and Cheese"
+               "text":"Zorn"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Goldenrod"
+               "text":"Völlerei"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Cotton Candy"
+               "text":"Neid"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Shamrock"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Purple Heart"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Shadow"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Beaver"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Razzmatazz"
+               "text":"Faulheit"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Fresh Cut Grass"
+               "text":"Verlogenheit"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Black Cherry"
+               "text":"Heuchelei"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Mercury"
+               "text":"Unaufrichtigkeit"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Hermit Crab"
+               "text":"Täuschung"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Old Shoe"
+               "text":"Uneinsichtigkeit"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Leather"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Pony"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Killer Whale"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Liver"
+               "text":"Sturheit"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -7689,190 +7664,165 @@
       {
          "x":false,
          "id":55242,
-         "text":"Orte in <i>Candy Land<\/i>",
+         "text":"Die sieben Weltwunder der Antike",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"Licorice Forest"
+               "text":"Die hängenden Gärten von Babylon"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Lollypop Woods"
+               "text":"Der Koloss von Rhodos"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Peanut Acres"
+               "text":"Das Mausoleum von Halikarnassos"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Gumdrop Mountains"
+               "text":"Der Leuchtturm von Alexandria"
             },
             {
                "difficulty":1,
                "correct":true,
-               "text":"Chocolate Swamp"
+               "text":"Die Pyramiden von Gizeh"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Snowflake Lake"
+               "text":"Der Tempel der Artemis in Ephesos"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Candy Castle"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Ice Cream Sea"
+               "text":"Die Zeusstatue des Phidias von Olympia"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Soda Springs"
+               "text":"Die chinesische Mauer"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Candy Corn Canyon"
+               "text":"Chichén Itzá auf Yucatan"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Marshmallow Meadow"
+               "text":"Der Cristo Redentor in Rio de Janeiro"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Caramel Volcano"
+               "text":"Das Kolosseum von Rom"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Crave Cave"
+               "text":"Machu Picchu in Peru"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Sugar River"
+               "text":"Die Felsenstadt Petra in Jordanien"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Hard Candy Hills"
-            },
-            {
-               "difficulty":-1,
-               "correct":false,
-               "text":"Hershey Highway"
-            },
-            {
-               "difficulty":1,
-               "correct":true,
-               "text":"Molasses Swamp"
+               "text":"Der Taj Mahal von Agra"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
          "id":55755,
-         "text":"WNBA Teams",
+         "text":"Lieder von Modern Talking",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"New York Liberty"
+               "text":"You’re My Heart, You’re My Soul"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Los Angeles Sparks"
+               "text":"You Can Win If You Want"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Chicago Sky"
+               "text":"Cheri, Cheri Lady"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Washington Mystics"
+               "text":"Brother Louie"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Seattle Storm"
+               "text":"Atlantis Is Calling (S.O.S. for Love)"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Phoenix Mercury"
+               "text":"Geronimo’s Cadillac"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Dallas Wings"
+               "text":"Win the Race"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Atlanta Dream"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Las Vegas Aces"
+               "text":"Ready for the Victory"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Toronto Geese"
+               "text":"JoJo Action"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Roswell Saucers"
+               "text":"Rhythm Is a Dancer"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Detroit Welders"
+               "text":"It’s My Life"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Portland Mermaids"
+               "text":"What Is Love"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Nashville Harmony"
+               "text":"I Was Made for Lovin’ You"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Honolulu Dolphins"
+               "text":"Nessaja"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Cleveland Rockstars"
+               "text":"Maria (I Like It Loud)"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Boston Rebels"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Washington D.C. Supremes"
+               "text":"Suavemente"
             }
          ],
          "us":true
@@ -8506,97 +8456,62 @@
       {
          "x":false,
          "id":55256,
-         "text":"Staffeln von <i>Survivor<\/i>",
+         "text":"Farben in der Flagge von Südafrika",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Survivor: Redemption Island<\/i>"
+               "text":"schwarz"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Survivor: Millennials vs. Gen X<\/i>"
+               "text":"weiß"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Survivor: The Amazon<\/i>"
+               "text":"rot"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Survivor: All-Stars<\/i>"
+               "text":"blau"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Survivor: One World<\/i>"
+               "text":"grün"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Survivor: Heroes vs. Villains<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Survivor: Blood vs. Water<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Survivor: David vs. Goliath<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Survivor: Ghost Island<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Survivor: Edge of Extinction<\/i>"
+               "text":"gelb"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Survivor: Purgatory<\/i>"
+               "text":"orange"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Survivor: Isle of Man<\/i>"
+               "text":"grau"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Survivor: No Survivors<\/i>"
+               "text":"lila"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Survivor: Land of the Lost<\/i>"
+               "text":"pink"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Survivor: Divas<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>Survivor: X\u2019s vs. O\u2019s<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>Survivor: Hotties vs. Notties<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>Survivor: Weirdos vs. Studs<\/i>"
+               "text":"beige"
             }
          ],
          "us":true
