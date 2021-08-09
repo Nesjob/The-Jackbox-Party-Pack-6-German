@@ -125,7 +125,7 @@
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "sie sind eigentlich keine BrÃ¼der"
+                    "text": "sie sind eigentlich keine Brüder"
                 },
                 {
                     "controllerClass": "",
@@ -185,7 +185,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "stehen für"
+                    "text": "Notfall"
                 },
                 {
                     "controllerClass": "",
@@ -194,7 +194,7 @@
                 {
                     "correct": true,
                     "controllerClass": "",
-                    "text": "empfangene Nachricht"
+                    "text": "verstanden"
                 }
             ]
         },
@@ -205,11 +205,11 @@
             "pic": false,
             "us": true,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Ich lasse Sie gehen, wenn Sie herausfinden können, welche dieser Sendungen eine Hulu-Originalserie ist!",
+            "text": "[EventName=HOST/AltHost]Ich lasse Sie gehen, wenn Sie herausfinden können, welche dieser Sendungen eine Netflix-Originalserie ist!",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "<i>The Crown</i>"
+                    "text": "<i>The Kicks</i>"
                 },
                 {
                     "controllerClass": "",
@@ -217,12 +217,12 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>The OA</i>"
+                    "text": "<i>The Widow</i>"
                 },
                 {
                     "correct": true,
                     "controllerClass": "",
-                    "text": "<i>The Handmaid's Tale</i>"
+                    "text": "<i>The Witcher</i>"
                 }
             ]
         },
@@ -233,7 +233,7 @@
             "pic": false,
             "us": false,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Um zu beweisen, dass Sie unschuldig sind, sagen Sie mir einfach, welches Zitat Rene Descartes zugeschrieben wird.",
+            "text": "[EventName=HOST/AltHost]Um zu beweisen, dass Sie unschuldig sind, sagen Sie mir einfach, welches Zitat René Descartes zugeschrieben wird.",
             "choices": [
                 {
                     "controllerClass": "",
@@ -261,7 +261,7 @@
             "pic": false,
             "us": false,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Welcher KÃ¼nstler hatte eine Vorliebe fÃ¼r das Malen von Seerosen?",
+            "text": "[EventName=HOST/AltHost]Welcher Künstler hatte eine Vorliebe für das Malen von Seerosen?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -289,7 +289,7 @@
             "pic": false,
             "us": true,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Ich lasse Sie gehen, wenn Sie mir sagen kÃ¶nnen, wer die Hauptrolle in Jordan Peele's <i>Us</i> spielte.",
+            "text": "[EventName=HOST/AltHost]Ich lasse Sie gehen, wenn Sie mir sagen können, wer die Hauptrolle in Jordan Peele's <i>Us</i> spielte.",
             "choices": [
                 {
                     "controllerClass": "",
@@ -317,7 +317,7 @@
             "pic": false,
             "us": true,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Sie kÃ¶nnen Ihren Namen reinwaschen, wenn Sie mir sagen, welches ein Naughty by Nature-Song ist.",
+            "text": "[EventName=HOST/AltHost]Sie können Ihren Namen reinwaschen, wenn Sie mir sagen, welches ein Naughty by Nature-Song ist.",
             "choices": [
                 {
                     "controllerClass": "",
@@ -429,7 +429,7 @@
             "pic": false,
             "us": false,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Welcher dieser Weine ist traditionell der krÃ¤ftigste und dunkelste?",
+            "text": "[EventName=HOST/AltHost]Welcher dieser Weine ist traditionell der kräftigste und dunkelste?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -485,7 +485,7 @@
             "pic": false,
             "us": false,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Wie wÃ¼rden Sie die Architektur des Rokoko charakterisieren?",
+            "text": "[EventName=HOST/AltHost]Wie würden Sie die Architektur des Rokoko charakterisieren?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -498,7 +498,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "Neoklassizistische freistehende SÃ¤ulen"
+                    "text": "Neoklassizistische freistehende Säulen"
                 },
                 {
                     "controllerClass": "",
@@ -517,7 +517,7 @@
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "schildkröte"
+                    "text": "Schildkröte"
                 },
                 {
                     "controllerClass": "",

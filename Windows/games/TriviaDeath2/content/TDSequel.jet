@@ -24,7 +24,7 @@
             "minSequel": 2,
             
             "tag": "NOT",
-            "playerNamePrefix": "Not ",
+            "playerNamePrefix": "Nicht ",
 
             "text": {
                 "main": "19 Jahre später",
@@ -37,7 +37,7 @@
             "tag": "AM",
 
             "text": {
-                "lowerThird": "3:01 a.m."
+                "lowerThird": "3:01 Uhr nachts"
             }
         }, {
             "id": "00000004",
@@ -260,7 +260,7 @@
             "minSequel": 2,
 
             "tag": "CAPT",
-            "playerNamePrefix": "Capt ",
+            "playerNamePrefix": "Capt. ",
 
             "text": {
                 "main": "15 Jahre später",

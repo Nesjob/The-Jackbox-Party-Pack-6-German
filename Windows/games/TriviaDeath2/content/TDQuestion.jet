@@ -3973,7 +3973,7 @@
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": Nukleus"
+                    "text": "Nukleus"
                 }
             ]
         },
@@ -4029,7 +4029,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": Kraft"
+                    "text": "Kraft"
                 }
             ]
         },
@@ -4617,7 +4617,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": Der große Brand von Chicago"
+                    "text": "Der große Brand von Chicago"
                 }
             ]
         },
@@ -9360,7 +9360,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": Wie lautet der Titel eines Gemäldes von Vincent van Gogh?",
+            "text": "Wie lautet der Titel eines Gemäldes von Vincent van Gogh?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -9461,7 +9461,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": Boston crab"
+                    "text": "Boston crab"
                 }
             ]
         },
@@ -11277,7 +11277,8 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "Nokia
+                    "text": "Nokia"
+                },
                 {
                     "controllerClass": "",
                     "text": "Siemens"
@@ -14152,7 +14153,7 @@
                 {
                     "controllerClass": "",
                     "text": "Nero"
-                },s
+                },
                 {
                     "controllerClass": "",
                     "correct": true,
@@ -14880,7 +14881,7 @@
                 {
                     "controllerClass": "",
                     "text": "auf einem IZOD-Hemd"
-                },Grad Oechsle
+                },
                 {
                     "controllerClass": "",
                     "text": "auf einem Louis Vuitton-Hemd"
@@ -15252,7 +15253,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": im 16. Jahrhundert nach Christus"
+                    "text": "im 16. Jahrhundert nach Christus"
                 },
                 {
                     "controllerClass": "",
@@ -24403,7 +24404,8 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "Zap-MaticJazmin Garce
+                    "text": "Zap-MaticJazmin Garce"
+                },
                 {
                     "controllerClass": "",
                     "text": "Eric Alexandre"

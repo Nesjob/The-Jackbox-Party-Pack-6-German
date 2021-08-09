@@ -288,7 +288,7 @@
       {
          "x":false,
          "id":55302,
-         "text":"Backe backe Kuchen: Wer will guten Kuchen backen, der muss haben 7 Sachen. Welche sind dabei?",
+         "text":"<i>Backe Backe Kuchen</i> Zutaten",
          "choices":[
             {
                "difficulty":0,
@@ -1691,7 +1691,7 @@
       {
          "x":false,
          "id":55270,
-         "text":"Arthropoden",
+         "text":"Gliederfüßer",
          "choices":[
             {
                "difficulty":0,
@@ -2508,7 +2508,7 @@
       {
          "x":false,
          "id":55825,
-          "text": "Wer hat einen Grammy und einen Oscar gewonnen?",
+          "text": "Hat einen Grammy und einen Oscar gewonnen",
     "choices": [{
             "difficulty": 0,
             "correct": true,
@@ -2556,7 +2556,7 @@
       {
          "x":false,
          "id":55826,
-         "text":"<i>Matrix<\/i> Charactere",
+         "text":"<i>Matrix<\/i> Charaktere",
          "choices":[
             {
                "difficulty":-1,
@@ -2762,7 +2762,7 @@
       {
          "x":false,
          "id":55335,
-         "text": "Welche/r Schauspieler/in hat in mehr als 150 Hollywood-Filmen mitgespielt?",
+         "text": "Schauspieler/in mit einer Rolle in mehr als 150 Hollywood-Filmen",
     "choices": [{
             "difficulty": 0,
             "correct": true,
@@ -3667,75 +3667,75 @@
       {
          "x":false,
          "id":55935,
-         "text":"Disney Zeichentrickfilme",
-         "choices":[
+         "text":"Disney Animationsfilme",
+         "choices": [
             {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Sleeping Beauty<\/i>"
-            },
-            {
-               "difficulty":-1,
-               "correct":true,
-               "text":"<i>The Little Mermaid<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Mulan<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Moana<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Tangled<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Bambi<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Hercules<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Tarzan<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Pocahontas<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>The Last Unicorn<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>Shrek<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>The Prince of Egypt<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>The Swan Princess<\/i>"
-            }
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Dornröschen</i>"
+				},
+				{
+					"difficulty": -1,
+					"correct": true,
+					"text": "<i>Arielle, die Meerjungfrau</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Mulan</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Vaiana</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Rapunzel</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Bambi</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Hercules</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Tarzan</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Pocahontas</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Das letzte Einhorn</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Shrek</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Der Prinz von Ägypten</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Die Schwanenprinzessin</i>"
+				}
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -4424,7 +4424,7 @@
       {
          "x":false,
          "id":55507,
-          "text": "Welche Simpsons-Charaktere wurden nicht von Hank Azaria synchronisiert?",
+          "text": "Simpsons-Charaktere von Hank Azaria synchronisiert",
     "choices": [{
             "difficulty": 0,
             "correct": true,
@@ -4472,7 +4472,7 @@
       {
          "x":false,
          "id":55510,
-         "text": "Welche Personen waren Synchronsprecher von Maggie Simpson?",
+         "text": "Synchronsprecher von Maggie Simpson",
     "choices": [{
             "difficulty": 0,
             "correct": true,
@@ -4568,7 +4568,7 @@
       {
          "x":false,
          "id":55521,
-          "text": "Welche/r internationale Sänger/in hat schon mal einen Song in deutscher Sprache herausgebracht?",
+          "text": "Sänger, die einen deutschen Song veröffentlichten",
     "choices": [{
             "difficulty": 0,
             "correct": true,
@@ -5071,7 +5071,7 @@
       {
          "x":false,
          "id":55623,
-           "text": "Wer trat als Bond-Bösewicht in Erscheinung?",
+           "text": "Bond-Bösewichte",
     "choices": [{
             "difficulty": 0,
             "correct": true,
@@ -5119,7 +5119,7 @@
       {
          "x":false,
          "id":55625,
-         "text": "Welche Länder grenzen an Afghanistan?",
+         "text": "Länder, die an Afghanistan grenzen",
     "choices": [{
             "difficulty": 0,
             "correct": true,
@@ -8058,7 +8058,7 @@
         }, {
             "difficulty": 0,
             "correct": false,
-            "text": "Mühlheim am Main"
+            "text": "Herne"
         }, {
             "difficulty": 0,
             "correct": false,
@@ -8270,7 +8270,7 @@
       {
          "x":false,
          "id":55763,
-         "text":"Straßen im deutschsprachigen <i>Monopoly<\/i>",
+         "text":"<i>Monopoly<\/i> Straßen",
          "choices":[
             {
                "difficulty":0,
@@ -8728,7 +8728,7 @@
       {
          "x":false,
          "id":55262,
-         "text":"In der unteren Zeile einer QWERTY-Tastatur",
+         "text":"In der unteren Zeile einer QWERTZ-Tastatur",
          "choices":[
             {
                "difficulty":0,
@@ -8801,96 +8801,96 @@
       {
          "x":false,
          "id":55774,
-         "text":"Gibts bei Taco Bell",
-         "choices":[
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Mexican Pizza"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Meximelt"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Quesarito"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Spicy Tostada"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Rattlesnake Fries"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Cheesy Roll-Up"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Breakfast Crunchwrap"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Gordita"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Cinnamon Twists"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Tacurritos"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Famous Bowl"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Chicken Fries"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Tex Mex Tots"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Rodeo King"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Chicken Littles"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Snapper Tacos"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Mexican Pot Pie"
-            }
-         ],
-         "us":true
-      },
+         "text": "Gibts bei McDonald’s",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Netzkartoffeln"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Chicken Wings"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Crispy Shrimps"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Homestyle Crispy Chicken"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Apfeltaschen"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Big Caesar Chicken Salad"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Triple Cheeseburger"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Homestyle Chicken Bucket"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "McWrap Chicken Honig-Senf"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Triple Fish TS"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Colonel TS"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Gourmet BBQ Burger"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Chilli Cheese Crunch Burger"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Hähnchenteile"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Twister"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Double Steakhouse"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Chilli Cheese Burger"
+				}
+			],
+			"us": false
+		},
       {
          "x":false,
          "id":55267,
@@ -10427,7 +10427,7 @@
       "text": "Karlsruhe"
     }
   ],
-  "text": "Deutsche Städte über 500.000 Einwohner (Stand: 2020)",
+  "text": "Deutsche Städte über 500.000 Einwohner (2020)",
   "us": false
       },
       {
@@ -12116,75 +12116,105 @@
       {
          "x":false,
          "id":56012,
-         "text":"Boat-Related Occupations",
-         "choices":[
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"coxswain"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"commodore"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"buccaneer"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"gondolier"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"longshoreman"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"skipper"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Viking"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"colonel"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"fletcher"
-            },
-            {
-               "difficulty":-1,
-               "correct":false,
-               "text":"bailiff"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"squire"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"pinsetter"
-            },
-            {
-               "difficulty":-1,
-               "correct":false,
-               "text":"coroner"
-            }
-         ],
-         "us":true
+         "text": "Gewinner von <i>Germany’s Next Topmodel</i>",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Lena Gercke"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Barbara Meier"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Sara Nuru"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Alisar Ailabouni"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Jana Beller"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Luisa Hartema"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Lovelyn Enebechi"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Stefanie Giesinger"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Vanessa Fuchs"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Kim Hnizdo"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Tyra Sanchez"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Marie Nasemann"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Maureen Ugodi"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Pia Riegel"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Christina Peno"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Romina Brennecke"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Barbara Schöneberger"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Frauke Ludowig"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Sonja Zietlow"
+				}
+			],
+			"us": false
       },
       {
          "x":false,
@@ -12415,131 +12445,81 @@
       {
          "x":false,
          "id":55153,
-         "text":"Olsen Twins Movies",
-         "choices":[
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>New York Minute<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>It Takes Two<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Holiday in the Sun<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Our Lips Are Sealed<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Passport to Paris<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>When in Rome<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Winning London<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Billboard Dad<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Switching Goals<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>To Grandmother\u2019s House We Go<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>Getting There<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"<i>How the West Was Fun<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>Twin It To Win It<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>The Princess and the Pauper<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>Kettle Belles<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>The Parent Trap<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>Sisters<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>Off to Berlin<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>Moscow Madness<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>Mary-Kate and Ashley Rock Switzerland<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>EuroTrip<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>Aye, Matey!<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>Twinning<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>Paris Runway: Our Way<\/i>"
-            }
-         ],
-         "us":true
-      },
+         "text": "Til Schweiger Filme",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Schweinsteiger Memories</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Klassentreffen 1.0</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Honig im Kopf</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Großstadtklein</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Schutzengel</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Kokowääh</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>One Way</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Keinohrküken</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Army of the Dead</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Schlussmacher</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Das perfekte Geheimnis</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Traumfrauen</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Zweiohrhasen</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Ey Mann, wo is' mein Auto?</i>"
+				}
+			],
+			"us": false
+		},
       {
          "x":false,
          "id":55154,
@@ -12666,333 +12646,308 @@
       {
          "x":false,
          "id":55155,
-         "text":"Synchronized Swimming Positions",
-         "choices":[
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"the tub"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"the knight"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"the crane"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"the heron"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"the side fishtail"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"the flamingo"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"the ballet leg"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"the boost"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"the back tuck"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"the brother"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"the twisted lunge"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"the Capricorn"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"the bucking bronco"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"the Ionesco"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"the boulder"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"the chopsticks"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"the courtesy kick"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"the clapback"
-            }
-         ],
-         "us":true
-      },
+         "text": "Gregs Tagebücher",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Von Idioten umzingelt!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Gibt's Probleme?</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Jetzt reicht's!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Ich war's nicht!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Geht's noch?</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Keine Panik!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Dumm gelaufen!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Echt übel!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Böse Falle!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>So ein Mist!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Alles Käse!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Und Schüss!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Eiskalt erwischt!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Voll daneben!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "<i>Halt mal die Luft an!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Was soll das!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Jetzt erst recht!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Hoch hinaus!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Schluss mit lustig!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Zu nett für diese Welt!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Alles cool!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Kein Plan!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Außer Kontrolle!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Viel zu viel!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Das geht nicht!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Richtig gemein!</i>"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "<i>Ach menno!</i>"
+				}
+			],
+			"us": false
+		},
       {
          "x":false,
          "id":55158,
-         "text":"Career Cards in the \u201cModern\u201d Edition of <i>The Game of Life<\/i>",
-         "choices":[
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Singer"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Secret Agent"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Veterinarian"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Teacher"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Doctor"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Professional Athlete"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Scientist"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Fashion Designer"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Lawyer"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Inventor"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Chef"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Race Car Driver"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Dancer"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Police Officer"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Firefighter"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Video Game Designer"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Explorer"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Marketing Strategist"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Social Media Influencer"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Campaign Manager"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Senator"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Surf Instructor"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Writer"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Barista"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Improviser"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Boat Captain"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Soldier"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Youtuber"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Aquarium CEO"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Defense Specialist"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Prison Guard"
-            }
-         ],
-         "us":true
-      },
+         "text": "Bereiche im <i>Phantasialand</i>",
+			"choices": [
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Berlin"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Mexico"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "China Town"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Mystery"
+				},
+				{
+					"difficulty": 1,
+					"correct": true,
+					"text": "Fantasy"
+				},
+				{
+					"difficulty": 0,
+					"correct": true,
+					"text": "Deep in Africa"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Zuckerschloss"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Eiscreme See"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Limofälle"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Discovery"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Tropical Forest"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Polarlicht Center"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Crave Cave"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "New England"
+				},
+				{
+					"difficulty": 0,
+					"correct": false,
+					"text": "Hollywood Hills"
+				},
+				{
+					"difficulty": -1,
+					"correct": false,
+					"text": "Berlin-Neuköllner Viertel"
+				},
+				{
+					"difficulty": 1,
+					"correct": true,
+					"text": "Wunderstraße"
+				}
+			],
+			"us": false
+		},
       {
          "x":false,
          "id":55165,
-         "text":"Toilet Paper Brands",
+         "text":"Toilettenpapier Marken",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"Angel Soft"
+               "text":"Hakle"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Charmin Ultra"
+               "text":"ZEWA"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Cottonelle"
+               "text":"Sanft & Sicher"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Naturelle"
+               "text":"Tempo"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Quilted Northern"
+               "text":"Danke"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Scott"
+               "text":"Regina"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Seventh Generation"
+               "text":"alouette"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Silk\u2019n Soft"
+               "text":"Presto!"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"White Cloud"
+               "text":"The Cheeky Panda"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Windsoft"
+               "text":"Renova"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Soft\u2019N Gentle"
+               "text":"Scottex"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Sorbent"
+               "text":"Kleenex"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Creamy Papier"
+               "text":"Creamy"
             },
             {
                "difficulty":0,
@@ -13040,82 +12995,82 @@
                "text":"Comfort Cheer"
             }
          ],
-         "us":true
+         "us": false
       },
       {
          "x":false,
          "id":55166,
-         "text":"Tomato Varieties",
+         "text":"Arten von Tomaten",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"grape"
+               "text":"Stab"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"beefsteak"
+               "text":"Busch"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"cherry"
+               "text":"Strauch"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"plum"
+               "text":"Cocktail"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Roma"
+               "text":"Cherry"
             },
             {
                "difficulty":-1,
                "correct":true,
-               "text":"heirloom"
+               "text":"Roma"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Early Girl"
+               "text":"San-Marzano"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Brandywine"
+               "text":"Fleisch"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Better Boy"
+               "text":"Paprika"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Campari"
+               "text":"Honig"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"patio"
+               "text":"Wild"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"raisin"
+               "text":"Rosinen"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"granular"
+               "text":"Korn"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"peapod"
+               "text":"Erbsen"
             },
             {
                "difficulty":0,
@@ -13125,7 +13080,7 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"Catalyst"
+               "text":"Katalyse"
             },
             {
                "difficulty":0,
@@ -13135,15 +13090,15 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"planetary"
+               "text":"Planetary"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Cartesian"
+               "text":"Kartesisch"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
