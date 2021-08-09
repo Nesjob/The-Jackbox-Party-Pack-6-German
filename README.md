@@ -1,8 +1,8 @@
 ***Trivia Murder Party 2***
 -
-Translation by
+Translation by Katharina Hildegard, Fry Master, Erizzle
 
-Synchro by
+Synchro by Louis Coyote
 
 ***Role Models***
 -
