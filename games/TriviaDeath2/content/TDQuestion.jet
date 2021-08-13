@@ -3842,7 +3842,7 @@
             "x": false,
             "id": 54875,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Welches Ministerium hat in der Bundesrepublik Deutschland nie existiert?",
             "choices": [
@@ -3982,26 +3982,26 @@
             "x": false,
             "id": 54933,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie lautete der Name von Karens unsichtbarem Ehemann in der Fernsehserie <i>Will & Grace</i>?",
+            "text": "Verdammt! Woher bekomme ich Hagebutten?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Tom"
+                    "text": "Von Eselsrosen"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Dave"
+                    "text": "Von Schafsrosen"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Von Katzenrosen"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Stan"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Rick"
+                    "text": "Von Hundsrosen"
                 }
             ]
         },
@@ -4038,26 +4038,26 @@
             "x": false,
             "id": 54938,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welcher Film basiert auf der realen Beziehung der Drehbuchautoren Kumail Nanjiani und Emily V. Gordon?",
+            "text": "Wo finde ich Wombats?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "<i>Die Fünf-Jahres-Verlobung</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>Der Spätblüher</i>"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "<i>The Big Sick</i>"
+                    "text": "<i>Australien</i>"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Friends with Benefits</i>"
+                    "text": "<i>Asien</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Afrika</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Amerika</i>"
                 }
             ]
         },
@@ -4178,26 +4178,26 @@
             "x": false,
             "id": 54956,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "In welcher dieser Fernsehsendungen spielt Ariana Grande NICHT mit?",
+            "text": "Welcher Gassenhauer stammt nicht von Roberto Blanco?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "<i>Siegesgewiss</i>"
+                    "text": "<i>Heute so, morgen so</i>"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Scream Queens</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>Sam & Cat</i>"
+                    "text": "<i>Ein bisschen Spaß muss sein</i>"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "<i>Zauberer vom Waverly Place</i>"
+                    "text": "<i>Schöne Maid</i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Die Puppenspieler von Mexiko</i>"
                 }
             ]
         },
@@ -4234,26 +4234,26 @@
             "x": false,
             "id": 55000,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "John James Audubon war bekannt für das Zeichnen und Malen von was?",
+            "text": "Wer hat im Film <i>Zärtliche Chaoten II</i> mit Thomas Gottschalk in der Hauptrolle ebenfalls mitgespielt?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Autos"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Boote"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Hunde"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "Vögel"
+                    "text": "David Hasselhoff"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Jack Lemmon"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Paul Newman"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Leonardo DiCaprio"
                 }
             ]
         },
@@ -5326,26 +5326,26 @@
             "x": false,
             "id": 55561,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welche dieser ominösen Warnungen ist richtig?",
+            "text": "Welche Farben haben eigentlich Rapsblüten?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Its to late!"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "It's to late!"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Its too late!"
+                    "text": "Rot"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Es ist zu spät!"
+                    "text": "Gelb"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Grün"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Blau"
                 }
             ]
         },
@@ -5578,26 +5578,26 @@
             "x": false,
             "id": 55624,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Was passiert der Legende nach, wenn das Murmeltier seinen Schatten sieht?",
+            "text": "Welche dieser Parteien ist am ältesten?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Noch acht Wochen Winter"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Noch sieben Wochen Winter"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "Noch sechs Wochen Winter"
+                    "text": "SPD"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Vorfrühling"
+                    "text": "CDU"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "CSU"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Bündnis 90 Die Grünen"
                 }
             ]
         },
@@ -5606,26 +5606,26 @@
             "x": false,
             "id": 55649,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welche dieser 80er Jahre Sitcoms handelt NICHT von einem Außerirdischen?",
+            "text": "Welches Abzeichen kann ich bei der Deutschen Reiterlichen Vereinigung bekommen?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "<i>ALF</i>"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "<i>Small Wonder</i>"
+                    "text": "Kleines Hufeisen"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Mork & Mindy</i>"
+                    "text": "Kleiner Steigbügel"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Out of This World</i>"
+                    "text": "Kleiner Zügel"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Kleiner Halfter"
                 }
             ]
         },
@@ -5746,26 +5746,26 @@
             "x": false,
             "id": 55665,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
-            "text": "Welches Restaurant besitzt das Markenzeichen für \"Death By Chocolate\"?",
+            "text": "Wie werden englische Schuhgrößen angegeben?",
             "choices": [
                 {
                     "controllerClass": "",
+                    "text": "Walnussschale"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Fingerbreite"
+                },
+                {
+                    "controllerClass": "",
                     "correct": true,
-                    "text": "Bennigan's"
+                    "text": "Gerstenkörner"
                 },
                 {
                     "controllerClass": "",
-                    "text": "The Olive Garden"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "TGI Fridays"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Die Cheesecake Factory"
+                    "text": "Wimpernlängen"
                 }
             ]
         },
@@ -5830,26 +5830,26 @@
             "x": false,
             "id": 55707,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "In welchem dieser Hotels würden Sie sich laut Laufzeit am längsten aufhalten?",
+            "text": "Wer moderierte eigentlich die ersten beiden Staffeln der TV-Show <i>Let's Dance</i>?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "<i>Hotel Transsilvanien</i>"
+                    "text": "Hugo Egon Balder"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Stefan Raab"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Günther Jauch"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "<i>Hotel Ruanda</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>Das Grand Budapest Hotel</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>Hotel for Dogs</i>"
+                    "text": "Hape Kerkeling"
                 }
             ]
         },
@@ -5858,26 +5858,26 @@
             "x": false,
             "id": 55720,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Was macht Tom Hanks in <i>Big</i> groß?",
+            "text": "In welchem Jahr wurde das europäische Parlament gegründet?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "eine Xanadu-Maschine"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "eine Karnac-Maschine"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "eine Prospero-Maschine"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "eine Zoltar-Maschine"
+                    "text": "1952"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "1980"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "1992"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "2004"
                 }
             ]
         },
@@ -6278,26 +6278,26 @@
             "x": false,
             "id": 54028,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wählen Sie das Buch von Nicholas Sparks, in dem beide Liebespartner überleben!",
+            "text": "Was verbrauchen die Deutschen pro Kopf im Jahr am meisten?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "<i>The Notebook</i>"
+                    "text": "Milch"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "<i>The Choice</i>"
+                    "text": "Bohnenkaffee"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>A Walk to Remember</i>"
+                    "text": "Mineralwasser"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Dear John</i>"
+                    "text": "Bier"
                 }
             ]
         },
@@ -6390,26 +6390,26 @@
             "x": false,
             "id": 54037,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie sagt Emily Post, dass ich einen Tisch decken soll?",
+            "text": "Wer war nochmal Tanja Szewczenko?",
             "choices": [
                 {
                     "controllerClass": "",
+                    "text": "Rennrodlerin"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Boxerin"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Springreiterin"
+                },
+                {
+                    "controllerClass": "",
                     "correct": true,
-                    "text": "Gabeln auf der linken Seite, Messer auf der rechten Seite"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Messer auf der linken Seite, Gabeln auf der linken Seite"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Gabeln auf der linken Seite, Löffel auf der linken Seite"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Links die Messer, rechts die Löffel"
+                    "text": "Eiskunstläuferin"
                 }
             ]
         },
@@ -6894,26 +6894,26 @@
             "x": false,
             "id": 54072,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
-            "text": "Welches davon ist KEIN Album von Janelle Monae?",
+            "text": "Das erste Oktoberfest wurde 1810 in München veranstaltet zu Ehren von Kronprinz Ludwig und Prinzessin...?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "<i>The Electric Lady</i>"
+                    "text": "Elisabeth"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Henriette"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "<i>Sex Machina</i>"
+                    "text": "Therese"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>The ArchAndroid</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>Dirty Computer</i>"
+                    "text": "Sophie"
                 }
             ]
         },
@@ -7062,26 +7062,26 @@
             "x": false,
             "id": 54084,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welches dieser Filmmonster tötet KEINEN Menschen?",
+            "text": "Mit wem ist Gutemine in den Asterix-Comics verheiratet?",
             "choices": [
                 {
                     "controllerClass": "",
+                    "text": "Automatix"
+                },
+                {
+                    "controllerClass": "",
                     "correct": true,
-                    "text": "<i>Der Babadook</i>"
+                    "text": "Majestix"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Das Ding</i>"
+                    "text": "Verleihnix"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Der Bye Bye Mann</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>Es</i>"
+                    "text": "Methusalix"
                 }
             ]
         },
@@ -12692,24 +12692,24 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Wenn ich einen Briten mit einem Engländer schlage, womit habe ich ihn dann gerade geschlagen?",
+            "text": "Wobei handelt es sich nicht um einen Wirbelsturm?",
             "choices": [
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "mit einem Schraubenschlüssel"
+                    "text": "Tsunami"
                 },
                 {
                     "controllerClass": "",
-                    "text": "mit einem Schraubenzieher"
+                    "text": "Zyklon"
                 },
                 {
                     "controllerClass": "",
-                    "text": "mit einem Hammer"
+                    "text": "Hurrikan"
                 },
                 {
                     "controllerClass": "",
-                    "text": "mit einem Schraubstock"
+                    "text": "Taifun"
                 }
             ]
         },
@@ -13112,7 +13112,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Wenn Sie von einem Tier gefressen werden, das Tausende von Zähnen hat, werden Sie von was zerkaut?",
+            "text": "Wenn ihr von einem Tier gefressen werdet, das Tausende von Zähnen hat, werdet ihr von was zerkaut?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -15658,26 +15658,26 @@
             "x": false,
             "id": 55436,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
-            "text": "Wo wurde <i>Cars 2</i>-Rennfahrer Rip Clutchgoneski geboren und aufgewachsen?",
+            "text": "Verdammt, was sind Seewespen?",
             "choices": [
                 {
                     "controllerClass": "",
+                    "text": "Fische"
+                },
+                {
+                    "controllerClass": "",
                     "correct": true,
-                    "text": "Republic of New Rearendia"
+                    "text": "Quallen"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Vereinigte Staaten von Verbrennung"
+                    "text": "Insekten"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Demokratische Republik der Piepser"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Königreich der Transmissionia"
+                    "text": "Muscheln"
                 }
             ]
         },
@@ -15686,26 +15686,26 @@
             "x": false,
             "id": 55440,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welcher Film wurde NICHT von John Hughes gedreht?",
+            "text": "Mit welchem Kleidungsstück gewann Karl Lagerfeld 1955 einen internationalen Wettbewerb?",
             "choices": [
                 {
                     "controllerClass": "",
+                    "text": "Strohhut"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Abendkleid"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Baumwollhose"
+                },
+                {
+                    "controllerClass": "",
                     "correct": true,
-                    "text": "<i>Fast Times at Ridgemont High</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>The Breakfast Club</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>Sechzehn Kerzen</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>Ferris Bueller's Day Off</i>"
+                    "text": "Wollmantel"
                 }
             ]
         },
@@ -15714,26 +15714,26 @@
             "x": false,
             "id": 55446,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie viel kostet es, einen Vokal bei <i>Glücksrad</i> zu kaufen?",
+            "text": "Was war nochmal der Künstlername von Horst Eckert?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "$2,000"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "$1,000"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "$500"
+                    "text": "Elton"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "$250"
+                    "text": "Janosch"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Heino"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Brösel"
                 }
             ]
         },
@@ -15826,26 +15826,26 @@
             "x": false,
             "id": 55463,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie ist das Fleischkleid von Lady Gaga in der Rock & Roll Hall of Fame erhalten?",
+            "text": "Wer spielte den James Bond im Film <i>Man lebt nur zweimal</i>?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Eingefroren"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "Getrocknet"
+                    "text": "Sean Connery"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Er ist roh, aber vollgepumpt mit Chemikalien"
+                    "text": "George Lazenby"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Das Kleid wurde ausrangiert. Stattdessen hängt ein Foto"
+                    "text": "Pierce Brosnan"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Roger Moore"
                 }
             ]
         },
@@ -15854,7 +15854,7 @@
             "x": false,
             "id": 55464,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Wo ist SpongeBob Schwammkopf beschäftigt?",
             "choices": [
@@ -15966,9 +15966,9 @@
             "x": false,
             "id": 55491,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wenn Sie Polo zu Pferd spielen, womit schlagen Sie den Ball?",
+            "text": "Was brauch ich für's Krocket?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -15981,11 +15981,11 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "Crosse"
+                    "text": "Natrium"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Fledermaus"
+                    "text": "Kartenspiel"
                 }
             ]
         },
@@ -16022,26 +16022,26 @@
             "x": false,
             "id": 55497,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wo hängen Archie, Jughead, Betty und Veronica ab?",
+            "text": "Wo hängen Udo Lindenberg und ich immer ab?",
             "choices": [
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Pop's Chock'lit Shoppe"
+                    "text": "Hamburg"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Nemo's Pizza"
+                    "text": "Berlin"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Central Perk"
+                    "text": "Köln"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Luke's Diner"
+                    "text": "Erfurt"
                 }
             ]
         },
@@ -16106,7 +16106,7 @@
             "x": false,
             "id": 55508,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Was sind die beiden Hände, die einen traditionellen irischen Claddagh-Ring halten?",
             "choices": [
@@ -16134,26 +16134,26 @@
             "x": false,
             "id": 55514,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wer moderierte die britische Spielshow <i>QI</i> in den ersten 13 Staffeln?",
+            "text": "Was war NICHT am 9. November?",
             "choices": [
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Stephen Fry"
+                    "text": "Ende des II. Weltkriegs"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Rowan Atkinson"
+                    "text": "Fall der Berliner Mauer"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Jo Brand"
+                    "text": "Reichsprogromnacht"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Sandi Toksvig"
+                    "text": "Ausrufung der deutschen Republik"
                 }
             ]
         },
@@ -16246,7 +16246,7 @@
             "x": false,
             "id": 55542,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Wie viel hat das Olympische Komitee der USA bei den Olympischen Spielen 2018 den Sportlern für jede Goldmedaille gezahlt?",
             "choices": [
@@ -16582,26 +16582,26 @@
             "x": false,
             "id": 55585,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie viel vom Gewicht eines Hühnereis kommt durch die Schale zustande?",
+            "text": "Was war 2011 die Blume des Jahres?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "0.02"
+                    "text": "Nasenbrech"
                 },
                 {
                     "controllerClass": "",
-                    "text": "0.07"
+                    "text": "Genickbrech"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "0.11"
+                    "text": "Beinbrech"
                 },
                 {
                     "controllerClass": "",
-                    "text": "0.17"
+                    "text": "Armbrech"
                 }
             ]
         },
@@ -16638,26 +16638,26 @@
             "x": false,
             "id": 55599,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wo war Präsident Richard Nixon, als er bekanntlich behauptete: \"Ich bin kein Gauner\"?",
+            "text": "Welchen Monat nannte man früher den \"Weidemonat\"?",
             "choices": [
                 {
                     "controllerClass": "",
+                    "text": "März"
+                },
+                {
+                    "controllerClass": "",
                     "correct": true,
-                    "text": "Disney World"
+                    "text": "Mai"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Mount Rushmore"
+                    "text": "Juli"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Kennedy Space Center"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "The White House"
+                    "text": "September"
                 }
             ]
         },
@@ -16834,26 +16834,26 @@
             "x": false,
             "id": 55902,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie lautet der Songtitel von Taylor Swifts Hommage an Frank Sinatra?",
+            "text": "Ey man, was soll ich mit meinem neuen Hygrometer messen?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "“Frankie”"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "“Blue Eyes”"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "“The Sultan of Swoon”"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "This song does not exist."
+                    "text": "Die Luftfeuchtigkeit"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Den Luftdruck"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Den Salzgehalt"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Die Niederschlagsmenge"
                 }
             ]
         },
@@ -16862,7 +16862,7 @@
             "x": false,
             "id": 56009,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
             "text": "Ich habe eine verheerende Schalentier-Allergie. Welches dieser Lebensmittel wird mich NICHT umbringen?",
             "choices": [
@@ -16918,7 +16918,7 @@
             "x": false,
             "id": 56042,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Wer steuerte kein Evangelium zum neuen Testament der Bibel bei?",
             "choices": [
@@ -16946,7 +16946,7 @@
             "x": false,
             "id": 53995,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Wie hieß die Festival-Reihe, die der Musiksender MTV an Universitäten veranstaltete?",
             "choices": [
@@ -17002,26 +17002,26 @@
             "x": false,
             "id": 53998,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
-            "text": "Wie heißt ein rockiger Junggesellenabschied, den ich für meinen lieben Freund in London schmeiße?",
+            "text": "Zu welchen Zähnen sagt mein Zahnarzt immer <i>Achter</i>",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "buck’s night"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "bachelor experience"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "stag do"
+                    "text": "Weisheitszähne"
                 },
                 {
                     "controllerClass": "",
-                    "text": "hen party"
+                    "text": "Schneidezähne"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Milchzähne"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Backenzähne"
                 }
             ]
         },
@@ -17030,26 +17030,26 @@
             "x": false,
             "id": 54011,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welches Musical ist die Adaption des Theaterstücks <i>Pygmalion</i>?",
+            "text": "Was sind Seebären?",
             "choices": [
                 {
                     "controllerClass": "",
+                    "text": "Zungenmuscheln"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Augenfische"
+                },
+                {
+                    "controllerClass": "",
                     "correct": true,
-                    "text": "<i>My Fair Lady</i>"
+                    "text": "Ohrenrobben"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>The Music Man</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>Guys and Dolls</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>One Malion Pygs</i>"
+                    "text": "Nasenvögel"
                 }
             ]
         },
@@ -17142,26 +17142,26 @@
             "x": false,
             "id": 54049,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Was ist die Wurzel des Wortes \"Leiden\" (suffer)?",
+            "text": "Was hat Mary Anderson Anfang des 20. Jahrhunderts erfunden?",
             "choices": [
+                {
+                    "controllerClass": "", 
+                    "text": "Kaffeefilter"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Kaugummi"
+                },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "von lateinisch <i>sufferre</i>"
+                    "text": "Scheibenwischanlage"
                 },
                 {
                     "controllerClass": "",
-                    "text": "von lateinisch <i>succinctus</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "von mittellateinisch <i>suffragium</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "aus dem Mittellateinischen <i>suffraganeus</i>"
+                    "text": "Sicherheitsglas"
                 }
             ]
         },
@@ -17226,26 +17226,26 @@
             "x": false,
             "id": 54087,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Bovine bedeutet Kühe. Was ist \"ovine\"?",
+            "text": "Was bedeutet das altgriechische Wort \"Apokalypse\" übersetzt?",
             "choices": [
                 {
                     "controllerClass": "",
+                    "text": "Gemetzel"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Weltuntergang"
+                },
+                {
+                    "controllerClass": "",
                     "correct": true,
-                    "text": "Schafe"
+                    "text": "Enthüllung"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Schlangen"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Krabben"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Schweine"
+                    "text": "Abenddämmerung"
                 }
             ]
         },
@@ -17394,26 +17394,26 @@
             "x": false,
             "id": 54116,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Was war die erste kalorienfreie Limonade?",
+            "text": "Was ist beim Baseball der Schlagmann?",
             "choices": [
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "No-Cal"
+                    "text": "Batter"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Diet Coke"
+                    "text": "Pitcher"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Zero Drink"
+                    "text": "Catcher"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Empty Bubbles"
+                    "text": "Umpire"
                 }
             ]
         },
@@ -17562,7 +17562,7 @@
             "x": false,
             "id": 54138,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Welcher Buchstabe kommt NICHT im Periodensystem der Elemente vor?",
             "choices": [
@@ -17702,26 +17702,26 @@
             "x": false,
             "id": 54150,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welches Mitglied der <i>Sisterhood of the Travelling Pants</i> ist die Sportliche?",
+            "text": "Was war nochmal Artikel 3 im deutschen Grundgesetz?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Lena"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "Bridget"
+                    "text": "Alle sind vor dem Gesetz gleich"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Carmen"
+                    "text": "Die Würde ist unantastbar"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Tibby"
+                    "text": "Recht auf Unversehrtheit"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Freie Religionsausübung"
                 }
             ]
         },
@@ -17786,26 +17786,26 @@
             "x": false,
             "id": 54170,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welcher dieser Filme hat die Altersfreigabe FSK 16?",
+            "text": "Auf welchem Platz steht das Brandenburger Tor?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "American Beauty"
+                    "text": "Berliner Platz"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Die Verurteilten"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Jäger des verlorenen Schatzes"
+                    "text": "Prager Platz"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Inception"
+                    "text": "Pariser Platz"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Brüsseler Platz"
                 }
             ]
         },
@@ -17898,7 +17898,7 @@
             "x": false,
             "id": 54215,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Welche Frucht in meiner wunderschönen neuen Frühstücksschüssel hat den GRÖSSTEN Kern?",
             "choices": [
@@ -18122,26 +18122,26 @@
             "x": false,
             "id": 54287,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welche Rolle hatte Ellen DeGeneres in <i>Finding Dory</i>?",
+            "text": "Welche Rolle hatte Anke Engelke in <i>Findet Dorie</i>?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "ein Clownsfisch"
+                    "text": "ein Panzerwels"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "ein blauer Zapfen"
+                    "text": "ein Paletten-Doktorfisch"
                 },
                 {
                     "controllerClass": "",
-                    "text": "ein Blaufisch"
+                    "text": "ein Blausaum Harnischwels"
                 },
                 {
                     "controllerClass": "",
-                    "text": "ein Beta-Fisch"
+                    "text": "ein Korallenwächter"
                 }
             ]
         },
@@ -18150,7 +18150,7 @@
             "x": false,
             "id": 54340,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Was befindet sich in einer Daunendecke?",
             "choices": [
@@ -18178,26 +18178,26 @@
             "x": false,
             "id": 54345,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wann ist das amerikanische Erntedankfest?",
+            "text": "Welche Kampfkunst ist nicht aus Japan?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "der dritte Donnerstag im November"
+                    "text": "Judo"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "der vierte Donnerstag im November"
+                    "text": "Taekwondo"
                 },
                 {
                     "controllerClass": "",
-                    "text": "immer 24. November"
+                    "text": "Kendo"
                 },
                 {
                     "controllerClass": "",
-                    "text": "immer wenn im November Vollmond ist"
+                    "text": "Jiu Jitsu"
                 }
             ]
         },
@@ -18206,26 +18206,26 @@
             "x": false,
             "id": 54369,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Was ist ein Schilling?",
+            "text": "Ich hab mir nen neuen 50 Zoll Fernseher gekauft. Wie viele Zentimeter sind das?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "2 Farthings"
+                    "text": "86"
                 },
                 {
                     "controllerClass": "",
-                    "text": "1 Krone"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "6 Bob"
+                    "text": "109"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "12 Pence"
+                    "text": "127"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "177"
                 }
             ]
         },
@@ -18318,26 +18318,26 @@
             "x": false,
             "id": 54392,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie nennt man diese Sache, bei der man unwillkürlich wach wird, wenn man gerade einschläft?",
+            "text": "Meine Mutter hat Weihnachten Geburtstag. Was ist eigentlich ihr Sternzeichen?",
             "choices": [
                 {
                     "controllerClass": "",
+                    "text": "Widder"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Stier"
+                },
+                {
+                    "controllerClass": "",
                     "correct": true,
-                    "text": "ein hypnischer Ruck"
+                    "text": "Steinbock"
                 },
                 {
                     "controllerClass": "",
-                    "text": "ein Klopfsprung"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "ein kranialer sensorischer Schock"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "eine Kanonenkugel in die Leere"
+                    "text": "Schütze"
                 }
             ]
         },
@@ -18458,26 +18458,26 @@
             "x": false,
             "id": 54428,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Auf welcher britischen Fernsehsendung basiert <i>Dancing with the Stars</i>?",
+            "text": "Was war 1618 und hat zum Dreißigjährigen Krieg geführt?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "<i>Dance, England!</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>Ballroom Ballgame</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>Dancing with the Czars</i>"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "<i>Strictly Come Dancing</i>"
+                    "text": "Prager Fenstersturz"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Amsterdamer Kurssturz"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Budapester Umsturz"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Wiener Kassensturz"
                 }
             ]
         },
@@ -18486,26 +18486,26 @@
             "x": false,
             "id": 54429,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Was bedeutet es, jemanden als \"milquetoast\" zu bezeichnen?",
+            "text": "Was ist der Name einer amerikanischen Neo-Classic-Automarke?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "er ist laut"
+                    "text": "Eingang"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "er ist ängstlich"
+                    "text": "Zimmer"
                 },
                 {
                     "controllerClass": "",
-                    "text": "er ist dumm"
+                    "text": "Küche"
                 },
                 {
                     "controllerClass": "",
-                    "text": "er ist weiß"
+                    "text": "Bad"
                 }
             ]
         },
@@ -18626,26 +18626,26 @@
             "x": false,
             "id": 54497,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welcher dieser Sätze stammt nicht aus dem Lied \"You're a Mean One, Mr. Grinch\"?",
+            "text": "Wie lange braucht die Erde ungefähr, um die Sonne einmal zu umkreisen?",
             "choices": [
+                {
+                    "controllerClass": "", 
+                    "text": "60 Minuten"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "24 Stunden"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "30 Tage"
+                },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "“You’re as charming as moldy cheese”"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "“Your brain is full of spiders”"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "“Your heart is full of unwashed socks”"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "“You’re a nasty wasty skunk”"
+                    "text": "12 Monate"
                 }
             ]
         },
@@ -18654,26 +18654,26 @@
             "x": false,
             "id": 54498,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wer sind Claudia, Kristy, Mary Anne und Stacey?",
+            "text": "Bei welcher Bucht chille ich immer im Süden Kubas?",
             "choices": [
                 {
                     "controllerClass": "",
+                    "text": "Pferdebucht"
+                },
+                {
+                    "controllerClass": "",
                     "correct": true,
-                    "text": "<i>The Baby-Sitters Club</i>"
+                    "text": "Schweinebucht"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Animorphs</i>"
+                    "text": "Hasenbucht"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Die Golden Girls</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>Das A-Team</i>"
+                    "text": "Rinderbucht"
                 }
             ]
         },
@@ -18682,26 +18682,26 @@
             "x": false,
             "id": 54504,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welches ist NICHT eines der Rap-Alben von Shaquille O'Neal?",
+            "text": "Welche Kartenfarbe zählt beim Skat am meisten?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "<i>Shaq Diesel</i>"
+                    "text": "Pik>"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "<i>Shaq Attaq</i>"
+                    "text": "Kreuz"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Shaq Fu: Da Return</i>"
+                    "text": "Karo"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Du kannst die Herrschaft nicht aufhalten</i>"
+                    "text": "Herz"
                 }
             ]
         },
@@ -18710,26 +18710,26 @@
             "x": false,
             "id": 54505,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wer wird in dem Song \"Baby Shark\" NICHT namentlich genannt?",
+            "text": "Wer spielt in der Band Tokio Hotel das Schlagzeug?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Mami Hai"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Oma Hai"
+                    "text": "Bill"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Bruder Hai"
+                    "text": "Gustav"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Papa Hai"
+                    "text": "Tom"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Georg"
                 }
             ]
         },
@@ -18794,26 +18794,26 @@
             "x": false,
             "id": 54539,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welche Farbe von M&M's wurde 1995 aus dem Verkehr gezogen?",
+            "text": "An wen schrieb Paulus keinen Brief?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "lila"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "weiß"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "rosa"
+                    "text": "Galater"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "hellbraun"
+                    "text": "Pharisäer"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Philipper"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Korinther"
                 }
             ]
         },
@@ -18822,26 +18822,26 @@
             "x": false,
             "id": 54541,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
-            "text": "Der Slogan welcher Marke lautet \"When it rains, it pours\"?",
+            "text": "Aus welchem Film stammt der Satz \"Ich seh' dir in die Augen, Kleines!\"?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Maxwell House"
+                    "text": "Vom Winde verweht"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Miller Lite"
+                    "text": "Frühstück bei Tiffany"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Morton Salt"
+                    "text": "Casablanca"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Aquafence"
+                    "text": "Manche mögen's heiß"
                 }
             ]
         },
@@ -18850,26 +18850,26 @@
             "x": false,
             "id": 54542,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie lautet der Titel von Langston Hughes' berühmtem Gedicht, das mit \"What happens to a dream deferred?\" beginnt?",
+            "text": "Von welchem Philosophen stammte das Höhlengleichnis?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "“A Dream Deferred”"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "“A Raisin in the Sun”"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "“I, Too”"
+                    "text": "Parmenides"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "“Harlem”"
+                    "text": "Platon"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Pythagoras"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Plutarch"
                 }
             ]
         },
@@ -18934,26 +18934,26 @@
             "x": false,
             "id": 54546,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie alt muss man sein, um ein Facebook-Konto zu eröffnen?",
+            "text": "In welchem Film spielte Til Schweiger zum Glück nicht mit?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "7"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "10"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "13"
+                    "text": "Der Schuh des Manitu"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Es gibt kein Mindestalter"
+                    "text": "Der bewegte Mann"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Keinohrhasen"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Das Superweib"
                 }
             ]
         },
@@ -18990,26 +18990,26 @@
             "x": false,
             "id": 54577,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wann wurden laut dem U.S. Census Bureau die Baby Boomer geboren?",
+            "text": "Wie heißt die Villa von Pippi Langstrumpf im schwedischen Original?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "1914-1929"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "1930-1945"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "1946-1964"
+                    "text": "Villa Villekulla"
                 },
                 {
                     "controllerClass": "",
-                    "text": "1965-1984"
+                    "text": "Villa Rollgardina"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Villa Takatuka"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Villa Krumelur"
                 }
             ]
         },
@@ -19018,26 +19018,26 @@
             "x": false,
             "id": 54578,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
-            "text": "Wann hat die FDA Four Loko für unsicher erklärt?",
+            "text": "Was hat am meisten Fett?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "2007"
+                    "text": "Kabeljau"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Kartoffelchips"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "2010"
+                    "text": "Walnüsse"
                 },
                 {
                     "controllerClass": "",
-                    "text": "2013"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "2017"
+                    "text": "Vollmilchschokolade"
                 }
             ]
         },
@@ -19270,26 +19270,26 @@
             "x": false,
             "id": 54617,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wer illustrierte Roald Dahls <i>Matilda<i/>,<i>The BFG</i> und <i>The Witches</i>?",
+            "text": "In welcher Münchener Disco kann ich mal so richtig abfeiern?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Andy Warhol"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "Quentin Blake"
+                    "text": "P1"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Maurice Sendak"
+                    "text": "K2"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Charles Schultz"
+                    "text": "X3"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "C4"
                 }
             ]
         },
@@ -19326,9 +19326,9 @@
             "x": false,
             "id": 54624,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Was ist ein \"em dash\"?",
+            "text": "Was ist ein Gedankenstrich?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -19354,7 +19354,7 @@
             "x": false,
             "id": 54627,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
             "text": "Wenn ich einen Herrenschuh der US-Größe 7 trage, was ist dann meine Größe in Europa?",
             "choices": [
@@ -19382,26 +19382,26 @@
             "x": false,
             "id": 54629,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wofür stand der SAT, als er 1926 erstmals als College-Aufnahmeprüfung eingeführt wurde?",
+            "text": "Was sind Tintenfische?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Standard-Leistungstest"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Stanford-Zugänglichkeitstest"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "Scholastic Aptitude Test"
+                    "text": "Kopffüßer"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Schuleinstufungstest"
+                    "text": "Gliederfüßer"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Knorpelfische"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Schleimaale"
                 }
             ]
         },
@@ -19438,26 +19438,26 @@
             "x": false,
             "id": 54652,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wer leitet die russisch-orthodoxe Kirche?",
+            "text": "Woraus bestehen Enzyme?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "der Papst"
+                    "text": "aus Kohlenhydraten"
                 },
                 {
                     "controllerClass": "",
-                    "text": "der Hochbischof der östlichen Orthodoxie"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "der Zar"
+                    "text": "aus Fetten"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "der Patriarch von Moskau"
+                    "text": "aus Eiweißen"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "aus Vitaminen"
                 }
             ]
         },
@@ -19494,9 +19494,9 @@
             "x": false,
             "id": 54657,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie lange ist eine Amtszeit für einen US-Senator?",
+            "text": "Wie lange ist der Bundespräsident in der Regel im Amt?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -19513,7 +19513,7 @@
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "6 Jahre"
+                    "text": "5 Jahre"
                 }
             ]
         },
@@ -19830,26 +19830,26 @@
             "x": false,
             "id": 54747,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Was sagt Buddy im Film <i>Elf</i>, was die vier Hauptnahrungsgruppen für Elfen sind?",
+            "text": "Was hat sich meine Mutter 1992 schon reingezogen?",
             "choices": [
                 {
                     "controllerClass": "",
+                    "text": "Verbotene Liebe"
+                },
+                {
+                    "controllerClass": "",
                     "correct": true,
-                    "text": "Süßigkeiten, Zuckerstangen, Bonbons und Sirup"
+                    "text": "Gute Zeiten, schlechte Zeiten"
                 },
                 {
                     "controllerClass": "",
-                    "text": "süße Dinge, saure Dinge, knackige Dinge und weiche Dinge"
+                    "text": "Alles was zählt"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Schokolade, Marshmallow, Karamell und Saft"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Gelees, Taffies, Lollies und Gummibärchen"
+                    "text": "Unter uns"
                 }
             ]
         },
@@ -19858,26 +19858,26 @@
             "x": false,
             "id": 54756,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Was war das <i>Oxford English Dictionary</i> Wort des Jahres 2014?",
+            "text": "Was war das Jugendwort des Jahres 2020?",
             "choices": [
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "“vape”"
+                    "text": "lost"
                 },
                 {
                     "controllerClass": "",
-                    "text": "“post-truth”"
+                    "text": "cringe"
                 },
                 {
                     "controllerClass": "",
-                    "text": "“youthquake”"
+                    "text": "wyld"
                 },
                 {
                     "controllerClass": "",
-                    "text": "“Sudoku”"
+                    "text": "Alman"
                 }
             ]
         },
@@ -19942,26 +19942,26 @@
             "x": false,
             "id": 54763,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Für welches Magazin wurden die Gemälde von Norman Rockwell berühmt?",
+            "text": "Ich hab Ailurophobie. Was solltest du also besser nicht mitbringen?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "<i>Der New Yorker</i>"
+                    "text": "Hunde"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "<i>The Saturday Evening Post</i>"
+                    "text": "Katzen"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Reader's Digest</i>"
+                    "text": "Mäuse"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Harper's Magazine</i>"
+                    "text": "Vögel"
                 }
             ]
         },
@@ -20026,26 +20026,26 @@
             "x": false,
             "id": 54776,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welcher dieser Comics ist typischerweise einteilig?",
+            "text": "Wie viel Prozent der Weltbevölkerung leben in Asien?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "<i>Garfield</i>"
+                    "text": "20 Prozent"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "40 Prozent"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "<i>The Far Side</i>"
+                    "text": "60 Prozent"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Nancy</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>Calvin und Hobbes</i>"
+                    "text": "80 Prozent"
                 }
             ]
         },
@@ -20138,7 +20138,7 @@
             "x": false,
             "id": 54791,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Welcher Muppet spielt das Schlagzeug?",
             "choices": [
@@ -20153,7 +20153,7 @@
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Animal"
+                    "text": "Tier"
                 },
                 {
                     "controllerClass": "",
@@ -20166,26 +20166,26 @@
             "x": false,
             "id": 54796,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie lauteten die Vornamen der Entdecker Lewis und Clark?",
+            "text": "Auf welcher 1-Euro Münze ist ne Eule?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Maxwell und James"
+                    "text": "Belgien"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Willoughby und John"
+                    "text": "Portugal"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Meriwether und William"
+                    "text": "Griechenland"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Lewis und Clark waren ihre Vornamen"
+                    "text": "Slowakei"
                 }
             ]
         },
@@ -20222,26 +20222,26 @@
             "x": false,
             "id": 54798,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
-            "text": "Welche berühmte Sängerin spielte die Hauptrolle in der Disney Channel-Serie <i>Zauberer vom Waverly Place</i>?",
+            "text": "Was macht mehr als die Hälfte deiner Masse aus?",
             "choices": [
                 {
                     "controllerClass": "",
+                    "text": "Kohlenstoff"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Wasserstoff"
+                },
+                {
+                    "controllerClass": "",
                     "correct": true,
-                    "text": "Selena Gomez"
+                    "text": "Sauerstoff"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Demi Lovato"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Miley Cyrus"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Ariana Grande"
+                    "text": "Stickstoff"
                 }
             ]
         },
@@ -20250,26 +20250,26 @@
             "x": false,
             "id": 54801,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Bei welchem Film führte der Muppets-Macher Jim Henson Regie?",
+            "text": "Mit welcher Brille kann ich mir keine 3D-Filme reinziehen?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "<i>Little Shop of Horrors</i>"
+                    "text": "Anaglyphenbrille"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Thunderbirds Are Go</i>"
+                    "text": "Polfilterbrille"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>101 Dalmatiner</i>"
+                    "text": "Shutterbrille"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "<i>Labyrinth</i>"
+                    "text": "Rasterbrille"
                 }
             ]
         },
@@ -20278,7 +20278,7 @@
             "x": false,
             "id": 54802,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
             "text": "Auf welchem Schloss basiert das Disney-Logo?",
             "choices": [
@@ -20306,26 +20306,26 @@
             "x": false,
             "id": 54804,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
-            "text": "Welcher dieser Primaten ist ein Affe?",
+            "text": "Was ist in Deutschland legal?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "ein Lemur"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "ein Gibbon"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "ein Schimpanse"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "ein Seidenäffchen"
+                    "text": "Gefängnisausbruch"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Bestechung"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Tierquälerei"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Versicherungsbetrug"
                 }
             ]
         },
@@ -20390,26 +20390,26 @@
             "x": false,
             "id": 54824,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welches Buch wurde von Cormac McCarthy geschrieben?",
+            "text": "Wer hat bei der deutschen Bundeswehr den höheren Dienstgrad?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "<i>All the King's Men</i>"
+                    "text": "Hauptmann"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>All Quiet on the Western Front</i>"
+                    "text": "Leutnant"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>All's Well That Ends Well</i>"
+                    "text": "Oberfeldwebel"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "<i>All the Pretty Horses</i>"
+                    "text": "Major"
                 }
             ]
         },
@@ -20418,26 +20418,26 @@
             "x": false,
             "id": 54827,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
-            "text": "Welcher Bestseller-Autor veröffentlichte anonym eine Ratgeber-Kolumne namens <i>Dear Sugar</i>?",
+            "text": "Wie alt kann Efeu werden?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "John Green, Autor von <i>The Fault in Our Stars</i>"
+                    "text": "15 Jahre"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "90 Jahre"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "200 Jahre"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Cheryl Strayed, Autorin von <i>Wild</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Gillian Flynn, Autorin von <i>Gone Girl</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Chimamanda Ngozi Adichie, Autorin von <i>Americanah</i>"
+                    "text": "450 Jahre"
                 }
             ]
         },
@@ -20474,26 +20474,26 @@
             "x": false,
             "id": 54832,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welche dieser Shakespeare-Figuren ist NICHT auch ein gängiges Substantiv?",
+            "text": "Wer moderierte von 1981 bis 2006 den Musikantenstadl?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Puck"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Viola"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Hamlet"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "Oberon"
+                    "text": "Karl Moik"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Carolina Reiber"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Andy Borg"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Hansy Vogt"
                 }
             ]
         },
@@ -20614,26 +20614,26 @@
             "x": false,
             "id": 54865,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welcher Hostess-Snack hat einen Strudel aus Sahne im Inneren?",
+            "text": "Wo chillt Queen Elizabeth II. meistens am Wochenende?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Sno Balls"
+                    "text": "Balmoral Castle"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Ding Dongs"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Twinkies"
+                    "text": "Buckingham Palace"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Ho Hos"
+                    "text": "Windsor Castle"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Kensington Palace"
                 }
             ]
         },
@@ -20670,26 +20670,26 @@
             "x": false,
             "id": 54868,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welches ist KEINE offizielle Sicherheitsstufe, die von der US-Regierung vergeben wird?",
+            "text": "Was ist ein Bethmännchen?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Top Secret"
+                    "text": "eine Figur beim Eiskunstlauf"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Classified"
+                    "text": "eine Gebäck-Spezialität"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Secret"
+                    "text": "ein klein gewachsener Mönch"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Confidential"
+                    "text": "ein afrikanisches Nagetier"
                 }
             ]
         },
@@ -20810,26 +20810,26 @@
             "x": false,
             "id": 54898,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Was sind laut Cardi B in ihrem Song <i>I Like It</i> einige der Dinge, die sie mag?",
+            "text": "Wie lange muss ich verheiratet sein, um die Eichenhochzeit zu feiern?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "balling, dabbing, watches, and boots"
+                    "text": "50 Jahre"
                 },
                 {
                     "controllerClass": "",
-                    "text": "taxis, flaxseeds, driving, and thriving"
+                    "text": "75 Jahre"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "dollars, diamonds, stunting, and shining"
+                    "text": "80 Jahre"
                 },
                 {
                     "controllerClass": "",
-                    "text": "gadgets, gizmos, whozits, and whatzits"
+                    "text": "100 Jahre"
                 }
             ]
         },
@@ -20894,26 +20894,26 @@
             "x": false,
             "id": 54908,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Woran denkt Ray Charles bei \"Georgia\"?",
+            "text": "Welches Wort kommt nicht in der deutschen Nationalhymne vor?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Nur ein friedlicher Traum"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Nur eine leichte Brise"
+                    "text": "und"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Nur ein altes, süßes Lied"
+                    "text": "die"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Nur ein Geruch von Zuhause"
+                    "text": "mit"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "im"
                 }
             ]
         },
@@ -20978,26 +20978,26 @@
             "x": false,
             "id": 54928,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "In welchem Bundesstaat befindet sich der geografische Mittelpunkt der zusammenhängenden Vereinigten Staaten?",
+            "text": "Wie viel Karat hat mein Feingold?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Colorado"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Kentucky"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Missouri"
+                    "text": "18"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Kansas"
+                    "text": "24"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "99"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "100"
                 }
             ]
         },
@@ -21034,26 +21034,26 @@
             "x": false,
             "id": 54931,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welchen ikonischen Schritt bringt Elle Woods dem Schönheitssalon in <i>Legally Blonde</i> bei?",
+            "text": "Was bekommt ein Nobelpreisträger nicht?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "den Seite-an-Seite"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "den Bend und Snap"
+                    "text": "Ritterschlag"
                 },
                 {
                     "controllerClass": "",
-                    "text": "den Twist und Bounce"
+                    "text": "Geld"
                 },
                 {
                     "controllerClass": "",
-                    "text": "das Stanky Bein"
+                    "text": "Urkunde"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Medaille"
                 }
             ]
         },
@@ -21174,7 +21174,7 @@
             "x": false,
             "id": 54957,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Wie heißt die Wirtschaftsunion, die aus Belgien, Luxemburg und den Niederlanden besteht?",
             "choices": [
@@ -21202,7 +21202,7 @@
             "x": false,
             "id": 54963,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Bei welchem Gericht werden die Eier NICHT aufgeschlagen?",
             "choices": [
@@ -21314,26 +21314,26 @@
             "x": false,
             "id": 54978,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wenn Sie schüchtern sagen, dass Sie \"in Boston zur Schule gegangen sind, also eigentlich in Boston selbst\", wo könnten Sie dann gewesen sein?",
+            "text": "Wie viele Ecken hat ein Nonagon?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Tufts University"
+                    "text": "vier"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "sieben"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Northeastern University"
+                    "text": "neun"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Wellesley College"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Boston College"
+                    "text": "elf"
                 }
             ]
         },
@@ -21454,26 +21454,26 @@
             "x": false,
             "id": 54987,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie viel wiegt der Ozeandampfer <i>Queen Mary 2</i>?",
+            "text": "Welches dieser Tiere hat theoretisch die höchste Lebenserwartung?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "etwa 3 Millionen Pfund"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "etwa 74 Millionen Pfund"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "etwa 340 Millionen Pfund"
+                    "text": "Gans"
                 },
                 {
                     "controllerClass": "",
-                    "text": "etwa eine halbe Milliarde Pfund"
+                    "text": "Schwein"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Schaf"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Huhn"
                 }
             ]
         },
@@ -21510,26 +21510,26 @@
             "x": false,
             "id": 54993,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
-            "text": "Wer ist Noam Chomsky?",
+            "text": "Welchen Vornamen hat Greta Thunberg noch?",
             "choices": [
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "ein Sprachwissenschaftler"
+                    "text": "Ernman"
                 },
                 {
                     "controllerClass": "",
-                    "text": "ein Dichter"
+                    "text": "Dîga"
                 },
                 {
                     "controllerClass": "",
-                    "text": "ein Physiker"
+                    "text": "Swaeg"
                 },
                 {
                     "controllerClass": "",
-                    "text": "ein Romanautor"
+                    "text": "Hómie"
                 }
             ]
         },
@@ -21538,26 +21538,26 @@
             "x": false,
             "id": 55002,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wer ist der kleinste der folgenden NBA-Spieler?",
+            "text": "Wann kann ich mir immer die Bundesgartenschau reinziehen?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Larry Bird"
+                    "text": "jedes Jahr"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Allen Iverson"
+                    "text": "alle zwei Jahre"
                 },
                 {
                     "controllerClass": "",
-                    "text": "LeBron James"
+                    "text": "alle vier Jahre"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Shaquille O'Neal"
+                    "text": "alle sechs Jahre"
                 }
             ]
         },
@@ -21622,26 +21622,26 @@
             "x": false,
             "id": 55012,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie heißt dieser kleine Kerl: ^ ?",
+            "text": "Wo steht das rote Rathaus?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "ein Obelus"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "eine Tilde"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "ein Dolch"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "ein Caret"
+                    "text": "Berlin"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Köln"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Stuttgart"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Dresden"
                 }
             ]
         },
@@ -21818,7 +21818,7 @@
             "x": false,
             "id": 55052,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Wann habe ich die intensivsten, verdrehtesten Träume?",
             "choices": [
@@ -21846,7 +21846,7 @@
             "x": false,
             "id": 55054,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Wie lautet der Mädchenname von Michelle Obama?",
             "choices": [
@@ -21874,26 +21874,26 @@
             "x": false,
             "id": 55061,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wessen Album <i>Back to Black</i> brachte 5 Grammys in einem Jahr ein?",
+            "text": "Wer zählt nicht zu den Eisheiligen?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "AC/DC"
+                    "text": "Pankratius"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Bonifatius"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Amy Winehouse"
+                    "text": "Achatius"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Jay-Z"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Nas"
+                    "text": "Servatius"
                 }
             ]
         },
@@ -21902,26 +21902,26 @@
             "x": false,
             "id": 55063,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wer schrieb <i>O Pioneers!</i> und andere Romane über die Great Plains?",
+            "text": "Wie viele Sterne kann ich bei idealen Bedingungen von Europa aus mit bloßem Auge sehen?",
             "choices": [
                 {
                     "controllerClass": "",
+                    "text": "rund 200"
+                },
+                {
+                    "controllerClass": "",
                     "correct": true,
-                    "text": "Willa Cather"
+                    "text": "rund 3.000"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Edith Wharton"
+                    "text": "rund 50.000"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Dorothy Parker"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Garrison Keillor"
+                    "text": "rund vier Millionen"
                 }
             ]
         },
@@ -22014,26 +22014,26 @@
             "x": false,
             "id": 55082,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Wie hoch ist der offizielle Basketballkorb der NBA?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "8 Fuß"
+                    "text": "2.43m"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "10 Fuß"
+                    "text": "3.05m"
                 },
                 {
                     "controllerClass": "",
-                    "text": "12 Fuß"
+                    "text": "3.47m"
                 },
                 {
                     "controllerClass": "",
-                    "text": "14 Fuß"
+                    "text": "3.60m"
                 }
             ]
         },
@@ -22098,26 +22098,26 @@
             "x": false,
             "id": 55087,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welche Zeile ist aus <i>The Rime of the Ancient Mariner</i>?",
+            "text": "Woraus besteht eine Leinwand?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Dein Herz ist wie der Ozean, geheimnisvoll und dunkel."
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Ich liebe es, auf verbotenen Meeren zu segeln und an barbarischen Küsten zu landen."
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Nenn mich Ishmael."
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "Wasser, Wasser überall / Und kein Tropfen zum Trinken"
+                    "text": "Flachs"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Baumwolle"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Nessel"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Hanf"
                 }
             ]
         },
@@ -22126,26 +22126,26 @@
             "x": false,
             "id": 55099,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wo befindet sich das Stadion der New York Giants?",
+            "text": "Schon 17 Uhr! Wie spät ist es dann in Kapstadt, Südafrika?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "New York"
+                    "text": "13 Uhr"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Connecticut"
+                    "text": "15 Uhr"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "New Jersey"
+                    "text": "17 Uhr"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Pennsylvania"
+                    "text": "19 Uhr"
                 }
             ]
         },
@@ -22154,26 +22154,26 @@
             "x": false,
             "id": 55100,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wenn ich Pennsylvania Dutch spreche (und das tue ich), welche Sprache spreche ich dann?",
+            "text": "Welcher deutsche Schriftsteller schrieb für seinen Sohn ein Kinderbuch mit dem Titel <i>Der kleine Häwelmann</i>?",
             "choices": [
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Deutsch"
+                    "text": "Theodor Storm"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Niederländisch"
+                    "text": "Theodor Däubler"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Französisch"
+                    "text": "Theodor Fontane"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Englisch"
+                    "text": "Theodor Körner"
                 }
             ]
         },
@@ -22294,26 +22294,26 @@
             "x": false,
             "id": 55105,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welcher ehemalige Kinderstar hatte eine Velvet Underground-Parodie-Band namens The Pizza Underground, die sich mit Pizza beschäftigte?",
+            "text": "Was ist der häufigste Nachname in Russland?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Mason Gamble aus <i>Dennis the Menace</i>"
+                    "text": "Pawlow"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Michailow"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Macaulay Culkin aus <i>Home Alone</i>"
+                    "text": "Smirnow"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Jonathan Ke Huy Quan aus <i>Die Goonies</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Lindsay Lohan aus <i>The Parent Trap</i>"
+                    "text": "Popow"
                 }
             ]
         },
@@ -22378,26 +22378,26 @@
             "x": false,
             "id": 55123,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie würde eine schwimmende Leiche im Atlantischen Ozean zu den Großen Seen gelangen?",
+            "text": "Welcher Baustil wird auf dem 20-Euro-Schein dargestellt?",
             "choices": [
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "auf dem St. Lawrence Seeweg"
+                    "text": "Gotik"
                 },
                 {
                     "controllerClass": "",
-                    "text": "durch den Suez-Kanal"
+                    "text": "Renaissance"
                 },
                 {
                     "controllerClass": "",
-                    "text": "durch die Beringstraße"
+                    "text": "Romantik"
                 },
                 {
                     "controllerClass": "",
-                    "text": "es gibt keine verbindende Wasserstraße"
+                    "text": "Barock"
                 }
             ]
         },
@@ -22406,26 +22406,26 @@
             "x": false,
             "id": 55124,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie breit ist der Grand Canyon an seiner breitesten Stelle?",
+            "text": "Welches dieser Worte bedeutet übersetzt so viel wie König?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "800 Fuß"
+                    "text": "Sultan"
                 },
                 {
                     "controllerClass": "",
-                    "text": ".8 Meilen"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "8 Meilen"
+                    "text": "Emir"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "18 Meilen"
+                    "text": "Schah"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Scheich"
                 }
             ]
         },
@@ -22434,7 +22434,7 @@
             "x": false,
             "id": 55125,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
             "text": "Welcher meiner Zierfische ist mit Federn geschmückt?",
             "choices": [
@@ -22462,26 +22462,26 @@
             "x": false,
             "id": 55126,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie wurden die Beagles von Präsident Lyndon B. Johnson genannt?",
+            "text": "Wer war der Gegenspieler von Wilhelm Tell?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Tom & Huck"
+                    "text": "Schlegel"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Cat & Mouse"
+                    "text": "Küfer"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Harvard & Yale"
+                    "text": "Kammerer"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Him & Her"
+                    "text": "Gessler"
                 }
             ]
         },
@@ -22490,7 +22490,7 @@
             "x": false,
             "id": 55129,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Welches war das erste YouTube-Video, das jemals 1 Milliarde Aufrufe erreichte?",
             "choices": [
@@ -22602,26 +22602,26 @@
             "x": false,
             "id": 55151,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Was ist eine Kaktusfeige?",
+            "text": "Wie viele Menschen gab es eigentlich im Jahr 0?",
             "choices": [
                 {
                     "controllerClass": "",
+                    "text": "ca. 50 Millionen"
+                },
+                {
+                    "controllerClass": "",
                     "correct": true,
-                    "text": "eine Kaktusart"
+                    "text": "ca. 300 Millionen"
                 },
                 {
                     "controllerClass": "",
-                    "text": "eine Obstsorte"
+                    "text": "ca. 800 Millionen"
                 },
                 {
                     "controllerClass": "",
-                    "text": "eine Strauchart"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "eine Art von Gemüse"
+                    "text": "ca. 2 Milliarden"
                 }
             ]
         },
@@ -22630,26 +22630,26 @@
             "x": false,
             "id": 55188,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welchen Besitz schenkt <i>The Giving Tree</i> dem kleinen Jungen?",
+            "text": "Was bedeutet Wodka übersetzt?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "ihre Äste, um ein Fort zu bauen"
+                    "text": "Väterchen"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Nickerchen"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "ihren Stamm, um ein Boot zu bauen"
+                    "text": "Wässerchen"
                 },
                 {
                     "controllerClass": "",
-                    "text": "ihre Blätter, um ein Hemd zu machen"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "ihre Äpfel zu Saft verarbeiten"
+                    "text": "Freundchen"
                 }
             ]
         },
@@ -22714,7 +22714,7 @@
             "x": false,
             "id": 56334,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Welche <i>Kung Fu Panda</i>-Figur ist auch ein Symbol des chinesischen Tierkreises?",
             "choices": [
@@ -22725,7 +22725,7 @@
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Viper"
+                    "text": "Schlange"
                 },
                 {
                     "controllerClass": "",
@@ -22733,7 +22733,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "Kung Fu Panda"
+                    "text": "Panda"
                 }
             ]
         },
@@ -22742,22 +22742,22 @@
             "x": false,
             "id": 56335,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie viele Treffer braucht man in dem Spiel <i>Battleship</i>, um das Schlachtschiff zu versenken?",
+            "text": "Wie viele Treffer brauche ich beim <i>Schiffe versenken</i>, um das Schlachtschiff zu versenken?",
             "choices": [
                 {
                     "controllerClass": "",
+                    "correct": true,
                     "text": "5"
                 },
                 {
                     "controllerClass": "",
-                    "text": "3"
+                    "text": "4"
                 },
                 {
                     "controllerClass": "",
-                    "correct": true,
-                    "text": "4"
+                    "text": "3"
                 },
                 {
                     "controllerClass": "",
@@ -22770,26 +22770,26 @@
             "x": false,
             "id": 56336,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "In welcher Old West-Stadt fand die Schießerei am O.K. Corral statt?",
+            "text": "Welche Hausnummer hat Sherlock Holmes?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Deadwood, South Dakota"
+                    "text": "19a"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Tombstone, Arizona"
+                    "text": "221b"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Dodge City, Kansas"
+                    "text": "137c"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Denver, Colorado"
+                    "text": "178d"
                 }
             ]
         },
@@ -22826,26 +22826,27 @@
             "x": false,
             "id": 56338,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
-            "text": "In welchem Film geht es um eine Party, bei der jemand ermordet wird?",
+            "text": "Welcher Discounter hat seinen Firmensitz in Neckarsulm?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "<i>My Dinner with Andre</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>Four Weddings and a Funeral</i>"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "<i>Gosford Park</i>"
+                    "text": "Lidl"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Guess Who’s Coming to Dinner?</i>"
+                    "text": "Penny"
+                },
+                {
+                    "controllerClass": "",
+                    
+                    "text": "Aldi"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Norma"
                 }
             ]
         },
@@ -23050,26 +23051,26 @@
             "x": false,
             "id": 56421,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welcher Farbraum kommt NICHT auf einer <i>Candy Land</i> Tafel vor?",
+            "text": "Wer schrieb den Abenteuerroman <i>Die Schatzinsel</i>?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Rot"
+                    "text": "James Fenimore Cooper"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Mark Twain"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Weiß"
+                    "text": "Robert Louis Stevenson"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Grün"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Lila"
+                    "text": "Jack London"
                 }
             ]
         },
@@ -23078,26 +23079,26 @@
             "x": false,
             "id": 56424,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie viele Männer sollen in dem berühmten Piratenshanty auf der \"Brust des toten Mannes\" sein?",
+            "text": "Wer war 1970 der erste Tatort-Kommissar?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "13"
+                    "text": "Heinz Haferkamp"
                 },
                 {
                     "controllerClass": "",
-                    "text": "14"
+                    "text": "Melchior Veigl"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Paul Stoever"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "15"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "16"
+                    "text": "Paul Trimmel"
                 }
             ]
         },
@@ -23218,26 +23219,26 @@
             "x": false,
             "id": 56565,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Was wird traditionell am St. Swithin's Day vorausgesagt?",
+            "text": "Welcher Käse stammt aus der Schweiz?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "das Geburtsdatum deines Kindes"
+                    "text": "Scamorza"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Zeitpunkt und Art deines Todes"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "die Menge des Glücks im kommenden Jahr"
+                    "text": "Mascarpone"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "die nächsten 40 Tage Wetter"
+                    "text": "Capreggio"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Taleggio"
                 }
             ]
         },
@@ -23246,7 +23247,7 @@
             "x": false,
             "id": 56567,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Welche dieser Pasteten enthält KEIN Tierfleisch?",
             "choices": [
@@ -23256,7 +23257,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "Scotch Pie"
+                    "text": "Hammelkuchen"
                 },
                 {
                     "controllerClass": "",
@@ -23442,13 +23443,13 @@
             "x": false,
             "id": 56599,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Avocado ist eine Art von was?",
+            "text": "Was sind eigentlich Avocados?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Wurzel"
+                    "text": "Wurzeln"
                 },
                 {
                     "controllerClass": "",
@@ -23457,11 +23458,11 @@
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Beere"
+                    "text": "Beeren"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Nuss"
+                    "text": "Nüsse"
                 }
             ]
         },
@@ -23582,26 +23583,26 @@
             "x": false,
             "id": 56623,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welche dieser Listen von Pferdegangarten ist in der Reihenfolge von der LANGSAMSTEN zur SCHNELLSTEN?",
+            "text": "Mit welcher Skala kann ich nukleare Ereignisse bewerten?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Schritt, Galopp, Trab, Galopp"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "Schritt, Trab, Galopp, Galopp"
+                    "text": "INES"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Trab, Schritt, Galopp, Galopp"
+                    "text": "IRIS"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Schritt, Trab, Galopp, Galopp"
+                    "text": "INGE"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "ILKA"
                 }
             ]
         },
@@ -23694,7 +23695,7 @@
             "x": false,
             "id": 56629,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
             "text": "Welche meiner Mordwaffen würde am LÄNGSTEN brauchen, um sich auf natürliche Weise abzubauen?",
             "choices": [
@@ -23750,18 +23751,18 @@
             "x": false,
             "id": 56634,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Was macht der Polizist, der auf dem Feld \"Geh ins Gefängnis\" auf einem <i>Monopoly</i>-Spielbrett abgebildet ist?",
             "choices": [
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "eine Pfeife blasend"
+                    "text": "in eine Pfeife blasen"
                 },
                 {
                     "controllerClass": "",
-                    "text": "hält Handschellen hoch"
+                    "text": "Handschellen hochhalten"
                 },
                 {
                     "controllerClass": "",
@@ -23769,7 +23770,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "ein Gewehr zielend"
+                    "text": "ein Gewehr zielen"
                 }
             ]
         },
@@ -23806,26 +23807,26 @@
             "x": false,
             "id": 56702,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie lautet der tatsächliche Name des Gemäldes, das im Volksmund als <i>Whistler's Mother</i> bekannt ist?",
+            "text": "Wer war 1977 der erste Moderator der TV-Spielshow <i>1, 2 oder 3</i>?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "<i>Die Matriarchin in Ruhestellung (Eine Studie in Tönen)</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>Frau in Schwarz sitzt und blickt in die Stube</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>Das vernebelte Zimmer</i>"
+                    "text": "Daniel Fischer"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "<i>Arrangement in Grau und Schwarz Nr. 1 (Porträt der Mutter des Künstlers)</i>"
+                    "text": "Michael Schanze"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Birgit Lechtermann"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Gregor Steinbrenner"
                 }
             ]
         },
@@ -23946,26 +23947,26 @@
             "x": false,
             "id": 56742,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie lautet der vollständige offizielle Name des George Foreman Grills?",
+            "text": "Was wird mit der Abkürzung Bft angegeben?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "George Foreman klopft den fetten Grill aus"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "George Foreman One Two Punch Griller"
+                    "text": "Bruttopreis"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "George Foreman Lean Mean Fettreduzierende Grillmaschine"
+                    "text": "Windstärke"
                 },
                 {
                     "controllerClass": "",
-                    "text": "George Foreman Fast Fun Furious Grillchampion"
+                    "text": "Hosenlänge"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Schiffsgröße"
                 }
             ]
         },
@@ -23974,26 +23975,26 @@
             "x": false,
             "id": 56743,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
-            "text": "Für welches Team spielte Michael Jordan in dem Film <i>Space Jam</i> von 1996?",
+            "text": "Wie bezeichnet man eine männliche Giraffe?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Looney Jammers"
+                    "text": "Rüde"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Marvins Marsmenschen"
+                    "text": "Hengst"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Warner Ballers"
+                    "text": "Bock"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Tune Squad"
+                    "text": "Bulle"
                 }
             ]
         },
@@ -24002,26 +24003,26 @@
             "x": false,
             "id": 56744,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welcher dieser Filme war NICHT für den besten animierten Spielfilm bei den Academy Awards nominiert?",
+            "text": "Wo kann ich mir die Alhambra anschauen?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "<i>The Boss Baby</i>"
+                    "text": "Barcelona"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Shark Tale</i>"
+                    "text": "Sevilla"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Schatzplanet</i>"
+                    "text": "Málaga"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "<i>Hotel Transylvania</i>"
+                    "text": "Granada"
                 }
             ]
         },
@@ -24030,26 +24031,26 @@
             "x": false,
             "id": 55275,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Wie lautet der Titel der vierteiligen Food-Doku von Chefkoch Samin Nosrat auf Netflix?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "<i>Säure-Fett-Salz-Hitze</i>"
+                    "text": "Brot. Wasser. Wein. Wohlstand."
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Hitze Salz Fett Säure</i>"
+                    "text": "<i>Obst. Gemüse. Fleisch. Rauch.</i>"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Fett-Salz-Hitze-Säure</i>"
+                    "text": "<i>Eier. Mehl. Butter. Backen.</i>"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "<i>Salz-Fett-Säure-Hitze</i>"
+                    "text": "<i>Salz. Fett. Säure. Hitze.</i>"
                 }
             ]
         },
@@ -24086,26 +24087,26 @@
             "x": false,
             "id": 55293,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Was mache ich technisch gesehen, wenn ich meine Opfer dezimiere?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Tötet bis zu 100 Menschen"
+                    "text": "Tötung jedes zweiten Menschen"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Tötung jedes 10. Menschen"
+                    "text": "Tötung jedes zehnten Menschen"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Tötung von mindestens 1.000 Menschen"
+                    "text": "Tötung von mindestens 100 Menschen"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Tötung von genau 10.000 Menschen"
+                    "text": "Tötung von mindestens 30 Prozent der Menschen"
                 }
             ]
         },
@@ -24142,26 +24143,26 @@
             "x": false,
             "id": 55591,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welcher dieser \"Exen\" war zuerst da?",
+            "text": "Welches Metall kommt in der Erdkruste am häufigsten vor?",
             "choices": [
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Kotex"
+                    "text": "Aluminium"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Kleenex"
+                    "text": "Eisen"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Playtex"
+                    "text": "Kupfer"
                 },
                 {
                     "controllerClass": "",
-                    "text": "FedEx"
+                    "text": "Blei"
                 }
             ]
         },
@@ -24254,26 +24255,26 @@
             "x": false,
             "id": 55608,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
-            "text": "Welches dieser religiösen Lebensmittel ist traditionell glutenfrei?",
+            "text": "Welcher Vorname kommt nicht in der Bibel vor?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Matzo"
+                    "text": "Rebekka"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Kommunionsoblaten"
+                    "text": "Elisabeth"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Ostereier"
+                    "text": "Laura"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Kartoffel-Latkes"
+                    "text": "Lydia"
                 }
             ]
         },
@@ -24310,26 +24311,26 @@
             "x": false,
             "id": 55610,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welcher dieser amerikanischen Orte stellt NICHT auf Sommerzeit um?",
+            "text": "Wo chillte im Mittelalter zeitweise der Papst?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Alaska"
+                    "text": "Bristol"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Arizona"
+                    "text": "Avignon"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Gebiet der Navajo-Nation"
+                    "text": "Worms"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Washington D.C."
+                    "text": "Wien"
                 }
             ]
         },
@@ -24338,7 +24339,7 @@
             "x": false,
             "id": 55612,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Welches Ereignis wurde durch das erste Google Doodle geehrt?",
             "choices": [
@@ -24478,26 +24479,26 @@
             "x": false,
             "id": 55630,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wenn man das \"Big Wheel\" bei <i>The Price is Right</i> dreht, auf wie vielen möglichen Feldern könnte man landen?",
+            "text": "Womit fangen Libellen eigentlich ihre Beute?",
             "choices": [
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "20"
+                    "text": "mit den Beinen"
                 },
                 {
                     "controllerClass": "",
-                    "text": "30"
+                    "text": "mit den Fühlern"
                 },
                 {
                     "controllerClass": "",
-                    "text": "40"
+                    "text": "mit dem Hinterleib"
                 },
                 {
                     "controllerClass": "",
-                    "text": "50"
+                    "text": "mit den Flügeln"
                 }
             ]
         },
@@ -24590,26 +24591,26 @@
             "x": false,
             "id": 55641,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Was hat Yvonne Brathwaite Burke als erste gemacht?",
+            "text": "Welche dieser Städte liegt nicht im Ruhrgebiet?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "schwam den Ärmelkanal in beide Richtungen"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "entdeckte einen Planeten außerhalb unserer Galaxie"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "erhielt eine Gesichtstransplantation"
+                    "text": "Oberhausen"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "gebären, während sie im U.S. Kongress diente"
+                    "text": "Neuss"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Hamm"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Unna"
                 }
             ]
         },
@@ -24702,26 +24703,26 @@
             "x": false,
             "id": 55655,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Was gehört in dem Lied \"7 Rings\" NICHT zu den Lieblingsdingen von Ariana Grande?",
+            "text": "Welche Kulturpflanze stammt nicht aus Amerika?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Frühstück bei Tiffany's"
+                    "text": "Tomate"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Sonnenblume"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Kartoffel"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Nägel mit Goldnägeln"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Geldautomaten"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Flaschen mit Seifenblasen"
+                    "text": "Walnuss"
                 }
             ]
         },
@@ -24730,26 +24731,26 @@
             "x": false,
             "id": 55656,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wann ist der Beginn des Winters auf der südlichen Hemisphäre?",
+            "text": "Wie nennt man die zu einem Bischofssitz gehörende Kirche?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "2021-03-20"
+                    "text": "Basilika"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "2021-06-21"
+                    "text": "Kathedrale"
                 },
                 {
                     "controllerClass": "",
-                    "text": "2021-09-23"
+                    "text": "Stiftskirche"
                 },
                 {
                     "controllerClass": "",
-                    "text": "2021-12-21"
+                    "text": "Münster"
                 }
             ]
         },
@@ -24758,26 +24759,26 @@
             "x": false,
             "id": 55658,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Bezogen auf die Sportart Cricket, was würde ich erreichen, wenn ich drei Spieler direkt nacheinander ermorde?",
+            "text": "Ich möchte euch wie in der Musik <i>piano</i> töten. Wie mache ich das?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "turkey"
+                    "text": "langsam"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "lebhaft"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "hat trick"
+                    "text": "leise"
                 },
                 {
                     "controllerClass": "",
-                    "text": "shamrock"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "pyramid"
+                    "text": "leiser werdend"
                 }
             ]
         },
@@ -24814,26 +24815,26 @@
             "x": false,
             "id": 55666,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Sagen Sie doch mal etwas Nettes über eine Nehru-Jacke.",
+            "text": "Mit welchen Verbindungen beschäftigt sich die organische Chemie?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Seine Aufschläge sind großzügig."
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Es kann seine Epauletten schultern."
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "Es hat einen Stehkragen."
+                    "text": "Kohlenstoff"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Seine Länge ist jenseits der Hüfte."
+                    "text": "Wasserstoff"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Sauerstoff"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Stickstoff"
                 }
             ]
         },
@@ -24898,9 +24899,9 @@
             "x": false,
             "id": 55679,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
-            "text": "Wenn Sie mein Bauer sind und ich Sie in meiner Schacheröffnung opfere, wie nennt man das?",
+            "text": "Wenn ihr meine Bauern seid und ich euch in meiner Schacheröffnung opfere, wie nennt man das?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -24982,7 +24983,7 @@
             "x": false,
             "id": 55700,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Welcher Buchstabe wird NICHT auf einer Standard-Augenuntersuchungstafel verwendet?",
             "choices": [
@@ -25010,26 +25011,26 @@
             "x": false,
             "id": 55702,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welches dieser Lebensmittel wurde in den Vereinigten Staaten erfunden?",
+            "text": "Wo kann ich die Tageszeitung <i>Berlingske</i> abonnieren?",
             "choices": [
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Chimichanga"
+                    "text": "Dänemark"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Apfelkuchen"
+                    "text": "Norwegen"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Chow Mein"
+                    "text": "Schweden"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Pommes frites"
+                    "text": "Finnland"
                 }
             ]
         },
@@ -25066,7 +25067,7 @@
             "x": false,
             "id": 55712,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Aus wie vielen Spielern besteht eine Eishockey-Mannschaft?",
             "choices": [
@@ -25122,7 +25123,7 @@
             "x": false,
             "id": 55858,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Wofür steht das \"R\" in U.S.S.R.?",
             "choices": [
@@ -25150,26 +25151,26 @@
             "x": false,
             "id": 55865,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "In welchem Daniel Day-Lewis-Film sagt er die Zeile \"Stay alive! Egal, was passiert. Ich werde dich finden!\"?",
+            "text": "In welcher Fernsehsendung konnte ich Jörg Pilawa zum ersten Mal sehen?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "<i>There Will Be Blood</i>"
+                    "text": "Die Quizshow"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>In the Name of the Father</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "<i>My Beautiful Laundrette</i>"
+                    "text": "Herzblatt"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "<i>The Last of the Mohicans</i>"
+                    "text": "2 gegen 2"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Wahr oder unwahr?"
                 }
             ]
         },
@@ -25262,26 +25263,26 @@
             "x": false,
             "id": 56031,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Was ist NICHT Teil eines klassischen BLTs?",
+            "text": "Was ist der Hauptbestandteil der Sonne?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "gepökeltes Schweinefleisch"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Gluten"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "Mais"
+                    "text": "Wasserstoff"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Mayonnaise"
+                    "text": "Sauerstoff"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Kohlenstoff"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Helium"
                 }
             ]
         },
@@ -25318,26 +25319,26 @@
             "x": false,
             "id": 55687,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
-            "text": "Was müsste ich tun, wenn ich meine Gefangenen mit der Ferber-Methode zum Schlafen bringen will?",
+            "text": "Wie nennt man den Sonntag vor Ostern?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Lass sie sich einfach ausheulen."
+                    "text": "Dreifaltigkeitssonntag"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Bleiben Sie in der ersten Nacht bei ihnen und rücken Sie danach jede Nacht näher an den Ausgang."
+                    "text": "Ewigkeitssonntag"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Weißer Sonntag"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Gehen Sie hinein, beruhigen Sie sie und gehen Sie wieder. Irgendwann hören Sie auf, hineinzugehen."
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Fahren Sie sie durch die Stadt, bis sie in ihrem Autositz einschlafen."
+                    "text": "Palmsonntag"
                 }
             ]
         },
@@ -25346,26 +25347,26 @@
             "x": false,
             "id": 55688,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Was würde man in der 14 N. Moore St., New York, New York finden?",
+            "text": "Was war der erste Nummer-1-Hit von meiner Lieblingsgruppe, ABBA?",
             "choices": [
                 {
                     "controllerClass": "",
+                    "text": "Fernando"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Dancing Queen"
+                },
+                {
+                    "controllerClass": "",
                     "correct": true,
-                    "text": "die <i>Ghostbusters</i> Feuerwache"
+                    "text": "Waterloo"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Das Haus aus <i>Der Exorzist</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "die Wohnung aus <i>Friends</i>"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "King Kongs Grab"
+                    "text": "One Of Us"
                 }
             ]
         },
@@ -25458,26 +25459,26 @@
             "x": false,
             "id": 54555,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie oft gehen an einem Samstagabend die Bellagio-Fontänen in Las Vegas hoch?",
+            "text": "Wie viele Monate haben 31 Tage?",
             "choices": [
                 {
                     "controllerClass": "",
+                    "text": "fünf"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "sechs"
+                },
+                {
+                    "controllerClass": "",
                     "correct": true,
-                    "text": "nach 20 Uhr, alle fünfzehn Minuten"
+                    "text": "sieben"
                 },
                 {
                     "controllerClass": "",
-                    "text": "nach 18 Uhr, alle zehn Minuten"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "nach 20 Uhr, alle dreißig Minuten"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "nach 18 Uhr, alle fünfzehn Minuten"
+                    "text": "acht"
                 }
             ]
         },
@@ -25486,26 +25487,26 @@
             "x": false,
             "id": 54563,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wo finde ich den Vergaser an meinem 2006er Toyota Corolla?",
+            "text": "Wer hat im Schnitt mehr Haare auf dem Kopf?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Es ist in der Nähe des Auspuffkrümmers."
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "Es hat keinen. Du hast eine Benzineinspritzung."
+                    "text": "eine blonde Person"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Es ist das Ding mit einer Verteilerkappe oben drauf."
+                    "text": "eine brünette Person"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Nirgendwo. Sie haben einen katalytischen Konverter."
+                    "text": "eine schwarzhaarige Person"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "eine rothaarige Person"
                 }
             ]
         },
@@ -25514,7 +25515,7 @@
             "x": false,
             "id": 54564,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Wo wird man aufgeschnitten, wenn man den Blinddarm herausnimmt?",
             "choices": [
@@ -25542,7 +25543,7 @@
             "x": false,
             "id": 54589,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Was war Waluigis erster Auftritt?",
             "choices": [
@@ -25570,26 +25571,26 @@
             "x": false,
             "id": 54590,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welches Baseball-Team spielte früher auf dem Ebbets Field?",
+            "text": "Welches Instrument hat in seiner ursprünglichen Form weniger als vier Saiten?",
             "choices": [
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Die Dodgers"
+                    "text": "Balalaika"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Die Kardinäle"
+                    "text": "Ukulele"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Die Yankees"
+                    "text": "Gambe"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Die Giganten"
+                    "text": "Banjo"
                 }
             ]
         },
@@ -25598,26 +25599,26 @@
             "x": false,
             "id": 54600,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wer schrieb die Musik zu <i>Kinky Boots</i>?",
+            "text": "Welche Farbe wird für keinen der fünf olympischen Ringe verwendet?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Celine Dion"
+                    "text": "Rot"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Debbie Gibson"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Cher"
+                    "text": "Schwarz"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Cyndi Lauper"
+                    "text": "Magenta"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Grün"
                 }
             ]
         },
@@ -25626,26 +25627,26 @@
             "x": false,
             "id": 54602,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
-            "text": "Wie heißt der Fisch, der in deinem Pissloch schwimmt?",
+            "text": "Welchen dieser Geheimdienste gibt es am längsten?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "zungaro"
+                    "text": "KGB"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Capybara"
+                    "text": "BND"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Neon-Salmler"
+                    "text": "MI5"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "candiru"
+                    "text": "CIA"
                 }
             ]
         }
