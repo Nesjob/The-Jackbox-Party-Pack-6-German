@@ -1,0 +1,110 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty5"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty4"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty3"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt5"
+      },
+      {
+        "t": "S",
+        "v": "Zeichne Texas",
+        "n": "HumanPromptText"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne <i>Candy Land<\/i>.",
+        "n": "AlienPromptText4"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne eine Tauchermaske.",
+        "n": "AlienPromptText5"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne einen Cowboy.",
+        "n": "AlienPromptText0"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne ein Rodeo.",
+        "n": "AlienPromptText1"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne Arizona",
+        "n": "AlienPromptText2"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt3"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne die Wüste.",
+        "n": "AlienPromptText3"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt4"
+     },
+     {
+        "s": "Zeichne Texas.",
+        "t": "A",
+        "v": "836439_1",
+        "n": "HumanPromptAudio"
+     }
+   ]
+}

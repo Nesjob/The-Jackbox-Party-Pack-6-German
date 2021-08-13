@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+        "t": "S",
+        "v": "Zeichne ein fliegendes Eichhörnchen.",
+        "n": "AlienPromptText0"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne ein fallendes Stinktier.",
+        "n": "AlienPromptText1"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne einen stinkenden Vogel.",
+        "n": "AlienPromptText2"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne ein fliegendes Stinktier.",
+        "n": "HumanPromptText"
+     },
+     {
+        "s": "Zeichne ein fliegendes Stinktier.",
+        "t": "A",
+        "v": "836331_1",
+        "n": "HumanPromptAudio"
+     }
+   ]
+}

@@ -1,0 +1,155 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty8"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty7"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt7"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt8"
+        },
+        {
+            "t": "S",
+            "v": "Der Zeitraum mit der schlechtesten Hygiene war wahrscheinlich...",
+            "n": "AlienPromptText8"
+        },
+        {
+            "t": "S",
+            "v": "Die beste Epoche für eine Zeitreise wäre ...",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Der schlimmste Zeitraum, in dem man stecken bleiben könnte, wäre ...",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Die beste Zeit meines Lebens war ...",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "Der gefährlichste Zeitraum für eine Reise wäre ...",
+            "n": "AlienPromptText6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Mein Lieblingsjahr war ...",
+            "n": "AlienPromptText7"
+        },
+        {
+            "t": "S",
+            "v": "Das Jahrzehnt, in dem ich geboren wurde, war das ...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Das Jahrzehnt, das es wahrscheinlich am schlimmsten hatte, war ...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Der Zeitraum mit den coolsten Klamotten war ...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Der Zeitraum, den ich mit Technik erobern würde, ist ...",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Die beste Epoche für eine Zeitreise wäre ...",
+            "t": "A",
+            "v": "805555_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

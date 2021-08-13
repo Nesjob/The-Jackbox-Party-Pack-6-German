@@ -1,0 +1,80 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty3"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne eine Gruppe von Oberschülern.",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne die Besetzung deiner Lieblingsserie.",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne eine Räuberbande.",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt3"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne die Show <i>Friends<\/i>.",
+         "n":"AlienPromptText3"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne deine Freundesgruppe.",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Zeichne deine Freundesgruppe.",
+         "t":"A",
+         "v":"808180_0",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

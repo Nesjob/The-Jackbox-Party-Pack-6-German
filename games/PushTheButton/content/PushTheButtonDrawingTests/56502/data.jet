@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne eine nervige Person.",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne etwas stinkendes.",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne einen Prominenten.",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne jemanden in diesem Raum.",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Zeichne jemanden in diesem Raum.",
+         "t":"A",
+         "v":"808373_0",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"\u201cDu bist unglaublich!\u201d",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"\u201cDas kann ich auch!\u201d",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"\u201cDas ist Hexerei!\u201d",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Du willst während der Geburt Ermutigung geben. Das Beste, was du sagen kannst, ist:...",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Du willst während der Geburt Ermutigung geben. Das Beste, was du sagen kannst, ist:...",
+         "t":"A",
+         "v":"826476_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

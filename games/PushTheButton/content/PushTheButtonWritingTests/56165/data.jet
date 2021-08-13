@@ -1,0 +1,155 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty8"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty7"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt7"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt8"
+        },
+        {
+            "t": "S",
+            "v": "Der Name von jemandem in diesem Raum ist ...",
+            "n": "AlienPromptText8"
+        },
+        {
+            "t": "S",
+            "v": "Ich wünschte, mein Spitzname wäre ...",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Wenn ich in The Mob (Hard-Rock Band) wäre, würden sie mich ... nennen",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Wenn ich ein Hip-Hop-Künstler wäre, würde man mich ...",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "Eine historische Figur, die ich wahrscheinlich persönlich hassen würde, ist ....",
+            "n": "AlienPromptText6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Eine Berühmtheit, von der ich genug gehört habe, ist ...",
+            "n": "AlienPromptText7"
+        },
+        {
+            "t": "S",
+            "v": "Die beste alte Fernsehsendung war ...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ein Ort, den ich gerne besuchen würde, ist ...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Mein schlechtes Gewissen Essen ist...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Ein Spitzname, den ich früher hatte, war ...",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Ich wünschte, mein Spitzname wäre ...",
+            "t": "A",
+            "v": "802949_0",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

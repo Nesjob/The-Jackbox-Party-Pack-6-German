@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"sie abgeben",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"sie bei eBay verkaufen",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"sie behalten",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Du findest die Jacke deines Ex in deinem Haus. Sie ist sehr teuer, also solltest du...",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Du findest die Jacke deines Ex in deinem Haus. Sie ist sehr teuer, also solltest du...",
+         "t":"A",
+         "v":"814392_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

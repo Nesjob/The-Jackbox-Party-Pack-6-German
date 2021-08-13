@@ -1,0 +1,65 @@
+{
+   "fields": [
+      {
+         "t": "N",
+         "v": "2",
+         "n": "AlienPromptDifficulty2"
+      },
+      {
+         "t": "N",
+         "v": "2",
+         "n": "AlienPromptDifficulty1"
+      },
+      {
+         "t": "N",
+         "v": "2",
+         "n": "AlienPromptDifficulty0"
+      },
+      {
+         "t": "N",
+         "v": "2",
+         "n": "Difficulty"
+      },
+      {
+         "t": "S",
+         "v": "false",
+         "n": "AlienPromptAdultt0"
+      },
+      {
+         "t": "S",
+         "v": "Nachos sind besser als Pommes.",
+         "n": "AlienPromptText0"
+      },
+      {
+         "t": "S",
+         "v": "false",
+         "n": "AlienPromptAdultt1"
+      },
+      {
+         "t": "S",
+         "v": "Mir ist lieber heiß als kalt.",
+         "n": "AlienPromptText1"
+      },
+      {
+         "t": "S",
+         "v": "false",
+         "n": "AlienPromptAdultt2"
+      },
+      {
+         "t": "S",
+         "v": "Mir ist es lieber, kalt zu sein, statt heiß.",
+         "n": "AlienPromptText2"
+      },
+      {
+         "t": "S",
+         "v": "Ich bin ein Alien und ihr werdet uns niemals alle fangen! Ha Ha Ha!!!",
+         "n": "HumanPromptText"
+      },
+      {
+         "s": "Ich bin ein Alien und ihr werdet uns niemals alle fangen! Ha Ha Ha!!!",
+         "t": "A",
+         "v": "890516_2",
+         "n": "HumanPromptAudio"
+      }
+   ]
+}

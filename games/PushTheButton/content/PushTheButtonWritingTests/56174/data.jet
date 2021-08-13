@@ -1,0 +1,155 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty8"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty7"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt7"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt8"
+        },
+        {
+            "t": "S",
+            "v": "Mein liebstes fiktives Tier ist ...",
+            "n": "AlienPromptText8"
+        },
+        {
+            "t": "S",
+            "v": "Das Tier, das ich schon immer mal streicheln wollte, ist ein/e ...",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Das weichste Tier ist ein/e....",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Das sanfteste Tier ist ein/e....",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "Mein Lieblingsdinosaurier ist wahrscheinlich ...",
+            "n": "AlienPromptText6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Das gruseligste Tier ist wahrscheinlich ...",
+            "n": "AlienPromptText7"
+        },
+        {
+            "t": "S",
+            "v": "Das Tier, das ich schon immer mal reiten wollte, ist ein/e ...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ein seltsames Tier, das ich in Betracht ziehen würde, zu essen, ist ein/e ...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Das Tier, das meiner Persönlichkeit am nächsten kommt, ist ein/e ...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Ein Tier, das sich wahrscheinlich cool fühlt, ist ein/e....",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Das Tier, das ich schon immer mal streicheln wollte, ist ein/e...",
+            "t": "A",
+            "v": "803057_0",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

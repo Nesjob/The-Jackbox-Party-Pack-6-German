@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Im Flugzeug, gib mir den Fensterplatz",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ich habe Höhenangst",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Mir wird bei Flügen schlecht",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Ich habe Angst vorm Fliegen.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Ich habe Angst vorm Fliegen.",
+            "t": "A",
+            "v": "818492_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

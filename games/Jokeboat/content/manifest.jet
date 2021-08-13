@@ -1,0 +1,8 @@
+
+{
+    "id":"Main",
+    "name":"Jokeboat Main",
+    "types":[
+        "JokeboatCatchphrase", "JokeboatCatchphraseFill", "JokeboatSetup", "JokeboatAnimal", "JokeboatBrand", "JokeboatFood", "JokeboatLocation", "JokeboatObject", "JokeboatPerson", "JokeboatThings", "JokeboatCaptainLog", "JokeboatCaptainLogFinal"
+    ]
+}

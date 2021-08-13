@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"New York City",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"die Mitte von Nevada",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"Miami Beach",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Dein kleiner Seelöwe ist zu groß geworden. Damit er glücklich ist, ist der Ort, an dem du ihn freilassen kannst,...",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Dein kleiner Seelöwe ist zu groß geworden. Damit er glücklich ist, ist der Ort, an dem du ihn freilassen kannst,...",
+         "t":"A",
+         "v":"824518_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

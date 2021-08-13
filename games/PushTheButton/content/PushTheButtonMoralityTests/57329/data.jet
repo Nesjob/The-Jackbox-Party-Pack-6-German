@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"es ihm sagen",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"es runterspülen und es vergessen",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"es zu ihm bringen",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Du bemerkst, dass ein Kollege unwissentlich sein Sandwich in eine Toilette fallen gelassen hat. Du musst...",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Du bemerkst, dass ein Kollege unwissentlich sein Sandwich in eine Toilette fallen gelassen hat. Du musst...",
+         "t":"A",
+         "v":"827538_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

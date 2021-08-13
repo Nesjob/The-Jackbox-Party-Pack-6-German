@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"es jedem erzählen",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"sie wegjagen",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"in ihr Haus einbrechen",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Manche Vögel sind in Panik, weil ihre Babys im Vogelhaus festsitzen. Du würdest...",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Manche Vögel sind in Panik, weil ihre Babys im Vogelhaus festsitzen. Du würdest...",
+         "t":"A",
+         "v":"835047_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}
