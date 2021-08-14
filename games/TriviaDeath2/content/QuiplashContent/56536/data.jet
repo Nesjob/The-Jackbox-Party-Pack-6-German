@@ -1,0 +1,50 @@
+{
+	"fields": [
+		{
+			"t": "B",
+			"v": "false",
+			"n": "HasJokeAudio"
+		},
+		{
+			"t": "S",
+			"v": "",
+			"n": "StadiumAnswers"
+		},
+		{
+			"t": "S",
+			"v": "",
+			"n": "Keywords"
+		},
+		{
+			"t": "S",
+			"v": "",
+			"n": "Author"
+		},
+		{
+			"t": "S",
+			"v": "",
+			"n": "KeywordResponseText"
+		},
+		{
+			"t": "S",
+			"v": "[EventName=HOST/AltHost]Etwas Gesundes, das ich unter meinem Fußboden gefunden habe",
+			"n": "PromptText"
+		},
+		{
+			"t": "S",
+			"v": "",
+			"n": "Location"
+		},
+		{
+			"s": "",
+			"t": "A",
+			"n": "KeywordResponseAudio"
+		},
+		{
+			"s": "[EventName=HOST/AltHost]Etwas Gesundes, das ich unter meinem Fußboden gefunden habe",
+			"t": "A",
+			"v": "808831_2",
+			"n": "PromptAudio"
+		}
+	]
+}
