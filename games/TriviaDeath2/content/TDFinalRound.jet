@@ -12306,7 +12306,7 @@
                "text":"<i>Liebling, ich habe die Kinder geschrumpft<\/i>"
             }
          ],
-         "us":false
+         "us":true
       },
       {
          "x":false,
@@ -16087,160 +16087,160 @@
       {
          "x":false,
          "id":55291,
-         "text":"Tony Award Gewinner für das beste Musical",
+         "text":"Preisträger der Goldenen Kamera",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Fun Home<\/i>"
+               "text":"Alf"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>A Gentleman\u2019s Guide to Love & Murder<\/i>"
+               "text":"<i>Augsburger Puppenkiste</i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Kinky Boots<\/i>"
+               "text":"<i>Bares für Rares</i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Book of Mormon<\/i>"
+               "text":"Danny DeVito"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Billy Elliot<\/i>"
+               "text":"Die deutsche Fußball-Nationalmannschaft"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Jersey Boys<\/i>"
+               "text":"Thomas Gottschalk"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Monty Python\u2019s Spamalot<\/i>"
+               "text":"Tim Mälzer"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Avenue Q<\/i>"
+               "text":"Jörg Pilawa"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Hairspray<\/i>"
+               "text":"Stefan Raab"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Thoroughly Modern Millie<\/i>"
+               "text":"Rach, der Restauranttester"
             },
             {
                "difficulty":-1,
                "correct":true,
-               "text":"<i>Hamilton<\/i>"
+               "text":"<i>RTL aktuell<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Rent<\/i>"
+               "text":"Til Schweiger"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Kiss of the Spider Woman<\/i>"
+               "text":"Ed Sheeran"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Cats<\/i>"
+               "text":"Richard von Weizsäcker"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Dear Evan Hansen<\/i>"
+               "text":"Domtendo"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Frozen<\/i>"
+               "text":"Angela Merkel"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Waitress<\/i>"
+               "text":"Elsa"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>School of Rock<\/i>"
+               "text":"WALL-E"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Beautiful: The Carole King Musical<\/i>"
+               "text":"Sido"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Aladdin<\/i>"
+               "text":"Michael Wendler"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Newsies<\/i>"
+               "text":"Gundula Gause"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>American Idiot<\/i>"
+               "text":"Dieter Nuhr"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>The Scottsboro Boys<\/i>"
+               "text":"<i>Wer wird Millionär</i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Mary Poppins<\/i>"
+               "text":"Guido Cantz"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>The Color Purple<\/i>"
+               "text":"Gronkh"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>The 25th Annual Putnam County Spelling Bee<\/i>"
+               "text":"Luke Mockridge"
             },
             {
                "difficulty":1,
                "correct":false,
-               "text":"<i>Wicked<\/i>"
+               "text":"Meister Proper"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Mamma Mia!<\/i>"
+               "text":"Felix Lobrecht"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Smokey Joe\u2019s Cafe<\/i>"
+               "text":"Justin Bieber"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Meet Me in St. Louis<\/i>"
+               "text":"<i>Das Sandmännchen<\/i>"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -16961,112 +16961,112 @@
       {
          "x":false,
          "id":56905,
-         "text":"Bücher in L. Frank Baum\u2019s <i>Oz<\/i> Serie",
+         "text":"Google Produkte",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Ozma of Oz<\/i>"
+               "text":"Cardboard"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Road to Oz<\/i>"
+               "text":"Chromecast"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Emerald City of Oz<\/i>"
+               "text":"Docs"
             },
             {
                "difficulty":-1,
                "correct":true,
-               "text":"<i>The Wonderful Wizard of Oz<\/i>"
+               "text":"Earth"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Patchwork Girl of Oz<\/i>"
+               "text":"Duo"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Tik-Tok of Oz<\/i>"
+               "text":"Expeditionen"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Scarecrow of Oz<\/i>"
+               "text":"Express"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Lost Princess of Oz<\/i>"
+               "text":"One"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Magic of Oz<\/i>"
+               "text":"Hangouts"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Glinda of Oz<\/i>"
+               "text":"Stadia"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Marvelous Land of Oz<\/i>"
+               "text":"Podcasts"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Dorothy and the Wizard in Oz<\/i>"
+               "text":"Waze"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Rinkitink in Oz<\/i>"
+               "text":"Travel"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Tin Woodman of Oz<\/i>"
+               "text":"Finanzen"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>The Floating City of Oz<\/i>"
+               "text":"Cook"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Rooby-Dooby of Oz<\/i>"
+               "text":"Filme"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>The Enchanted Forest of Oz<\/i>"
+               "text":"Chromestrap"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>The Apple-Throwing Trees of Oz<\/i>"
+               "text":"Clean"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Bunchkin Munchkin of Oz<\/i>"
+               "text":"Spark"
             },
             {
                "difficulty":1,
                "correct":false,
-               "text":"<i>The Wizard of Oz<\/i>"
+               "text":"Prime"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Adebisi of Oz<\/i>"
+               "text":"Musicals"
             }
          ],
          "us":true
@@ -17177,97 +17177,97 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"Jurassic"
+               "text":"Mittleres Präkambrium"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Cretaceous"
+               "text":"Ordovizium"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Triassic"
+               "text":"Silur"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Permian"
+               "text":"Devon"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Cambrian"
+               "text":"Karbon"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Devonian"
+               "text":"Perm"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Paleogene"
+               "text":"Trias"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Neogene"
+               "text":"Jura"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Silurian"
+               "text":"Kreide"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Carboniferous"
+               "text":"Tertiär"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Glacian"
+               "text":"Gletscher"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Vegiterion"
+               "text":"Vegetation"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Romulan"
+               "text":"Romulanisch"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Genesisogene"
+               "text":"Genesisogen"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Volcanian"
+               "text":"Vulkanisch"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Mountainous"
+               "text":"Bergisch"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Quadassic"
+               "text":"Quadasisch"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Septassic"
+               "text":"Septasisch"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Primataceous"
+               "text":"Primat"
             }
          ],
          "us":true
@@ -17280,92 +17280,92 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"macaque"
+               "text":"Makaken"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"talapoin"
+               "text":"Zwergmeerkatzen"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"marmoset"
+               "text":"Marmosetten"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"lemur"
+               "text":"Lemuren"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"aye-aye"
+               "text":"Fingertier"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"chimpanzee"
+               "text":"Schimpansen"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"bonobo"
+               "text":"Bonobo"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"human"
+               "text":"Mensch"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"gibbon"
+               "text":"Gibbons"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"mandrill"
+               "text":"Mandrill"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"tamarin"
+               "text":"Saguinus"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"orangutan"
+               "text":"Orang-Utans"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"gorilla"
+               "text":"Gorillas"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"macaw"
+               "text":"Aras"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"wombat"
+               "text":"Wombats"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"tasmanian devil"
+               "text":"Tasmanischer Teufel"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"echidna"
+               "text":"Ameisenigel"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Bandicoot"
+               "text":"Nasenbeutler"
             },
             {
                "difficulty":0,
@@ -17375,15 +17375,15 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"Caracal"
+               "text":"Karakal"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Three-Toed Sloth"
+               "text":"Dreifinger-Faultiere"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -17496,70 +17496,70 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"Root"
+               "text":"Wurzel"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Sacral"
+               "text":"Sakral"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Solar Plexus"
+               "text":"Nabel"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Heart"
+               "text":"Herz"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Throat"
+               "text":"Hals"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Third Eye"
+               "text":"Drittes Auge"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Crown"
+               "text":"Krone"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Middle Eye"
+               "text":"Mittleres Auge"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Stem"
+               "text":"Ausdauer"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Lung"
+               "text":"Lunge"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Ground"
+               "text":"Boden"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Inner Soul"
+               "text":"Innere Seele"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Thigh Gap"
+               "text":"Oberschenkel"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -17574,17 +17574,17 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Star Wars: The Last Jedi<\/i>"
+               "text":"<i>Star Wars: Die letzten Jedi<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Raiders of the Lost Ark<\/i>"
+               "text":"<i>Jäger des verlorenen Schatzes<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>E.T. the Extra-Terrestrial<\/i>"
+               "text":"<i>E.T. Der Außerirdische<\/i>"
             },
             {
                "difficulty":0,
@@ -17594,32 +17594,32 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Home Alone<\/i>"
+               "text":"<i>Kevin - Allein zu Haus<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Jaws<\/i>"
+               "text":"<i>Der weiße Hai<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Schindler\u2019s List<\/i>"
+               "text":"<i>Schindler\u2019s Liste<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Patriot<\/i>"
+               "text":"<i>Der Patriot<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Harry Potter and the Sorcerer\u2019s Stone<\/i>"
+               "text":"<i>Harry Potter und der Stein der Weisen<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Post<\/i>"
+               "text":"<i>Die Verlegerin<\/i>"
             },
             {
                "difficulty":0,
@@ -17634,7 +17634,7 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Back to the Future<\/i>"
+               "text":"<i>Zurück in die Zukunft<\/i>"
             },
             {
                "difficulty":0,
@@ -17644,7 +17644,7 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>The Godfather<\/i>"
+               "text":"<i>Der Pate<\/i>"
             },
             {
                "difficulty":0,
@@ -17654,12 +17654,12 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Into the Spiderverse<\/i>"
+               "text":"<i>Spider-Man: A New Universe<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Lawrence of Arabia<\/i>"
+               "text":"<i>Lawrence von Arabien<\/i>"
             },
             {
                "difficulty":0,
@@ -18192,95 +18192,95 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"rounded squash"
+               "text":"Spaghetti Kürbis"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"crookneck squash"
+               "text":"Butternuss"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"patty pan squash"
+               "text":"Chamäleon"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"butternut squash"
+               "text":"Dornenkrone"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"tromboncino squash"
+               "text":"Festival"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"acorn squash"
+               "text":"Flaschenkürbis"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"buttercup squash"
+               "text":"Ghost Rider"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"hubbard squash"
+               "text":"Herkules Keule"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"dumpling squash"
+               "text":"Langer von Nizza"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"spaghetti squash"
+               "text":"Ölkürbis"
+            },
+            {
+               "difficulty":0,
+               "correct":true,
+               "text":"Weisser Ufo"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"hazelnut squash"
+               "text":"Squish Squash"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"squish squash"
+               "text":"Kokos-Kürbis"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"coconut squash"
+               "text":"Pickelkürbis"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"pimple squash"
+               "text":"Sandpapierkürbis"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"sandpaper squash"
+               "text":"Wassermelonenkürbis"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"watermelon squash"
+               "text":"Hässlicher Kürbis"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"ugly squash"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"trumpet squash"
+               "text":"Trompetenkürbis"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -18466,7 +18466,7 @@
                "text":"Wild Turkey"
             }
          ],
-         "us":false
+         "us":true
       },
       {
          "x":false,
@@ -18569,17 +18569,17 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Three Musicians<\/i>"
+               "text":"<i>Drei Musikanten<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Old Guitarist<\/i>"
+               "text":"<i>Der alte Gitarrenspieler<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Girl Before a Mirror<\/i>"
+               "text":"<i>Mädchen vor dem Spiegel<\/i>"
             },
             {
                "difficulty":0,
@@ -18589,62 +18589,62 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Mother and Child<\/i>"
+               "text":"<i>Mutter und Kind<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Girl with Mandolin<\/i>"
+               "text":"<i>Mädchen mit Mandoline<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Large Bather<\/i>"
+               "text":"<i>Junge mit Pfeife<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Science and Charity<\/i>"
+               "text":"<i>Wissenschaft und Nächstenliebe<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Accordionist<\/i>"
+               "text":"<i>Akkordeonspieler<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Bather with Beach Ball<\/i>"
+               "text":"<i>Badende mit Strandball<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Nude Descending a Staircase<\/i>"
+               "text":"<i>Nackt die Treppe hinunter<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Composition VII<\/i>"
+               "text":"<i>Komposition VII<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Movement in Squares<\/i>"
+               "text":"<i>Bewegung im Quadrat<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Orange, Red, Yellow<\/i>"
+               "text":"<i>Orange, Rot, Gelb<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>The Dot and the Line<\/i>"
+               "text":"<i>Der Punkt und der Strich<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Campbell\u2019s Soup Cans<\/i>"
+               "text":"<i>Campbell\u2019s Suppenschüsseln<\/i>"
             },
             {
                "difficulty":0,
@@ -18654,148 +18654,148 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Madonna and Child<\/i>"
+               "text":"<i>Madonna und Kind<\/i>"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
          "id":57025,
-         "text":"Akira Kurosawa Filme",
+         "text":"Magische Baumhaus Bücher",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Hidden Fortress<\/i>"
+               "text":"<i>Im Tal der Dinosaurier<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Seven Samurai<\/i>"
+               "text":"<i>Das Geheimnis der Mumie<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Rashomon<\/i>"
+               "text":"<i>Der Schatz der Piraten<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Yojimbo<\/i>"
+               "text":"<i>Abenteuer auf dem Mond<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Ran<\/i>"
+               "text":"<i>Verschollen auf hoher See<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Ikiru<\/i>"
+               "text":"<i>Geheimauftrag in Paris<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Throne of Blood<\/i>"
+               "text":"<i>Lawinenhunde im Schneesturm<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>My Neighbor Totoro<\/i>"
+               "text":"<i>Der große Wettbewerb<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Princess Mononoke<\/i>"
+               "text":"<i>Die Rettung des roten Ritters<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Battle Royale<\/i>"
+               "text":"<i>Piratenspuk in der Südsee<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Grave of the Fireflies<\/i>"
+               "text":"<i>Das Rätsel des Vulkans<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Audition<\/i>"
+               "text":"<i>Abenteuer im Land der Elfen<\/i>"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
          "id":57074,
-         "text":"Boote mit Segeln",
+         "text":"Griechische Buchstaben",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"Sloop"
+               "text":"Alpha"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Cutter"
+               "text":"Delta"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Ketch"
+               "text":"Epsilon"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Yawl"
+               "text":"Theta"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Schooner"
+               "text":"Iota"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Gaffer"
+               "text":"Kappa"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Scow"
+               "text":"Lambda"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Galleon"
+               "text":"Omikron"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Catamaran"
+               "text":"Pi"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Pontoon"
+               "text":"Poggas"
             },
             {
                "difficulty":0,
-               "correct":false,
-               "text":"Joke Boat"
-            },
-            {
-               "difficulty":-1,
                "correct":false,
                "text":"Kayak"
             },
             {
                "difficulty":-1,
                "correct":false,
-               "text":"Canoe"
+               "text":"Omegalul"
+            },
+            {
+               "difficulty":-1,
+               "correct":false,
+               "text":"Chrom"
             },
             {
                "difficulty":0,
@@ -18808,7 +18808,7 @@
                "text":"Tugboat"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -18818,75 +18818,75 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"badger"
+               "text":"Dachse"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"racoon"
+               "text":"Waschbär"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"barn owl"
+               "text":"Schleiereule"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"red panda"
+               "text":"Roter Panda"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"wombat"
+               "text":"Wombat"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"bat"
+               "text":"Fledermaus"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"hedgehog"
+               "text":"Igel"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"bandicoot"
+               "text":"Nasenbeutler"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"human"
+               "text":"Mensch"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"gorilla"
+               "text":"Gorilla"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"red squirrel"
+               "text":"Eichhörnchen"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"robin"
+               "text":"Drossel"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"sparrow"
+               "text":"Spatz"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"giraffe"
+               "text":"Giraffe"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -18959,62 +18959,62 @@
       {
          "x":false,
          "id":57129,
-         "text":"Charlie Chaplin Filme",
+         "text":"Loriot Filme",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>City Lights<\/i>"
+               "text":"<i>Haie und kleine Fische<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Gold Rush<\/i>"
+               "text":"<i>Die Brücke<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Kid<\/i>"
+               "text":"<i>Das Wunder des Malachias<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Modern Times<\/i>"
+               "text":"<i>Der längste Tag<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Great Dictator<\/i>"
+               "text":"<i>Carlas Briefe<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>A King in New York<\/i>"
+               "text":"<i>Noch ne Oper<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Circus<\/i>"
+               "text":"<i>Wer spinnt denn da, Herr Doktor?<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Monsieur Verdoux<\/i>"
+               "text":"<i>Ödipussi<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>A Woman of Paris<\/i>"
+               "text":"<i>Pappa ante Portas<\/i>"
+            },
+            {
+               "difficulty":0,
+               "correct":true,
+               "text":"<i>Der Lottogewinner<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>The Artist<\/i>"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"<i>The General<\/i>"
+               "text":"<i>Der General<\/i>"
             },
             {
                "difficulty":0,
@@ -19024,22 +19024,22 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>The Cabinet of Dr. Caligari<\/i>"
+               "text":"<i>Das Sofa<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>The Jazz Singer<\/i>"
+               "text":"<i>Loriot - Der Film<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Safety Last!<\/i>"
+               "text":"<i>Sicherheit geht nach!<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Battleship Potemkin<\/i>"
+               "text":"<i>Lass den Jungen doch mal raus<\/i>"
             }
          ],
          "us":false
@@ -19052,7 +19052,7 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"Benadryl"
+               "text":"Diphenhydramin"
             },
             {
                "difficulty":0,
@@ -19062,7 +19062,7 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"Claritin"
+               "text":"Loratadin"
             },
             {
                "difficulty":0,
@@ -19072,17 +19072,17 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"Chlor-Trimeton"
+               "text":"Chlorphenamin"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Palgic"
+               "text":"Carbinoxamine"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Allerhist-1"
+               "text":"Clemastin"
             },
             {
                "difficulty":0,
@@ -19097,7 +19097,7 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"Sudafed"
+               "text":"Pseudoephedrin"
             },
             {
                "difficulty":0,
@@ -19107,17 +19107,17 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"Mucinex"
+               "text":"Guaifenesin"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Advil"
+               "text":"Ibuprofen"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Aleve"
+               "text":"Naproxen"
             },
             {
                "difficulty":0,
@@ -19125,7 +19125,7 @@
                "text":"Motrin"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -19276,7 +19276,7 @@
                "text":"New Province Day"
             }
          ],
-         "us":false
+         "us":true
       },
       {
          "x":false,
@@ -19286,70 +19286,70 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"pearl onion"
+               "text":"Perlzwiebel"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"leek"
+               "text":"Lauch"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"bermuda onion"
+               "text":"Bermuda-Zwiebel"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"shallot"
+               "text":"Schalotte"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"calçot"
+               "text":"Calçots"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"scallion"
+               "text":"Lauchzwiebel"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"ramp"
+               "text":"Ramp-Lauch"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"fennel"
+               "text":"Fenchel"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"anise"
+               "text":"Anis"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"ginger"
+               "text":"Ingwer"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"licorice"
+               "text":"Lakritze"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"nettle"
+               "text":"Nesseln"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"kohlrabi"
+               "text":"Kohlrabi"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -19359,85 +19359,85 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"Chasing a Chicken"
+               "text":"Ein Huhn jagen"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Running With Bricks in Hands"
+               "text":"Mit Steinen in der Hand laufen"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"One-Arm Push-Ups"
+               "text":"Einarmige Liegestütze"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Punching Meat"
+               "text":"Fleisch schlagen"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Running up Steps"
+               "text":"Stufen hochlaufen"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Hitting Speed Bag"
+               "text":"Boxbirne schlagen"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Sawing Wood"
+               "text":"Holz sägen"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Carrying Log on Shoulders"
+               "text":"Holz auf den Schultern tragen"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Chopping a Tree"
+               "text":"Einen Baum fällen"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Fighting a Bull"
+               "text":"Einen Stier bekämpfen"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Lifting Cars"
+               "text":"Autos anheben"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Pulling Weeds"
+               "text":"Unkraut jäten"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Ripping Phonebooks"
+               "text":"Telefonbücher zerreissen"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Tearing up Carpet"
+               "text":"Teppiche zerreissen"
             },
             {
                "difficulty":-1,
                "correct":false,
-               "text":"Churning Butter"
+               "text":"Butter rühren"
             },
             {
                "difficulty":-1,
                "correct":false,
-               "text":"Milking a Cow"
+               "text":"Eine Kuh melken"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -19447,7 +19447,7 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"Pizza Kabobbles"
+               "text":"Pizza Hawaii"
             },
             {
                "difficulty":0,
@@ -19457,70 +19457,70 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"6-Piece Chicken Dunks"
+               "text":"Senfkrustenbraten"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Extra Cheesy Pizza"
+               "text":"Pizza mit extra Käse"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Ham + American Cracker Stackers"
+               "text":"Rindergeschnetzeltes Stroganoff"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Nachos, Cheese Dip + Salsa"
+               "text":"Chili con Carne mit Feta"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Pizza and Treatza"
+               "text":"Kalbstafelspitz"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Turkey + Cheddar Cracker Stackers"
+               "text":"Gazpacho-Nudeln mit Ei-Bröseln"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Ultimate Deep Dish Pizza With Pepperoni"
+               "text":"Super leckere Bananen-Schoko-Pancakes"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Chicken Pizza"
+               "text":"Hühnchen Pizza"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Mexican Style Chicken Tacos"
+               "text":"Gefüllte Paprika mit Bulgur und Hack"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Asian Style BBQ Chicken"
+               "text":"Feigen-Trauben-Salat mit gebratenen Wachteln"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Italian Style Chicken"
+               "text":"Maronen-Semmelknödel mit gebratenen Tomaten"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Light Bologna + American Cracker Stackers"
+               "text":"Roggen-Gnocchi mit Kürbissauce"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"6-Inch Turkey + Cheddar Sub Sandwich"
+               "text":"Doppelte Pommes Mayo mit Currywurst"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -19598,95 +19598,95 @@
       {
          "x":false,
          "id":57234,
-         "text":"Nomen im Plural",
+         "text":"Nomen, die im Singular und Plural gleich sind",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"Cacti"
+               "text":"Brunnen"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Bacteria"
+               "text":"Fenster"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Passersby"
+               "text":"Lehrer"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Millennia"
+               "text":"Lager"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Amoebae"
+               "text":"Messer"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Analyses"
+               "text":"Mitarbeiter"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Dice"
+               "text":"Würfel"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Paparazzi"
+               "text":"Zimmer"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Lice"
+               "text":"Opfer"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Women"
+               "text":"Faden"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Vertebrae"
+               "text":"Täter"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Goose"
+               "text":"Gans"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Octopus"
+               "text":"Oktopus"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Mongoose"
+               "text":"Leserbrief"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Datum"
+               "text":"Couch"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Fungus"
+               "text":"Ananas"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Alumnus"
+               "text":"Paprika"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -19696,57 +19696,57 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"quinoa"
+               "text":"Quinoa"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"bananas"
+               "text":"Bananen"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"peaches"
+               "text":"Pfirsiche"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"mushrooms"
+               "text":"Pilze"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"green beans"
+               "text":"Grüne Bohnen"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"cottage cheese"
+               "text":"Hüttenkäse"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"sour cream"
+               "text":"Saure Sahne"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Reese\u2019s Peanut Butter Cups"
+               "text":"Lindt Schokolade"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Cheetos"
+               "text":"Bionade"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Almond Joy"
+               "text":"FunnyFrisch Chips"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"hummus"
+               "text":"Hummus"
             },
             {
                "difficulty":0,
@@ -19756,25 +19756,25 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"Goldfish crackers"
+               "text":"Smarties"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Pop-Tarts"
+               "text":"Oreos"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Twix bars"
+               "text":"Twix Riegel"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Wonder Bread"
+               "text":"Glühwein"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -19965,52 +19965,52 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"okapi"
+               "text":"Okapi"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"tabby cat"
+               "text":"Tabby Katze"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"chipmunk"
+               "text":"Chipmunks"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"skunk"
+               "text":"Stinktiere"
             },
             {
                "difficulty":-1,
                "correct":true,
-               "text":"tiger"
+               "text":"Tiger"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"bongo"
+               "text":"Bongo"
             },
             {
                "difficulty":1,
                "correct":true,
-               "text":"nyala"
+               "text":"Nyala"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"numbat"
+               "text":"Ameisenbeutler"
             },
             {
                "difficulty":-1,
                "correct":true,
-               "text":"zebra"
+               "text":"Zebra"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Siamese cat"
+               "text":"Siamkatze"
             },
             {
                "difficulty":0,
@@ -20020,15 +20020,15 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"wombat"
+               "text":"Wombats"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"water buffalo"
+               "text":"Asiatische Büffel"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -20038,100 +20038,100 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"kudu"
+               "text":"Strepsiceros"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"ibex"
+               "text":"Alpensteinbock"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"impala"
+               "text":"Impala"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"dik-dik"
+               "text":"Dikdiks"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"bongo"
+               "text":"Bongo"
             },
             {
                "difficulty":-1,
                "correct":true,
-               "text":"gazelle"
+               "text":"Gazelle"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"common eland"
+               "text":"Elenantilope"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"gerenuk"
+               "text":"Giraffengazellen"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"springbok"
+               "text":"Springbock"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"klipspringer"
+               "text":"Klippspringer"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"wildebeest"
+               "text":"Gnus"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"caprinae"
+               "text":"Ziegenartige"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"yak"
+               "text":"Yak"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"bison"
+               "text":"Bison"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"water buffalo"
+               "text":"Asiatische Büffel"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"ocelot"
+               "text":"Ozelot"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"lynx"
+               "text":"Luchs"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"oncilla"
+               "text":"Nördliche Tigerkatze"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"capuchin"
+               "text":"Kapuzineraffen"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -20312,62 +20312,62 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"IAMS"
+               "text":"Wildes Land"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Blue Buffalo"
+               "text":"PRIMUM"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Purina"
+               "text":"Terra Canis"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"American Journey"
+               "text":"Herrmann\u2018s Manufaktur"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Natural Balance"
+               "text":"GranataPet"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Kibbles \u2018N Bits"
+               "text":"MERA"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"AvoDerm"
+               "text":"Bubeck"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Hill\u2019s"
+               "text":"Markus Mühle"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Royal Canin"
+               "text":"GranataPet"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Eukanuba"
+               "text":"Bosch"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Applegate Farms"
+               "text":"Apfeltor Farm"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Annie\u2019s Homegrown"
+               "text":"Anne\u2019s Bauernhof"
             },
             {
                "difficulty":0,
@@ -20377,17 +20377,17 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"Bear Naked"
+               "text":"Hundetraum"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Sabra"
+               "text":"WuffWuff Hamm"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Archer Farms"
+               "text":"Tierkontakt"
             },
             {
                "difficulty":0,
@@ -20397,10 +20397,10 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"Purell"
+               "text":"Purello"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -20694,125 +20694,125 @@
       {
          "x":false,
          "id":55887,
-         "text":"Prepositions",
+         "text":"Präpositionen",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"versus"
+               "text":"aufgrund"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"upon"
+               "text":"während"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"regarding"
+               "text":"anhand"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"during"
+               "text":"außer"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"from"
+               "text":"mit"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"via"
+               "text":"gegen"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"amidst"
+               "text":"seit"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"to"
+               "text":"links"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"with"
+               "text":"statt"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"of"
+               "text":"samt"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"notwithstanding"
+               "text":"entsprechend"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"yet"
+               "text":"noch"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"soon"
+               "text":"demnächst"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"away"
+               "text":"gern"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"regardless"
+               "text":"oft"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"an"
+               "text":"sehr"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"untoward"
+               "text":"worüber"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"ouch"
+               "text":"trotzdem"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"that"
+               "text":"leider"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"then"
+               "text":"dann"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"awry"
+               "text":"schief"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"its"
+               "text":"es"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"and"
+               "text":"und"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -20915,7 +20915,7 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"vitaminwater"
+               "text":"mezzo mix"
             },
             {
                "difficulty":0,
@@ -20925,47 +20925,47 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"TaB"
+               "text":"ViO"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"DASANI"
+               "text":"lift Apfelschorle"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"smartwater"
+               "text":"Apollinaris"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Dunkin\u2019 Donuts Original Iced Coffee"
+               "text":"fuzetea"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"FUZE"
+               "text":"Honest"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Hi-C"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Honest Tea"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Odwalla"
+               "text":"Powerade"
             },
             {
                "difficulty":0,
                "correct":true,
                "text":"Minute Maid"
+            },
+            {
+               "difficulty":0,
+               "correct":true,
+               "text":"innocent"
+            },
+            {
+               "difficulty":0,
+               "correct":true,
+               "text":"Adez"
             },
             {
                "difficulty":0,
@@ -20985,22 +20985,17 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"Aquafina"
+               "text":"Rockstar Energy"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Brisk"
+               "text":"Bionade"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Dr. Brown\u2019s"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Monster Energy"
+               "text":"Fritz"
             },
             {
                "difficulty":0,
@@ -21010,20 +21005,25 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"Celestial Seasonings"
+               "text":"Sinalco"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Naked Juice"
+               "text":"Schweppes"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"5-hour ENERGY"
+               "text":"Vitamalz"
+            },
+            {
+               "difficulty":0,
+               "correct":false,
+               "text":"Becks"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -21121,90 +21121,90 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"giant otter"
+               "text":"Riesenotter"
             },
             {
                "difficulty":-1,
                "correct":true,
-               "text":"flamingo"
+               "text":"Flamingos"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"platypus"
+               "text":"Schnabeltiere"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"blue-footed booby"
+               "text":"Blaufußtölpel"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"hippopotamus"
+               "text":"Nilpferde"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"otterhound"
+               "text":"Otterhunde"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"flying frog"
+               "text":"Flugfrosch"
             },
             {
                "difficulty":-1,
                "correct":true,
-               "text":"mallard duck"
+               "text":"Stockente"
             },
             {
                "difficulty":1,
                "correct":true,
-               "text":"golden retriever"
+               "text":"Golden Retriever"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"puffin"
+               "text":"Lunde"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"manatee"
+               "text":"Rundschwanzseekühe"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"two-toed sloth"
+               "text":"Zweifinger-Faultiere"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"sea turtle"
+               "text":"Meeresschildkröte"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"tortoise"
+               "text":"Schildkröte"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"spotted owl"
+               "text":"Fleckenkauz"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"parrot"
+               "text":"Papageien"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Komodo dragon"
+               "text":"Komodowaran"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -21214,85 +21214,85 @@
             {
                "difficulty":-1,
                "correct":true,
-               "text":"steak"
+               "text":"Steak"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"tuna"
+               "text":"Thunfisch"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"lentils"
+               "text":"Linse"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"tempeh"
+               "text":"Tempeh"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"edamame"
+               "text":"Edamame"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"peanut butter"
+               "text":"Erdnussbutter"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"non-fat Greek yogurt"
+               "text":"Fettfreier griechischer Joghurt"
             },
             {
                "difficulty":-1,
                "correct":true,
-               "text":"salmon"
+               "text":"Lachs"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"lamb"
+               "text":"Lamm"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"apples"
+               "text":"Äpfel"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"carrots"
+               "text":"Möhren"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"olive oil"
+               "text":"Olivenöl"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"cornstarch"
+               "text":"Maisstärke"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"grapes"
+               "text":"Trauben"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"green onion"
+               "text":"grüne Zwiebeln"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"orange juice"
+               "text":"Orangensaft"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -21448,7 +21448,7 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"Obadiah"
+               "text":"Obadja"
             },
             {
                "difficulty":0,
@@ -21458,47 +21458,47 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"Jonah"
+               "text":"Jona"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Lamentations"
+               "text":"Jeremia"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Micah"
+               "text":"Micha"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"2 Kings"
+               "text":"2. Könige"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Habakkuk"
+               "text":"Habakuk"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"1 Chronicles"
+               "text":"1. Chronik"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Hebrews"
+               "text":"Hebräer"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Matthew"
+               "text":"Matthäus"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"1 Corinthians"
+               "text":"1. Korinther"
             },
             {
                "difficulty":0,
@@ -21513,20 +21513,20 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"Jacob"
+               "text":"Jakob"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Enos"
+               "text":"Enosch"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Jude"
+               "text":"Römer"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x": false,
@@ -21672,47 +21672,47 @@
 				{
 					"difficulty": -1,
 					"correct": true,
-					"text": "Carbon Dioxide"
+					"text": "Kohlendioxid"
 				},
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "Methane"
+					"text": "Methan"
 				},
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "Nitrous Oxide"
+					"text": "Distickstoffmonoxid"
 				},
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "Tetrafluoromethane"
+					"text": "Tetrafluormethan"
 				},
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "Hexafluoroethane"
+					"text": "Hexafluorethan"
 				},
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "Sulfur Hexafluoride"
+					"text": "Schwefelhexafluorid"
 				},
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "Nitrogen Trifluoride"
+					"text": "Stickstofftrifluorid"
 				},
 				{
 					"difficulty": 0,
 					"correct": true,
-					"text": "Ozone"
+					"text": "Ozon"
 				},
 				{
 					"difficulty": 1,
 					"correct": true,
-					"text": "Water Vapor"
+					"text": "Wasserdampf"
 				},
 				{
 					"difficulty": 0,
@@ -21722,17 +21722,17 @@
 				{
 					"difficulty": 0,
 					"correct": false,
-					"text": "Diatomic Nitrogen"
+					"text": "Nitrogen"
 				},
 				{
 					"difficulty": -1,
 					"correct": false,
-					"text": "Oxygen"
+					"text": "Sauerstoff"
 				},
 				{
 					"difficulty": 0,
 					"correct": false,
-					"text": "Sulfur Dioxide"
+					"text": "Schwefeldioxid"
 				},
 				{
 					"difficulty": 0,
@@ -21742,12 +21742,12 @@
 				{
 					"difficulty": 0,
 					"correct": false,
-					"text": "Propane"
+					"text": "Propan"
 				},
 				{
 					"difficulty": 0,
 					"correct": false,
-					"text": "Acetylene"
+					"text": "Ethin"
 				},
 				{
 					"difficulty": 0,
@@ -21757,7 +21757,7 @@
 				{
 					"difficulty": 0,
 					"correct": false,
-					"text": "Nth Metal"
+					"text": "Nth Metall"
 				}
 			],
 			"us": false
@@ -21976,7 +21976,7 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>An American Werewolf in London<\/i>"
+               "text":"<i>American Werewolf<\/i>"
             },
             {
                "difficulty":0,
@@ -21986,12 +21986,12 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>Ginger Snaps<\/i>"
+               "text":"<i>Ginger Snaps – Das Biest in Dir<\/i>"
             },
             {
                "difficulty":-1,
                "correct":true,
-               "text":"<i>Harry Potter and the Prisoner of Azkaban<\/i>"
+               "text":"<i>Harry Potter und der Gefangene von Askaban<\/i>"
             },
             {
                "difficulty":0,
@@ -22001,17 +22001,17 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>I Was A Teenage Werewolf<\/i>"
+               "text":"<i>Der Tod hat schwarze Krallen<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Monster Squad<\/i>"
+               "text":"<i>Monster Busters<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"<i>The Twilight Saga: Eclipse<\/i>"
+               "text":"<i>Eclipse – Biss zum Abendrot<\/i>"
             },
             {
                "difficulty":0,
@@ -22031,12 +22031,12 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Lone Wolf McQuade<\/i>"
+               "text":"<i>McQuade, der Wolf<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Peter and the Wolf<\/i>"
+               "text":"<i>Peter und der Wolf<\/i>"
             },
             {
                "difficulty":0,
@@ -22046,7 +22046,7 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Harry Potter and the Chamber of Secrets<\/i>"
+               "text":"<i>Harry Potter und die Kammer des Schreckens<\/i>"
             },
             {
                "difficulty":0,
@@ -22061,15 +22061,15 @@
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>Dances With Wolves<\/i>"
+               "text":"<i>Der mit dem Wolf tanzt<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"<i>White Fang<\/i>"
+               "text":"<i>Wolfsblut<\/i>"
             }
          ],
-         "us":false
+         "us":true
       }
    ]
 }
