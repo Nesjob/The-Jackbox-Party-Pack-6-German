@@ -8688,7 +8688,7 @@
             "pic": false,
             "us": false,
             "hasIntro": true,
-            "text": "Was hält Sie im Gleichgewicht?",
+            "text": "Was hält mich im Gleichgewicht?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -10312,7 +10312,7 @@
             "pic": false,
             "us": false,
             "hasIntro": true,
-            "text": "Das Manneken Pis ist eines der berühmtesten Wahrzeichen von Brüssel, aber was ist es?",
+            "text": "Der Manneken Pis ist eines der berühmtesten Wahrzeichen von Brüssel, aber was ist es?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -11320,7 +11320,7 @@
             "pic": false,
             "us": false,
             "hasIntro": true,
-            "text": "Welcher Muskel ist noch mal in Ihrem Bein?",
+            "text": "Welcher Muskel ist noch mal in eurem Bein?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -12121,7 +12121,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "es ist Ihr Haar"
+                    "text": "es ist dein Haar"
                 }
             ]
         },
@@ -12244,7 +12244,7 @@
             "pic": false,
             "us": false,
             "hasIntro": true,
-            "text": "Was ist laut Freud für Ihr Moralempfinden verantwortlich?",
+            "text": "Was ist laut Freud für euer Moralempfinden verantwortlich?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -13672,7 +13672,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Ecklig! Welches dieser Tiere ist KEIN <i>Kloakentier</i>?",
+            "text": "Eklig! Welches dieser Tiere ist KEIN <i>Kloakentier</i>?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -18628,24 +18628,24 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Wie lange braucht die Erde ungefähr, um die Sonne einmal zu umkreisen?",
+            "text": "Aus welchem Film stammt der Satz \"Ich seh' dir in die Augen, Kleines!\"?",
             "choices": [
                 {
-                    "controllerClass": "", 
-                    "text": "60 Minuten"
+                    "controllerClass": "",
+                    "text": "Vom Winde verweht"
                 },
                 {
                     "controllerClass": "",
-                    "text": "24 Stunden"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "30 Tage"
+                    "text": "Frühstück bei Tiffany"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "12 Monate"
+                    "text": "Casablanca"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Manche mögen's heiß"
                 }
             ]
         },
@@ -18824,24 +18824,24 @@
             "pic": false,
             "us": false,
             "hasIntro": true,
-            "text": "Aus welchem Film stammt der Satz \"Ich seh' dir in die Augen, Kleines!\"?",
+            "text": "Wie lange braucht die Erde ungefähr, um die Sonne einmal zu umkreisen?",
             "choices": [
                 {
-                    "controllerClass": "",
-                    "text": "Vom Winde verweht"
+                    "controllerClass": "", 
+                    "text": "60 Minuten"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Frühstück bei Tiffany"
+                    "text": "24 Stunden"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "30 Tage"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Casablanca"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Manche mögen's heiß"
+                    "text": "12 Monate"
                 }
             ]
         },
@@ -20648,11 +20648,11 @@
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Vereinsdechantbirne"
+                    "text": "Vereinsdechantsbirne"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Kaiser Alexander-Birne"
+                    "text": "Boscs Flaschenbirne"
                 },
                 {
                     "controllerClass": "",
@@ -20661,7 +20661,7 @@
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Bessermerbirne"
+                    "text": "Bessemerbirne"
                 }
             ]
         },
@@ -22520,7 +22520,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Wie lautet die Adresse, die Dorie in dem Film <i>Finding Nemo</i> zwanghaft wiederholt?",
+            "text": "Wie lautet die Adresse, die Dorie in dem Film <i>Findet Nemo</i> zwanghaft wiederholt?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -22841,7 +22841,6 @@
                 },
                 {
                     "controllerClass": "",
-                    
                     "text": "Aldi"
                 },
                 {
@@ -25041,7 +25040,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Welche der folgenden Eigenschaft ist NICHT typisch für eine narzisstische Persönlichkeitsstörung?",
+            "text": "Welche der folgenden Eigenschaften ist NICHT typisch für eine narzisstische Persönlichkeitsstörung?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -25377,7 +25376,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Was wurde aus Justin.tv geboren?",
+            "text": "Was wurde aus Justin.tv?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -25386,7 +25385,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "YouTube"
+                    "text": "Reddit"
                 },
                 {
                     "controllerClass": "",

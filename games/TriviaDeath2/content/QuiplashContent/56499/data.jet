@@ -1,0 +1,50 @@
+{
+	"fields": [
+		{
+			"t": "B",
+			"v": "false",
+			"n": "HasJokeAudio"
+		},
+		{
+			"t": "S",
+			"v": "",
+			"n": "StadiumAnswers"
+		},
+		{
+			"t": "S",
+			"v": "",
+			"n": "Keywords"
+		},
+		{
+			"t": "S",
+			"v": "",
+			"n": "Author"
+		},
+		{
+			"t": "S",
+			"v": "",
+			"n": "KeywordResponseText"
+		},
+		{
+			"t": "S",
+			"v": "[EventName=HOST/AltHost]Das Schlimmste daran, von einer Familie von Serienmördern aufgezogen zu werden, die ein Hotel betreibt, in dem sie heimlich die Gäste ermorden",
+			"n": "PromptText"
+		},
+		{
+			"t": "S",
+			"v": "",
+			"n": "Location"
+		},
+		{
+			"s": "",
+			"t": "A",
+			"n": "KeywordResponseAudio"
+		},
+		{
+			"s": "[EventName=HOST/AltHost]Das Schlimmste daran, von einer Familie von Serienmördern aufgezogen zu werden, die ein Hotel betreibt, in dem sie heimlich die Gäste ermorden",
+			"t": "A",
+			"v": "808338_2",
+			"n": "PromptAudio"
+		}
+	]
+}

@@ -2,7 +2,7 @@
 -
 Translation by Katharina Hildegard, Fry Master, Erizzle
 
-Synchro by Louis Coyote
+Synchro by Profpyrus (Coming Soon)
 
 ***Role Models***
 -

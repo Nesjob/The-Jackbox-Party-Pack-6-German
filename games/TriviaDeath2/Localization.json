@@ -192,8 +192,8 @@
         "MIND_MELD_ERROR":"Falsche Antwort! Versuch's nochmal!",
         "MIND_MELD_DUPLICATE":"Bereits beanspruchte Antworten:<br>%s<br>Versuch's nochmal!",
         
-        "PACHINKO_BANNER":"Ziehe deinen Chip und leg ihn ab",
-        "PACHINKO_SAFE_PLAYER_BANNER":"Wähle einen Eimer, der verflucht wird"
+        "PACHINKO_BANNER":"Wähle eine Position für deinen Chip",
+        "PACHINKO_SAFE_PLAYER_BANNER":"Wähle ein Feld, das verflucht wird"
     
     },
     "fr": {},
