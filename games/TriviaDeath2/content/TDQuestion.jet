@@ -1184,24 +1184,24 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Welche Aussage trifft NICHT auf auf die Schriftstellerin Toni Morrison zu?",
+            "text": "Was war der Geburtsname von Angela Merkel?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "erhielt als erste afroamerikanische Autorin den Literaturnobelpreis"
+                    "text": "Angela Seidel"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "erhielt nie den Pulitzer-Preis"
+                    "text": "Angela Kasner"
                 },
                 {
                     "controllerClass": "",
-                    "text": "im Jahr 2019 verstorben"
+                    "text": "Angela Lehmann"
                 },
                 {
                     "controllerClass": "",
-                    "text": "lehrte an der Princeton University"
+                    "text": "Angela Merkel"
                 }
             ]
         },
@@ -5972,7 +5972,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Wer ist kein direkter Nachfahre von Queen Victoria, der <i>Großmutter Europas</i>?",
+            "text": "Wer ist kein direkter Nachfahr von Queen Victoria, der <i>Großmutter Europas</i>?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -6027,7 +6027,7 @@
             "id": 53991,
             "pic": false,
             "us": false,
-            "hasIntro": false,
+            "hasIntro": true,
             "text": "Hand aufs Herz: Welches dieser Tiere habe ich erfunden?",
             "choices": [
                 {
@@ -6056,7 +6056,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Wenn ich einen Eispickel in Ihr Auge stechen würde, was würde ich zuerst treffen?",
+            "text": "Wenn ich einen Eispickel in dein Auge stechen würde, was würde ich zuerst treffen?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -6209,7 +6209,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "Edgar Allan Poe"
+                    "text": "Johann Sebastian Bach"
                 },
                 {
                     "controllerClass": "",
@@ -6336,7 +6336,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Wer hat (Stand 2018) noch nie eine Fußball-Weltmeisterschaft gewonnen?",
+            "text": "Wer hat noch nie eine Fußball-Weltmeisterschaft gewonnen?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -6504,7 +6504,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Welche afrikanische Nation berührt den Indischen Ozean?",
+            "text": "Welche afrikanische Nation grenzt an den Indischen Ozean?",
             "choices": [
                 {
                     "controllerClass": "",
