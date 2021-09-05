@@ -1576,24 +1576,24 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Welche Figur spricht Amy Sedaris in <i>BoJack Horseman</i>?",
+            "text": "Wie heißt meine Lieblingsband aus England?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "einen Vogel"
+                    "text": "PNG"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "eine Katze"
+                    "text": "MP4"
                 },
                 {
                     "controllerClass": "",
-                    "text": "einen Hund"
+                    "text": "WAV"
                 },
                 {
                     "controllerClass": "",
-                    "text": "einen Menschen"
+                    "text": "PDF"
                 }
             ]
         },
@@ -1603,7 +1603,7 @@
             "id": 54126,
             "pic": false,
             "us": false,
-            "hasIntro": false,
+            "hasIntro": true,
             "text": "Es sieht aus wie eine Kreuzung aus Waschbär und Ratte und kommt nachts raus, also muss es folgendes sein:",
             "choices": [
                 {
@@ -1687,8 +1687,8 @@
             "id": 54129,
             "pic": false,
             "us": false,
-            "hasIntro": false,
-            "text": "Welche Regierungsform hat die Bundesrepublik deutschland?",
+            "hasIntro": true,
+            "text": "Welche Regierungsform hat die Bundesrepublik Deutschland?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -1701,7 +1701,7 @@
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "parlamentarische Republik "
+                    "text": "parlamentarische Republik"
                 },
                 {
                     "controllerClass": "",
@@ -1757,7 +1757,7 @@
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Kevin! Was hast du mit meinem Zimmer gemacht?"
+                    "text": "Kevin! Was hast du in meinem Zimmer gemacht?"
                 },
                 {
                     "controllerClass": "",
@@ -7259,8 +7259,8 @@
             "id": 54110,
             "pic": false,
             "us": false,
-            "hasIntro": false,
-            "text": "welche Netflix-Serie war die teuerste (Stand: 2020)?",
+            "hasIntro": true,
+            "text": "Welche Netflix-Serie war die teuerste?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -7316,7 +7316,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Welcher Schrifsteller nutzt/e häufig das Pseudonym <i>Richard Bachman</i>?",
+            "text": "Welcher Schrifsteller nutzte häufig das Pseudonym <i>Richard Bachman</i>?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -17460,7 +17460,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "Europa"
+                    "text": "Benelux-Union"
                 },
                 {
                     "controllerClass": "",
@@ -17469,7 +17469,7 @@
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Flandern"
+                    "text": "Flämische Region"
                 }
             ]
         },
