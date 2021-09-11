@@ -859,7 +859,7 @@
 			],
 			"id": 57341,
 			"text": "xxxxxone of the vegetables found in the original V8 vegetable juice",
-			"us": false
+			"us": true
 		},
 		{
 			"x": false,
@@ -1216,7 +1216,7 @@
 			],
 			"id": 56056,
 			"text": "xxxxxone of Shakespeare’s tragedies",
-			"us": false
+			"us": true
 		},
 		{
 			"x": false,
@@ -1336,7 +1336,7 @@
 				}
 			],
 			"id": 56054,
-			"text": "ein Charakter aus den <i>Simpsons</i>",
+			"text": "ein Charakter aus der <i>Simpsons</i> Familie",
 			"us": false
 		},
 		{
@@ -1392,7 +1392,7 @@
 				}
 			],
 			"id": 56053,
-			"text": "einer der acht höchsten Buchstaben beim <i>Scrabble</i> (deutsch)",
+			"text": "einer der acht höchsten Buchstaben beim <i>Scrabble</i>",
 			"us": false
 		},
 		{
@@ -1627,7 +1627,7 @@
 				}
 			],
 			"id": 55987,
-			"text": "ein spielbarer Character im ersten <i>Super Smash Bros.</i>",
+			"text": "ein spielbarer Charakter im ersten <i>Super Smash Bros.</i>",
 			"us": false
 		},
 		{
@@ -1908,7 +1908,7 @@
 			],
 			"id": 55969,
 			"text": "xxxxxone of the ingredients in a Big Mac",
-			"us": false
+			"us": true
 		},
 		{
 			"x": false,
@@ -2657,7 +2657,7 @@
 				{
 					"answer": "Australien",
 					"alt": [
-						"Oceanien"
+						"Ozeanien"
 					]
 				},
 				{

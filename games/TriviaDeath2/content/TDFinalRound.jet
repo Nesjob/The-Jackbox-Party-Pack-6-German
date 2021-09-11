@@ -4356,70 +4356,70 @@
       {
          "x":false,
          "id":56016,
-         "text":"Ermittler bei <i>Law & Order<\/i>",
+         "text":"Tanzschritte vom <i>KiKA TanzAlarm<\/i>",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"Det. Lennie Briscoe"
+               "text":"<i>Runter in die Hocke<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Det. Olivia Benson"
+               "text":"<i>Steht auf einem Bein<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Det. Ed Green"
+               "text":"<i>Wir patschen auf die Knie<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Det. Elliot Stabler"
+               "text":"<i>Die Hände zum Himmel<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Det. John Munch"
+               "text":"<i>Jetzt mal kräftig winken<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Det. Fin Tutuola"
+               "text":"<i>Jetzt der Helikopter<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Det. Mike Logan"
+               "text":"<i>Wir drehen uns im Stand<\/i>"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Det. Nick Amaro"
+               "text":"<i>Lass die Arme fliegen<\/i>"
+            },
+            {
+               "difficulty":0,
+               "correct":true,
+               "text":"<i>Wir joggen auf der Stelle<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Det. Frank Columbo"
+               "text":"<i>Klopft auf eure Schulter<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Det. Jessica Fletcher"
+               "text":"<i>Jetzt ein flotter Luftsprung<\/i>"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Det. Jim Rockford"
-            },
-            {
-               "difficulty":0,
-               "correct":false,
-               "text":"Det. Theo Kojak"
+               "text":"<i>Wackeln mit dem Popo<\/i>"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,
@@ -11346,7 +11346,7 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"	Barnards Galaxie"
+               "text":"Barnards Galaxie"
             },
             {
                "difficulty":0,
@@ -15886,7 +15886,7 @@
             {
                "difficulty":0,
                "correct":true,
-               "text":"	Chamäleon für Vier"
+               "text":"Chamäleon für Vier"
             },
             {
                "difficulty":0,

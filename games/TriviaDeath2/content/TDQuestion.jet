@@ -20952,24 +20952,24 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "In welchem Land befindet sich die Sixtinische Kapelle?",
+            "text": "Wo befindet sich die Sixtinische Kapelle?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Italien"
+                    "text": "Venedig"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Vatikanstadt"
-                },
-                {
-                    "controllerClass": "",
                     "text": "Rom"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Europa"
+                    "text": "Mailand"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Marseille"
                 }
             ]
         },
@@ -25533,7 +25533,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "linker Unterleib"
+                    "text": "Linker Unterleib"
                 }
             ]
         },
