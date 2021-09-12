@@ -1968,24 +1968,24 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Für welchen FIlm schrieb Neil Gaiman das Drehbuch?",
+            "text": "Für welchen Film schrieb Til Schweiger das Drehbuch?",
             "choices": [
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "<i>Coraline</i>"
+                    "text": "<i>Barfuss</i>"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Matilda</i>"
+                    "text": "<i>Oberkörperfrei</i>"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Olivia</i>"
+                    "text": "<i>Unten Ohne</i>"
                 },
                 {
                     "controllerClass": "",
-                    "text": "<i>Eloise</i>"
+                    "text": "<i>Bauchfrei</i>"
                 }
             ]
         },
@@ -8632,24 +8632,24 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Was ist ein Hauptbestandteil von Worcestershire-Sauce?",
+            "text": "Wenn ich ein Dutzend Menschen töte, wie viele gehen dann drauf?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Pfefferkörner"
+                    "text": "5"
                 },
                 {
                     "controllerClass": "",
-                    "text": "fermentierter Sellerie"
+                    "text": "8"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Rinderfett"
+                    "text": "10"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "aufgelöste Fische"
+                    "text": "12"
                 }
             ]
         },
@@ -25124,7 +25124,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Wofür steht das \"R\" in U.S.S.R.?",
+            "text": "Wofür steht das \"R\" in U.D.S.S.R?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -25430,26 +25430,26 @@
             "x": false,
             "id": 54553,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welche Farbe hat die Außenseite eines Jarrahdale-Kürbisses?",
+            "text": "Welche Tiere sind oben auf dem Brandenburger Tor zu sehen?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Blutrot"
+                    "text": "Löwen"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Elefanten"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "grünlich-blau"
+                    "text": "Pferde"
                 },
                 {
                     "controllerClass": "",
-                    "text": "eine wirklich verrückte Schattierung von lila"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Neonorange"
+                    "text": "Bären"
                 }
             ]
         },
