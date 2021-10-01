@@ -2136,7 +2136,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Wenn ich mir einen kleinen Hund zulegen wollte, welche Sorte sollte ich nehmen?",
+            "text": "Wenn ich mir einen kleinen Hund zulegen wollte, welche Rasse sollte ich nehmen?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -2153,7 +2153,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "einen Chiahuhu"
+                    "text": "einen Chiuahua"
                 }
             ]
         },
@@ -2164,7 +2164,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Welches Land hat den bisher stärksten Atomsprengkopf getestet (Stand: 2020)?",
+            "text": "Welches Land hat den bisher stärksten Atomsprengkopf getestet?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -7512,7 +7512,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Welches ist 1 der 8 Clown-Gebote, die von Clowns of America International aufgestellt wurden?",
+            "text": "Welches ist eines der 8 Clown-Gebote, die von Clowns of America International aufgestellt wurden?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -8548,24 +8548,25 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Wenn jemand an Heiligabend geboren wird hat er welches Sternzeichen?",
+            "text": "Wer bezeichnete sich selbst immer gerne als Sauschwanz?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "correct": true,
-                    "text": "Steinbock"
+
+                    "text": "Beethoven"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Wassermann"
+                    "text": "Bach"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Skorpion"
+                    "text": "Schubert"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Schütze"
+                    "text": "Mozart",
+                    "correct": true
                 }
             ]
         },
@@ -9024,7 +9025,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Welche Art von Brücke ist die aktuelle London Bridge?",
+            "text": "Welche Art von Brücke ist die London Bridge?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -9890,7 +9891,7 @@
             "x": false,
             "id": 54521,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Was geschieht in der nordischen Mythologie während Ragnarök?",
             "choices": [
@@ -18040,7 +18041,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Die Vereinten Nationen wurden nach welchem Krieg gegründet?",
+            "text": "Nach welchem Krieg wurden die vereinten Nationen gegründet?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -19093,7 +19094,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "sssshhh"
+                    "text": "xoxoxo"
                 }
             ]
         },
@@ -19216,24 +19217,24 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Wann wurde George Orwells <i>1984</i> erstmals veröffentlicht?",
+            "text": "Wie heißt Sido mit Vornamen?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "1921"
+                    "text": "Kristoffer"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "1949"
+                    "text": "Hartmut"
                 },
                 {
                     "controllerClass": "",
-                    "text": "1980"
+                    "text": "Benjamin"
                 },
                 {
                     "controllerClass": "",
-                    "text": "1965"
+                    "text": "Johannes"
                 }
             ]
         },
