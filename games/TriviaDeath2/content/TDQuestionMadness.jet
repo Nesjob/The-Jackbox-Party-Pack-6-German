@@ -1,4 +1,3 @@
-{"episodeid":1395,"content":[{"hasOutro":false,"x":false,"id":56007,"text":"[EventName=HOST/AltHost]Welcher dieser Charaktere ist ein Roboter?","pic":false,"choices":[{"controllerClass":"","text":"Luke Skywalker"},{"controllerClass":"","correct":true,"text":"C-3PO"},{"controllerClass":"","text":"Han Solo"},{"controllerClass":"","text":"Prinzessin Leia"}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":56006,"text":"[EventName=HOST/AltHost]Welcher der folgenden ist ein Zwergstern?","pic":false,"choices":[{"controllerClass":"","text":"Mond"},{"controllerClass":"","correct":true,"text":"Sonne"},{"controllerClass":"","text":"Erde"},{"controllerClass":"","text":"Pluto"}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55998,"text":"[EventName=HOST/AltHost]Wer gewann 2007 das Kentucky Derby?","pic":false,"choices":[{"controllerClass":"","text":"ein Hund"},{"controllerClass":"","text":"eine Katze"},{"controllerClass":"","text":"eine Schlange"},{"controllerClass":"","correct":true,"text":"ein Pferd"}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55993,"text":"[EventName=HOST/AltHost]Welches dieser Tiere hat den längsten Hals?","pic":false,"choices":[{"controllerClass":"","text":"Tiger"},{"controllerClass":"","correct":true,"text":"Giraffe"},{"controllerClass":"","text":"Pinguin"},{"controllerClass":"","text":"Schildkröte"}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55961,"text":"[EventName=HOST/AltHost]Welche Art von Tier spielt die Hauptrolle in <i>Free Willy</i>?","pic":false,"choices":[{"controllerClass":"","text":"Walross"},{"controllerClass":"","correct":true,"text":"Orca"},{"controllerClass":"","text":"Hund"},{"controllerClass":"","text":"Biene"}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55824,"text":"[EventName=HOST/AltHost]Welches dieser Tiere frisst andere Tiere?","pic":false,"choices":[{"controllerClass":"","correct":true,"text":"Löwe"},{"controllerClass":"","text":"Reh"},{"controllerClass":"","text":"Giraffe"},{"controllerClass":"","text":"Schaf"}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55823,"text":"[EventName=HOST/AltHost]Welcher Himmelskörper dreht sich um die Erde?","pic":false,"choices":[{"controllerClass":"","correct":true,"text":"Mond"},{"controllerClass":"","text":"Mars"},{"controllerClass":"","text":"Sonne"},{"controllerClass":"","text":"Milchstraße"}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55822,"text":"[EventName=HOST/AltHost]Was ist die Quadratwurzel von 1?","pic":false,"choices":[{"controllerClass":"","text":"4"},{"controllerClass":"","text":"3"},{"controllerClass":"","text":"2"},{"controllerClass":"","correct":true,"text":"1"}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55743,"text":"[EventName=HOST/AltHost]Mit wem lief der Teller im Kinderlied "Hey, Diddle Diddle" weg?","pic":false,"choices":[{"controllerClass":"","text":"mit der Gabel"},{"controllerClass":"","correct":true,"text":"mit dem Löffel"},{"controllerClass":"","text":"mit dem Messer"},{"controllerClass":"","text":"mit der Schüssel"}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55729,"text":"[EventName=HOST/AltHost]Wann ist Halloween?","pic":false,"choices":[{"controllerClass":"","text":"July 4th"},{"controllerClass":"","text":"1. Oktober"},{"controllerClass":"30. November","correct":true,"text":"31. Oktober"},{"controllerClass":"","text":"1. November"}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55726,"text":"[EventName=HOST/AltHost]Wer sang \u201cSingle Ladies\u201d?","pic":false,"choices":[{"controllerClass":"","text":"Sting"},{"controllerClass":"","correct":true,"text":"Beyoncé"},{"controllerClass":"","text":"Prince"},{"controllerClass":"","text":"Eminem"}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55725,"text":"[EventName=HOST/AltHost]Wie viel ist nochmal ein Fuß?","pic":false,"choices":[{"controllerClass":"","text":"10cm"},{"controllerClass":"","text":"20cm"},{"controllerClass":"","correct":true,"text":"30cm"},{"controllerClass":"","text":"40cm"}],"us":true,"hasIntro":false},{"hasOutro":false,"x":false,"id":55724,"text":"[EventName=HOST/AltHost]Welches Land liegt in Afrika?","pic":false,"choices":[{"controllerClass":"","text":"Israel"},{"controllerClass":"","text":"Saudi-Arabien"},{"controllerClass":"","correct":true,"text":"Ägypten"},{"controllerClass":"","text":"Kanada"}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55723,"text":"[EventName=HOST/AltHost]Welches der folgenden ist ein Metall?","pic":false,"choices":[{"controllerClass":"","text":"Sauerstoff"},{"controllerClass":"","text":"Wasserstoff"},{"controllerClass":"","correct":true,"text":"Eisen"},{"controllerClass":"","text":"Helium"}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55722,"text":"[EventName=HOST/AltHost]Wer spielte Indiana Jones?","pic":false,"choices":[{"controllerClass":"","text":"Arnold Schwarzenegger"},{"controllerClass":"","text":"Bruce Willis"},{"controllerClass":"","correct":true,"text":"Harrison Ford"},{"controllerClass":"","text":"Chevy Chase"}],"us":false,"hasIntro":false}]}
 {
     "episodeid": 1395,
     "content": [
@@ -9,7 +8,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "[EventName=HOST/AltHost]Welches dieser Zeichen ist ein Roboter?",
+            "text": "[EventName=HOST/AltHost]Welches dieser Charaktere ist ein Roboter?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -265,20 +264,20 @@
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "July 4th"
+                    "text": "4. Juli"
                 },
                 {
                     "controllerClass": "",
-                    "text": "March 15th"
+                    "text": "15. März"
                 },
                 {
                     "controllerClass": "",
                     "correct (#3)": true,
-                    "text": "Oct 31st"
+                    "text": "31. Oktober"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Nov 1st"
+                    "text": "1. November"
                 }
             ]
         },
@@ -317,7 +316,7 @@
             "pic": false,
             "us": true,
             "hasIntro": false,
-            "text": "[EventName=HOST/AltHost]Was ist ein Fuß gleich?",
+            "text": "[EventName=HOST/AltHost]Wie groß ist das Längenmaß Fuß?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -329,7 +328,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "correct (#3)": true,
+                    "correct": true,
                     "text": "30cm"
                 },
                 {

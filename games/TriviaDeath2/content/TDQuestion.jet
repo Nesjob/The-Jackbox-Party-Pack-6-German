@@ -622,7 +622,7 @@
             "x": false,
             "id": 55484,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Welche der folgenden Personen ist NICHT eine der Töchter in Shakespeares <i>König Lear</i>?",
             "choices": [
@@ -734,7 +734,7 @@
             "x": false,
             "id": 55519,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Welches Künstlerwerkzeug haben Patrick Swayze und Demi Moore in <i>Ghost</i> sexy gemacht?",
             "choices": [
@@ -874,7 +874,7 @@
             "x": false,
             "id": 55567,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wie hieß die berühmte Frau des Schriftstellers F. Scott Fitzgerald?",
             "choices": [
@@ -932,24 +932,24 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "In welchem Jahr wurde Kylie Jenner geboren?",
+            "text": "In welchem Jahr wurde Thomas Gottschalk geboren?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "1991"
+                    "text": "1950",
+                    "correct": true
                 },
                 {
                     "controllerClass": "",
-                    "text": "1995"
+                    "text": "1955"
                 },
                 {
                     "controllerClass": "",
-                    "correct": true,
-                    "text": "1997"
+                    "text": "1960"
                 },
                 {
                     "controllerClass": "",
-                    "text": "2000"
+                    "text": "1965"
                 }
             ]
         },
@@ -1014,7 +1014,7 @@
             "x": false,
             "id": 55617,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wo fand die Varusschlacht statt?",
             "choices": [
@@ -1070,7 +1070,7 @@
             "x": false,
             "id": 55643,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wie lautet der Bildschirmname von Meg Ryans Figur in <i>E-Mail für dich</i>?",
             "choices": [
@@ -3618,7 +3618,7 @@
             "x": false,
             "id": 54788,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Welche Figur kommt in dem Theaterstück <i>Tod eines Handlungsreisenden</i> vor?",
             "choices": [
@@ -3704,7 +3704,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Warum musste Johann Sebastian Bach im Jahr 1717 für 4 Woche ins Gefängnise?",
+            "text": "Warum musste Johann Sebastian Bach im Jahr 1717 für 4 Wochen ins Gefängnis?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -3898,7 +3898,7 @@
             "x": false,
             "id": 54922,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Welcher dieser US-Präsidenten hat nie eine US-Präsidentschaftswahl gewonnen?",
             "choices": [
@@ -3926,7 +3926,7 @@
             "x": false,
             "id": 54924,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wer schrieb den Roman <i>Das Böse kommt auf leisen Sohlen</i>?",
             "choices": [
@@ -4346,7 +4346,7 @@
             "x": false,
             "id": 55028,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wie heißt das Lied, das mich immer zum Weinen bringt, aus dem Filmmusical <i>Once</i>?",
             "choices": [
@@ -4486,7 +4486,7 @@
             "x": false,
             "id": 55049,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Was sagt der Rabe in Edgar Allan Poes <i>Der Rabe</i>?",
             "choices": [
@@ -4542,7 +4542,7 @@
             "x": false,
             "id": 55065,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wer hat in der griechischen Mythologie das Labyrinth des Minotaurus entworfen?",
             "choices": [
@@ -4710,7 +4710,7 @@
             "x": false,
             "id": 55332,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "In welchem der Schlaflieder meiner Mutter kam NICHT eine Figur bei einem Autounfall ums Leben?",
             "choices": [
@@ -4794,7 +4794,7 @@
             "x": false,
             "id": 55382,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Welches der folgenden bezeichnet keinen Teil der Edelstein-Trilogie von Kerstin Gier?",
             "choices": [
@@ -5214,7 +5214,7 @@
             "x": false,
             "id": 55552,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "In welchem Musical spielt Nicely-Nicely Johnson mit?",
             "choices": [
@@ -5270,7 +5270,7 @@
             "x": false,
             "id": 55555,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Was war das besondere an Mary Kenneth Keller, der ersten Frau mit einem Doktorgrad in Informatik?",
             "choices": [
@@ -5970,7 +5970,7 @@
             "x": false,
             "id": 56010,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wer ist kein direkter Nachfahr von Queen Victoria, der <i>Großmutter Europas</i>?",
             "choices": [
@@ -9837,7 +9837,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Was heißt \"Samsung\" auf deutsch?",
+            "text": "Was heißt \"Samsung\" auf Deutsch?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -9863,7 +9863,7 @@
             "x": false,
             "id": 54495,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Was, glauben Archäologen, tötete König Tut?",
             "choices": [
@@ -11011,7 +11011,7 @@
             "x": false,
             "id": 54694,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wie lange dauerte die Alkoholprohibition in den Vereinigten Staaten?",
             "choices": [
@@ -11571,7 +11571,7 @@
             "x": false,
             "id": 54768,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Welches dieser Bilder ist KEIN Gemälde von Frida Kahlo?",
             "choices": [
@@ -11935,7 +11935,7 @@
             "x": false,
             "id": 54803,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Woher kam eigentlich Frida Kahlo?",
             "choices": [
@@ -12047,7 +12047,7 @@
             "x": false,
             "id": 54811,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Welcher von ihnen ist Inder?",
             "choices": [
@@ -12749,24 +12749,24 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Wo befindet sich in <i>The Girl with the Dragon Tattoo (Verblendung)</i> das titelgebende Drachentattoo der Protagonistin?",
+            "text": "Warum sind braune Eier in der Regel teurer als weiße?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "in ihrem rechten Arm"
+                    "text": "weil sie länger haltbar sind"
                 },
                 {
                     "controllerClass": "",
-                    "text": "auf ihrem linken Bein"
+                    "text": "weil sie gesünder sind"
                 },
                 {
                     "controllerClass": "",
-                    "text": "um ihren Hals"
+                    "text": "weil sie mehr Nährstoffe haben"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "auf ihrem Rücken"
+                    "text": "weil das Huhn größer ist"
                 }
             ]
         },
@@ -12943,7 +12943,7 @@
             "x": false,
             "id": 54912,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "In welchem Musical gibt es Figuren namens Tracy Turnblad, Motormouth Maybelle und Seaweed?",
             "choices": [
@@ -13251,7 +13251,7 @@
             "x": false,
             "id": 54942,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wo wurde die Leiche von König Tut gefunden?",
             "choices": [
@@ -14343,7 +14343,7 @@
             "x": false,
             "id": 55091,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Ich hatte meinen ersten Kuss 1986, während ich den Halleyschen Kometen vorbeifliegen sah... wann kann ich damit rechnen, wieder geküsst zu werden?",
             "choices": [
@@ -15099,7 +15099,7 @@
             "x": false,
             "id": 55180,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "<i>Der dritte Mai</i> ist ein berühmtes Gemälde von Goya, das welches historische Ereignis darstellt?",
             "choices": [
@@ -15127,7 +15127,7 @@
             "x": false,
             "id": 55181,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Welcher Promi ist nicht Teil eines Zwillings-Duos?",
             "choices": [
@@ -15155,7 +15155,7 @@
             "x": false,
             "id": 55182,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wie nennt man eine Zigarre, die 7 Zoll lang ist?",
             "choices": [
@@ -15211,7 +15211,7 @@
             "x": false,
             "id": 55384,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Was wird auch \"River of Grass\" genannt?",
             "choices": [
@@ -15463,7 +15463,7 @@
             "x": false,
             "id": 55419,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wie viele Jahre kann jemand laut 22. Zusatzartikel maximal als US-Präsident dienen?",
             "choices": [
@@ -15603,7 +15603,7 @@
             "x": false,
             "id": 55433,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wie lautet der Mädchenname von Morticia Addams in <i>Die Addams Family</i>?",
             "choices": [
@@ -15771,7 +15771,7 @@
             "x": false,
             "id": 55458,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Welche Farbe hatten Dorothys Pantoffeln im Originalroman von L. Frank Baum <i>Der Zauberer von Oz</i>?",
             "choices": [
@@ -16079,7 +16079,7 @@
             "x": false,
             "id": 55505,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Was ist der Hauptpreis bei den Filmfestspielen in Cannes?",
             "choices": [
@@ -16107,7 +16107,7 @@
             "x": false,
             "id": 55508,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Was sind die beiden Hände, die einen traditionellen irischen Claddagh-Ring halten?",
             "choices": [
@@ -16443,7 +16443,7 @@
             "x": false,
             "id": 55571,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wie viele US-Bundesstaaten grenzen an den Pazifischen Ozean?",
             "choices": [
@@ -16695,9 +16695,9 @@
             "x": false,
             "id": 55634,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
-            "text": "Wenn Sie aus Liverpool, England, stammen, wie heißen Sie dann?",
+            "text": "Wenn Sie aus Liverpool, England, stammen, wer sind Sie dann?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -19301,24 +19301,24 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "When the moon hits your eye like a big pizza pie... what is that?",
+            "text": "Was war der erste Song, den Die Lochis parodiert haben?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "that’s gourmet"
+                    "text": "Hangover"
                 },
                 {
                     "controllerClass": "",
-                    "text": "that’s signore"
+                    "text": "Gangnam Style"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "that’s amore"
+                    "text": "It Will Rain"
                 },
                 {
                     "controllerClass": "",
-                    "text": "that’s a moon ray"
+                    "text": "Somebody that i used to know"
                 }
             ]
         },
@@ -19523,7 +19523,7 @@
             "x": false,
             "id": 54664,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wo studieren Rhodes-Stipendiaten?",
             "choices": [
@@ -19641,7 +19641,7 @@
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Polen"
+                    "text": "Deutschland"
                 },
                 {
                     "controllerClass": "",
@@ -20083,7 +20083,7 @@
             "x": false,
             "id": 54778,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Welches der <i>The Golden Girls</i> ist geschieden?",
             "choices": [
@@ -21091,7 +21091,7 @@
             "x": false,
             "id": 54950,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wer war am häufigsten auf dem Cover der <i>Vogue</i>?",
             "choices": [
@@ -21961,24 +21961,24 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Wie viele Geister besuchen Ebenezer Scrooge in <i>A Christmas Carol</i>?",
+            "text": "Wie heißt dieser komische Hund von Timmy aus <i>Cosmo und Wanda</i>?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "1"
+                    "text": "Benny"
                 },
                 {
                     "controllerClass": "",
-                    "text": "2"
+                    "text": "Lucky"
                 },
                 {
                     "controllerClass": "",
-                    "text": "3"
+                    "text": "Ziggy"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "4"
+                    "text": "Sparky"
                 }
             ]
         },
@@ -22799,7 +22799,7 @@
             "x": false,
             "id": 56337,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wer war Dom Perignon?",
             "choices": [
@@ -23163,7 +23163,7 @@
             "x": false,
             "id": 56473,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wie buchstabiert der Glöckner von Notre Dame seinen Namen?",
             "choices": [
@@ -23835,7 +23835,7 @@
             "x": false,
             "id": 56705,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Welcher dieser historischen Figuren wurde NIE die Auszeichnung \"Time's Man of the Year\" verliehen?",
             "choices": [
@@ -24199,7 +24199,7 @@
             "x": false,
             "id": 55595,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wie lautet der echte Vorname des Guns N' Roses-Gitarristen Slash?",
             "choices": [
@@ -24369,7 +24369,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Wie heißt ist der Teil eines Hundes, an dem der vordere Teil des Schädels zur Schnauze hin abfällt?",
+            "text": "Wie heißt der Teil eines Hundes, an dem der vordere Teil des Schädels zur Schnauze hin abfällt?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -24395,7 +24395,7 @@
             "x": false,
             "id": 55616,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wie heißt der Thronfolger von Monaco?",
             "choices": [
@@ -24425,7 +24425,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Wie hoch ist der aktuelle Weltrekord im Hochsprung (Stand: 2020)?",
+            "text": "Wie hoch ist der aktuelle Weltrekord im Hochsprung?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -24451,7 +24451,7 @@
             "x": false,
             "id": 55629,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wer war Eva Peron?",
             "choices": [
@@ -24563,7 +24563,7 @@
             "x": false,
             "id": 55637,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wie heißt die zusätzliche neunte Kerze einer Chanukka-Menora?",
             "choices": [
@@ -25095,7 +25095,7 @@
             "x": false,
             "id": 55721,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Was verdeckt das Gesicht des Mannes in Magrittes Gemälde <i>Der Sohn des Menschen</i>?",
             "choices": [
@@ -25403,7 +25403,7 @@
             "x": false,
             "id": 55897,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Welchen Namen repräsentiert das B im Namen des Musiker <i>Bela B.</i>?",
             "choices": [
