@@ -15409,24 +15409,24 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Wie hoch ist laut der Federal Reserve die durchschnittliche Lebensdauer einer Dollarnote?",
+            "text": "Wie hoch ist laut der Deutschen Welle die durchschnittliche Lebensdauer eines 5 Euro Scheins?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "2,4 Jahre"
-                },
-                {
-                    "controllerClass": "",
                     "correct": true,
-                    "text": "5,8 Jahre"
+                    "text": "6 Monate"
                 },
                 {
                     "controllerClass": "",
-                    "text": "8.9 Jahre"
+                    "text": "1,5 Jahre"
                 },
                 {
                     "controllerClass": "",
-                    "text": "16,1 Jahre"
+                    "text": "4 Jahre"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "6,5 Jahre"
                 }
             ]
         },

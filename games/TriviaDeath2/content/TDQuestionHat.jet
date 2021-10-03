@@ -5,28 +5,28 @@
             "hasOutro": false,
             "x": false,
             "id": 56090,
-            "text": "Vater, weil du mir nie vorgelesen hast, habe nur von dieser Person Geschichten gehört, die die Fernsehshow <i>Reading Rainbow<\/i> moderiert hat:",
+            "text": "Vater, weil du nie mit mir ferngesehen hast, wusste ich nie, wer die Show <i>Wetten, dass..?<\/i> zuerst moderiert hat...",
             "pic": false,
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Michael Dorn"
+                    "text": "Kurt Felix"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "LeVar Burton"
+                    "text": "Frank Elstner"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Brent Spiner"
+                    "text": "Hape Kerkeling"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Wil Wheaton"
+                    "text": "Michelle Hunziker"
                 }
             ],
-            "us": true,
+            "us": false,
             "hasIntro": false
         },
         {
@@ -61,28 +61,28 @@
             "hasOutro": false,
             "x": false,
             "id": 56087,
-            "text": "Du hast gesagt, dass <i>Miami Vice<\/i> kein passendes Thema für ein Kinderzimmer ist, Papa, aber ich hörte nicht zu malte welches Detektivduo über mein Bett?",
+            "text": "Du hast gesagt, dass <i>Der letzte Bulle<\/i> kein passendes Thema für mein Kinderzimmer ist, Papa, aber ich hörte nicht zu malte welches Ermittlerduo über mein Bett?",
             "pic": false,
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Riggs & Murtaugh"
+                    "text": "Felix & Tommi"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Cagney & Lacey"
+                    "text": "Bernd & Olli"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Tango & Cash"
+                    "text": "Udo & Roland"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Tubbs & Crockett"
+                    "text": "Mick & Andreas"
                 }
             ],
-            "us": true,
+            "us": false,
             "hasIntro": false
         },
         {
@@ -222,7 +222,7 @@
                     "text": "Celeste"
                 }
             ],
-            "us": false,
+            "us": true,
             "hasIntro": false
         },
         {
@@ -250,7 +250,7 @@
                     "text": "<i>Kniffel<\/i>"
                 }
             ],
-            "us": true,
+            "us": false,
             "hasIntro": false
         },
         {
@@ -334,7 +334,7 @@
                     "text": "Big Papi"
                 }
             ],
-            "us": false,
+            "us": true,
             "hasIntro": false
         },
         {
@@ -362,35 +362,35 @@
                     "text": "Beast"
                 }
             ],
-            "us": false,
+            "us": true,
             "hasIntro": false
         },
         {
             "hasOutro": false,
             "x": false,
             "id": 55428,
-            "text": "Wenn du jemals meinen Lieblingsfilm mit mir gesehen hättest, wüsstest du das... Den Thron welchen Landes erbt Anne Hathaway in <i>Plötzlich Prinzessin<\/i>?",
+            "text": "Wenn du jemals meinen Lieblingsfilm mit mir gesehen hättest, wüsstest du was mein Lieblings-Minion mit einem Auge aus <i>Ich - Einfach unverbesserlich<\/i> ist!",
             "pic": false,
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Andorra"
+                    "text": "Kevin"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Bialya"
+                    "text": "Bob"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Genovien"
+                    "text": "Stuart"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Lichtenburg"
+                    "text": "Dave"
                 }
             ],
-            "us": true,
+            "us": false,
             "hasIntro": false
         },
         {
@@ -418,7 +418,7 @@
                     "text": "McFlurry"
                 }
             ],
-            "us": true,
+            "us": false,
             "hasIntro": false
         },
         {
@@ -474,7 +474,7 @@
                     "text": "Vulcan"
                 }
             ],
-            "us": true,
+            "us": false,
             "hasIntro": false
         },
         {
@@ -530,7 +530,7 @@
                     "text": "Hurrabärchi"
                 }
             ],
-            "us": true,
+            "us": false,
             "hasIntro": false
         }
     ]
