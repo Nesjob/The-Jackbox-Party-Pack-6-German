@@ -4591,7 +4591,7 @@
             "text": "Phil Collins"
         }, {
             "difficulty": 0,
-            "correct": false,
+            "correct": true,
             "text": "Herbert Grönemeyer"
         }, {
             "difficulty": 0,
