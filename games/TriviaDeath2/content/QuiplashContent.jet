@@ -133,7 +133,7 @@
 		{
 			"x": false,
 			"id": 56528,
-			"prompt": "[EventName=HOST/AltHost]Das Körperteil, welches das beste Knochen-Sylophon machen würde\n"
+			"prompt": "[EventName=HOST/AltHost]Das Körperteil, welches das beste Knochen-Xylophon machen würde\n"
 		},
 		{
 			"x": false,
@@ -193,7 +193,7 @@
 		{
 			"x": false,
 			"id": 56062,
-			"prompt": "[EventName=HOST/AltHost]Der Name der Automarke, dessen Autos mit Schreien der Untoten angetrieben werden"
+			"prompt": "[EventName=HOST/AltHost]Der Name der Automarke, deren Autos mit Schreien der Untoten angetrieben werden"
 		},
 		{
 			"x": false,
@@ -343,7 +343,7 @@
 		{
 			"x": false,
 			"id": 55780,
-			"prompt": "[EventName=HOST/AltHost]Die Rückseite eines modernen “Bitte nicht stören” Schildes"
+			"prompt": "[EventName=HOST/AltHost]Die verstörende Rückseite eines modernen “Bitte nicht stören” Schildes"
 		},
 		{
 			"x": false,
@@ -378,7 +378,7 @@
 		{
 			"x": false,
 			"id": 55697,
-			"prompt": "[EventName=HOST/AltHost]Ich liebe es, wenn die Minibar gefüllt mit <BLANK> ist"
+			"prompt": "[EventName=HOST/AltHost]Ich liebe es, wenn die Minibar gefüllt ist mit <BLANK>"
 		},
 		{
 			"x": false,
