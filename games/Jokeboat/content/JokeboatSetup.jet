@@ -444,7 +444,7 @@
          ],
          "timing":"0.0",
          "x":false,
-         "setup":"Ich nenne mein Schalfzimmer <TOPIC>",
+         "setup":"Ich nenne mein Schlafzimmer <TOPIC>",
          "id":56961,
          "categories":",#location",
          "type":"5"
