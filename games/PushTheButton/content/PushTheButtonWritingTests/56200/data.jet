@@ -1,0 +1,110 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "Als ich ein Kind war, wollte ich aufwachsen, um ein/e ... zu werden",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Ein Beruf, den es nicht mehr gibt, ist ein/e ...",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Ein verrücktes Halloween-Kostüm wäre ein sexy...",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Ein wirklich cooler Beruf wäre ein/e ...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ein gefährlicher Beruf ist wahrscheinlich ein/e ...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Die schlimmste Person, mit der man in einem Aufzug stecken bleibt, ist ein/e ...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Das Unheimlichste, was man in einer dunklen Gasse treffen kann, ist ein....",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Als ich ein Kind war, wollte ich aufwachsen, um ein/e ... zu werden",
+            "t": "A",
+            "v": "803459_0",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

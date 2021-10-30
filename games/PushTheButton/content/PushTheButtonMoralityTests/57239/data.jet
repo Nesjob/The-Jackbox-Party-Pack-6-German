@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"New York City",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"der Mitte von Nevada",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"Tokyo (Japan)",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Du wurdest ins Zeugenschutzprogramm aufgenommen, um der Mafia zu entgehen. Die beste Chance, dich zu verstecken, hast du in...",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Du wurdest ins Zeugenschutzprogramm aufgenommen, um der Mafia zu entgehen. Die beste Chance, dich zu verstecken, hast du in...",
+         "t":"A",
+         "v":"825342_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

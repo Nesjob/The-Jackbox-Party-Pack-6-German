@@ -1,0 +1,80 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Meine seltsamste Verwandtschaft ist mein/e ...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Eine familiäre Beziehung, die ich als heilig bezeichnen würde, ist mein/e ...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Eine Verwandtschaft, die ich sehr mag, aber selten sehe, ist mein/e ...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Eine alte Berühmtheit, die ich sehr mag, ist ...",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "Ein Familienmitglied, mit dem ich ständig spreche, ist mein/e ...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Ein Familienmitglied, mit dem ich ständig spreche, ist mein/e ...",
+            "t": "A",
+            "v": "832904_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

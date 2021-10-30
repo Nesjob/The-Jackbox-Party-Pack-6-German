@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Ich interessiere mich für Mode",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Männer sollten wieder Hüte tragen wie 1949.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Es ist okay, in ein öffentliches Schwimmbad zu pinkeln.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Socken und Sandalen sollten nicht zusammen getragen werden.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Socken und Sandalen sollten nicht zusammen getragen werden.",
+            "t": "A",
+            "v": "832190_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

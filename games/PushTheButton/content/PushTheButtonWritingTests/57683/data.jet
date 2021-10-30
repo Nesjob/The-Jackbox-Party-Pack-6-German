@@ -1,0 +1,110 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "Zwei historische Figuren, die ich gerne als Leibwächter hätte, sind ...",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Zwei historische Figuren, die wahrscheinlich ziemlich nett waren, sind ...",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Zwei Leute, die Statuen von sich machen ließen, sind ...",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Zwei historische Figuren, vor denen ich nach einem Treffen wahrscheinlich den Respekt verliere, sind ...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Zwei historische Figuren, die ich wahrscheinlich im Armdrücken schlagen könnte, sind ...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Zwei Berühmtheiten, die zusammenkommen sollten, sind ...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Zwei Berühmtheiten, die mich nerven, sind ...",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Zwei historische Figuren, die ich gerne als Leibwächter hätte, sind ...",
+            "t": "A",
+            "v": "834759_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

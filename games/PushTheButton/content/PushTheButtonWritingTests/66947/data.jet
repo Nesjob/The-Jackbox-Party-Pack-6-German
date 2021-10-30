@@ -1,0 +1,155 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty8"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty7"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt7"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt8"
+        },
+        {
+            "t": "S",
+            "v": "Das Schlimmste am Camping ist...",
+            "n": "AlienPromptText8"
+        },
+        {
+            "t": "S",
+            "v": "Ich mag den Geruch von ...",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Das letzte Geschenk, das ich für jemanden gekauft habe, ist ...",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Der letzte Ort, an dem ich im Urlaub war, war ...",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "Das gruseligste Tier wäre ...",
+            "n": "AlienPromptText6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Etwas, das man in einem Horrorfilm sieht, ist ...",
+            "n": "AlienPromptText7"
+        },
+        {
+            "t": "S",
+            "v": "Wenn ich an den Frühling denke, denke ich an ...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Mein liebstes Comfort-Food ist ...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Wenn ich an zu Hause denke, denke ich an ...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Mein Lieblingsgetränk ist ...",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Ich mag wirklich den Geruch von ...",
+            "t": "A",
+            "v": "890120_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

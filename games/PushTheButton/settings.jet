@@ -1,0 +1,168 @@
+{
+    "rows": 6,
+    "cols": 1,
+    "cellWidth": 628,
+    "cellHeight": 61,
+    "clip": "JamTemplateSettingsWidget",
+    "localized": "true",
+    "maxDescriptionSize": 21,
+    "items": [
+        {
+            "title": "LAUTSTÄRKE",
+            "type": "Range",
+            "clip": "JamTemplateSliderWidget",
+            "colorSelected": 65450,
+            "colorUnselected": 16777215,
+            "width": 1,
+            "source": "Volume",
+            "step": 0.1,
+            "description": "LAUTSTÄRKE_BESCHREIBUNG"
+        },
+        {
+            "title": "LAUTSTÄRKE_HOST",
+            "type": "Range",
+            "clip": "JamTemplateSliderWidget",
+            "colorSelected": 65450,
+            "colorUnselected": 16777215,
+            "width": 1,
+            "source": "VolumeHost",
+            "step": 0.1,
+            "description": "LAUTSTÄRKE_HOST_BESCHREIBUNG"
+        },
+        {
+            "title": "LAUTSTÄRKE_SFX",
+            "type": "Range",
+            "clip": "JamTemplateSliderWidget",
+            "colorSelected": 65450,
+            "colorUnselected": 16777215,
+            "width": 1,
+            "source": "VolumeSfx",
+            "step": 0.1,
+            "description": "LAUTSTÄRKE_SFX_BESCHREIBUNG"
+        },
+        {
+            "title": "LAUTSTÄRKE_MUSIK",
+            "type": "Range",
+            "clip": "JamTemplateSliderWidget",
+            "colorSelected": 65450,
+            "colorUnselected": 16777215,
+            "width": 1,
+            "source": "VolumeMusic",
+            "step": 0.1,
+            "description": "LAUTSTÄRKE_MUSIK_BESCHREIBUNG"
+        },
+        {
+            "title": "VOLLBILD",
+            "type": "Toggle",
+            "clip": "JamTemplateToggleWidget",
+            "colorSelected": 65450,
+            "colorUnselected": 16777215,
+            "width": 1,
+            "source": "FullScreen",
+            "description": "VOLLBILD_BESCHREIBUNG"
+        },
+        {
+            "title": "TUTORIAL_ÜBERSPRINGEN",
+            "type": "Toggle",
+            "clip": "JamTemplateToggleWidget",
+            "colorSelected": 65450,
+            "colorUnselected": 16777215,
+            "width": 1,
+            "source": "SkipTutorial",
+            "description": "TUTORIAL_ÜBERSPRINGEN_BESCHREIBUNG"
+        },
+        {
+            "title": "PASSWORTGESCHÜTZTES_SPIEL",
+            "type": "Toggle",
+            "clip": "JamTemplateToggleWidget",
+            "colorSelected": 65450,
+            "colorUnselected": 16777215,
+            "width": 1,
+            "source": "PasswordedRoom",
+            "description": "PASSWORTGESCHÜTZTES_SPIEL_BESCHREIBUNG"
+        },
+        
+        {
+            "title": "TWITCH_ERFORDERLICH",
+            "type": "Toggle",
+            "clip": "JamTemplateToggleWidget",
+            "colorSelected": 65450,
+            "colorUnselected": 16777215,
+            "width": 1,
+            "source": "RequireTwitch",
+            "description": "TWITCH_ERFORDERLICH_BESCHREIBUNG"
+        },
+        {
+            "title": "FAMILIEN_FREUNDLICH",
+            "type": "Toggle",
+            "clip": "JamTemplateToggleWidget",
+            "colorSelected": 65450,
+            "colorUnselected": 16777215,
+            "width": 1,
+            "source": "FamilyFriendly",
+            "description": "FAMILIEN_FREUNDLICH_BESCHREIBUNG"
+        },
+        {
+            "title": "POSTSPIEL_TEILEN",
+            "type": "Toggle",
+            "clip": "JamTemplateToggleWidget",
+            "colorSelected": 65450,
+            "colorUnselected": 16777215,
+            "width": 1,
+            "source": "PostGameSharing",
+            "description": "POSTSPIEL_TEILEN_BESCHREIBUNG"
+        },
+        {
+            "title": "MANUELLE_ZENSIERUNG",
+            "type": "Toggle",
+            "clip": "JamTemplateToggleWidget",
+            "colorSelected": 65450,
+            "colorUnselected": 16777215,
+            "width": 1,
+            "source": "Censorable",
+            "description": "MANUELLE_ZENSIERUNG_BESCHREIBUNG"
+        },
+        {
+            "title": "START_GAMEPAD",
+            "type": "Toggle",
+            "clip": "JamTemplateToggleWidget",
+            "colorSelected": 65450,
+            "colorUnselected": 16777215,
+            "width": 1,
+            "source": "GamepadStart",
+            "description": "START_GAMEPAD_BESCHREIBUNG"
+        },
+        {
+            "title": "RAUM_CODE_AUSBLENDEN",
+            "type": "Toggle",
+            "clip": "JamTemplateToggleWidget",
+            "colorSelected": 65450,
+            "colorUnselected": 16777215,
+            "width": 1,
+            "source": "HideRoomCode",
+            "description": "RAUM_CODE_AUSBLENDEN_BESCHREIBUNG"
+        },
+        {
+            "title": "MAX_SPIELER",
+            "type": "List",
+            "clip": "JamTemplateListWidget",
+            "colorSelected": 65450,
+            "colorUnselected": 16777215,
+            "width": 1,
+            "source": "MaxPlayers",
+            "options": [4,5,6,7,8,9,10],
+            "defaultValueIndex":10,
+            "description": "MAX_SPIELER_BESCHREIBUNG"
+        },
+        {
+            "title": "UNTERTITEL",
+            "type": "Toggle",
+            "clip": "JamTemplateToggleWidget",
+            "colorSelected": 65450,
+            "colorUnselected": 16777215,
+            "width": 1,
+            "source": "Subtitles",
+            "description": "UNTERTITEL_BESCHREIBUNG"
+        }
+    ]
+}

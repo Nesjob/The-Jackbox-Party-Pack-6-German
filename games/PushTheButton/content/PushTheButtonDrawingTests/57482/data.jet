@@ -1,0 +1,155 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty5"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty4"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty3"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"Difficulty"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty8"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty7"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty6"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt5"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt6"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt7"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt8"
+      },
+      {
+         "t": "S",
+         "v": "Zeichne liebenswürdig.",
+         "n": "AlienPromptText8"
+      },
+      {
+         "t": "S",
+         "v": "Zeichne etwas Böses.",
+         "n": "HumanPromptText"
+      },
+      {
+         "t": "S",
+         "v": "Zeichne einen gemeinen Lehrer.",
+         "n": "AlienPromptText4"
+      },
+      {
+         "t": "S",
+         "v": "Zeichne ein gemeines Baby.",
+         "n": "AlienPromptText5"
+      },
+      {
+         "t": "S",
+         "v": "Zeichne ein Entenbaby.",
+         "n": "AlienPromptText6"
+      },
+      {
+         "t": "S",
+         "v": "false",
+         "n": "AlienPromptAdultt0"
+      },
+      {
+         "t": "S",
+         "v": "Zeichne einen Troll.",
+         "n": "AlienPromptText7"
+      },
+      {
+         "t": "S",
+         "v": "Zeichne Voldemort.",
+         "n": "AlienPromptText0"
+      },
+      {
+         "t": "S",
+         "v": "wahr",
+         "n": "AlienPromptAdultt1"
+      },
+      {
+         "t": "S",
+         "v": "Zeichne den Teufel.",
+         "n": "AlienPromptText1"
+      },
+      {
+         "t": "S",
+         "v": "false",
+         "n": "AlienPromptAdultt2"
+      },
+      {
+         "t": "S",
+         "v": "Zeichne ein großes Geschäft.",
+         "n": "AlienPromptText2"
+      },
+      {
+         "t": "S",
+         "v": "false",
+         "n": "AlienPromptAdultt3"
+      },
+      {
+         "t": "S",
+         "v": "Zeichne eine Hexe.",
+         "n": "AlienPromptText3"
+      },
+      {
+         "t": "S",
+         "v": "false",
+         "n": "AlienPromptAdultt4"
+      },
+      {
+         "s": "Zeichne etwas Böses.",
+         "t": "A",
+         "v": "831660_1",
+         "n": "HumanPromptAudio"
+      }
+   ]
+}

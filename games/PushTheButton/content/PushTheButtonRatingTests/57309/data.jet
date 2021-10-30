@@ -1,0 +1,110 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "Unterwäsche ist doof.",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Ich bin ein Freigeist",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Ich bin ein Grammatik-Freak.",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Ich schlafe nackt.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ich würde an einen FKK-Strand gehen.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Cargo-Shorts sind hässlich.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Kinder sind unsere größte natürliche Ressource.",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Unterwäsche ist doof.",
+            "t": "A",
+            "v": "826933_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

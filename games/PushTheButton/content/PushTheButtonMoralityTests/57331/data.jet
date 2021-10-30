@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"gibst ihnen 0€",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"gibst ihnen 50€",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"gibst ihnen 100€",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Zwei Schläger versprechen, dich nicht zu verprügeln, wenn du ihnen 100€ gibst. Du...",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Zwei Schläger versprechen, dich nicht zu verprügeln, wenn du ihnen 100€ gibst. Du...",
+         "t":"A",
+         "v":"827594_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

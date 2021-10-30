@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"öffentliche Nacktheit",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"Geldwäscherei",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"Verstöße gegen die Gesundheitsvorschriften",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Du musst ein Restaurant für das Probeessen deiner Hochzeit auswählen und alle bis auf drei sind ausgebucht. Du wählst das, das bekannt ist für...",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Du musst ein Restaurant für das Probeessen deiner Hochzeit auswählen und alle bis auf drei sind ausgebucht. Du wählst das, das bekannt ist für...",
+         "t":"A",
+         "v":"833454_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

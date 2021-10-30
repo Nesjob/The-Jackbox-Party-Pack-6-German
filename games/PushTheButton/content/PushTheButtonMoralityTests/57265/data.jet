@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"deinen Großvater",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"deinen besten Freund",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"deinen Mitarbeiter",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Der Vulkan braucht ein Opfer oder er wird explodieren. Wen stößt du hinein?",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Der Vulkan braucht ein Opfer oder er wird explodieren. Wen stößt du hinein?",
+         "t":"A",
+         "v":"826048_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

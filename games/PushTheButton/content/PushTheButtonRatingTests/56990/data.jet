@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Ich mag Umarmungen.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ich hänge gerne mit Freunden ab",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Kaffee ist Leben",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Ich mag es, mit meinen Freunden Händchen zu halten.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Ich mag es, mit meinen Freunden Händchen zu halten.",
+            "t": "A",
+            "v": "818601_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

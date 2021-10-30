@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"optimistisch ist",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"sich rächt",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"die Hater ignoriert",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Du ziehst ein superstarkes Alien-Baby auf. Das Wichtigste, was du ihnen beibringen kannst, ist, dass sie immer...",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Du ziehst ein superstarkes Alien-Baby auf. Das Wichtigste, was du ihnen beibringen kannst, ist, dass sie immer...",
+         "t":"A",
+         "v":"825366_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

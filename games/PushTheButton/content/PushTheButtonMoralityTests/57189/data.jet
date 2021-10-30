@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"Weltfrieden",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"Millionen von Euro",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"ein sprechendes Pferd",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Du findest einen Flaschengeist mit einer begrenzten Auswahl an Wünschen. Du sagst \u201cIch wünsche mir...\u201d",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Du findest einen Flaschengeist mit einer begrenzten Auswahl an Wünschen. Du sagst \u201cIch wünsche mir...\u201d",
+         "t":"A",
+         "v":"823503_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Ich glaube, dass es eine überdurchschnittliche Chance auf außerirdisches Leben gibt.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ich denke, Ehrlichkeit ist die beste Strategie.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Ich denke oft über die Menschheit und ihr Schicksal nach.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Ich habe eine Menge sexy Zeichnungen von mir als Halbotter-Person gemacht und jetzt kann ich sie nicht finden und habe Angst.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Ich habe eine Menge sexy Zeichnungen von mir als Halbotter-Person gemacht und jetzt kann ich sie nicht finden und habe Angst.",
+            "t": "A",
+            "v": "807172_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}
