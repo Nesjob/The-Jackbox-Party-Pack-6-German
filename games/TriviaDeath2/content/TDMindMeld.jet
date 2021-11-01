@@ -69,180 +69,129 @@
 			"x": false,
 			"answers": [
 				{
-					"answer": "Charlie Brown",
+					"answer": "Maggie",
 					"alt": [
-						"Charlie",
-						"Chuck"
+						"maggie simpson",
+						"maggy",
+						"maggie simpsons"
 					]
 				},
 				{
-					"answer": "Lucy",
+					"answer": "Lisa",
 					"alt": [
-						"Lucy van Pelt",
-						"Lucy Pelt",
-						"Lucille",
-						"Lucille van Pelt",
-						"Lucille Pelt"
+						"lisa simpson",
+						"lisa simpsons"
 					]
 				},
 				{
-					"answer": "Linus",
+					"answer": "Marge",
 					"alt": [
-						"Linus van Pelt",
-						"Linus Pelt"
+						"marge simpson",
+						"magre simpson",
+						"marge simpsons"
 					]
 				},
 				{
-					"answer": "Sally",
+					"answer": "Bart",
 					"alt": [
-						"Sally Brown",
-						"Sallie",
-						"Sallie Brown"
+						"bart simpson",
+						"bart simpsons"
 					]
 				},
 				{
-					"answer": "Patty",
+					"answer": "Homer",
 					"alt": [
-						"Peppermint Patty",
-						"Pepermint Patty",
-						"Patti",
-						"Peppermint Patti",
-						"PP",
-						"Patricia",
-						"Patricia Reichardt",
-						"Patty Reichardt",
-						"Paty"
-					]
-				},
-				{
-					"answer": "Schroeder",
-					"alt": [
-						"Shroeder",
-						"shrowder",
-						"Schrowder"
-					]
-				},
-				{
-					"answer": "Snoopy",
-					"alt": [
-						"Snoop",
-						"Snoppy"
-					]
-				},
-				{
-					"answer": "Woodstock",
-					"alt": [
-						"wood stock",
-						"woodstalk",
-						"wood stalk"
+						"homer simpson",
+						"humer simpson",
+						"homer simpsons"
 					]
 				}
 			],
 			"id": 57805,
-			"text": "Ein Character aus <i>Charlie Brown</i>",
+			"text": "Eines der 5 bekannten Mitglieder der <i>Simpsons</i> Familie",
 			"us": false
 		},
 		{
 			"x": false,
 			"answers": [
 				{
-					"answer": "George Washington",
+					"answer": "Konrad Adenauer",
 					"alt": [
-						"Washington"
+						"conrad adenauer",
+						"adenauer",
+						"John Adam"
 					]
 				},
 				{
-					"answer": "John Adams",
+					"answer": "Ludwig Erhard",
 					"alt": [
-						"Adams",
-						"Adam",
-						"John Adam",
-						"Jon Adams",
-						"Jon Adam"
+						"erhard",
+						"ludwig erhardt",
+						"ludwig",
+						"erhardt"
 					]
 				},
 				{
-					"answer": "Thomas Jefferson",
+					"answer": "Kurt Georg Kiesinger",
 					"alt": [
-						"Jeferson",
-						"Tomas Jefferson",
-						"Tomas Jeferson",
-						"Tom Jefferson",
-						"Thomas Jeferson",
-						"Jefferson"
+						"kurt kiesinger",
+						"georg kiesinger",
+						"kiesinger",
+						"kurt georg"
 					]
 				},
 				{
-					"answer": "James Madison",
+					"answer": "Willy Brandt",
 					"alt": [
-						"Madison",
-						"James Maddison",
-						"Maddison",
-						"James Madison Jr."
+						"willi brandt",
+						"willy brant",
+						"willy brannt",
+						"brandt",
+						"brannt"
 					]
 				},
 				{
-					"answer": "James Monroe",
+					"answer": "Walter Scheel",
 					"alt": [
-						"Monroe",
-						"Monro",
-						"Munroe",
-						"James Munroe"
+						"scheel",
+						"walter"
 					]
 				},
 				{
-					"answer": "John Quincy Adams",
+					"answer": "Helmut Schmidt",
 					"alt": [
-						"John Q Adams",
-						"JQA",
-						"JQ Adams",
-						"John Q. Adams",
-						"Jon Quincy Adams"
+						"schmidt",
+						"schmitt",
+						"helmut schmitt"
 					]
 				},
 				{
-					"answer": "Andrew Jackson",
+					"answer": "Helmut Kohl",
 					"alt": [
-						"Jackson",
-						"Andrew Jacksen",
-						"Jacksen"
+						"kohl",
+						"hellmut kohl",
+						"helmut"
 					]
 				},
 				{
-					"answer": "Martin Van Buren",
+					"answer": "Gerhard Schröder",
 					"alt": [
-						"MVB",
-						"Van Buren",
-						"Martin Van Buron",
-						"Van Burin",
-						"Martin Van Burin",
-						"Buren",
-						"Maarten Van Buren",
-						"Marten Van Buren"
+						"schröder",
+						"gerhard",
+						"gerhart schröder",
+						"schrödder"
 					]
 				},
 				{
-					"answer": "William Henry Harrison",
+					"answer": "Angela Merkel",
 					"alt": [
-						"Harrison",
-						"Harison",
-						"William Henry Harison",
-						"William Harrison",
-						"Will Harrison",
-						"Will Henry Harrison",
-						"William Harison"
-					]
-				},
-				{
-					"answer": "John Tyler",
-					"alt": [
-						"Tyler",
-						"Jon Tyler"
+						"angela",
+						"merkel"
 					]
 				}
 			],
 			"id": 57804,
-			"text": "Einer der ersten U.S. Präsidenten",
+			"text": "Einer der deutschen Bundeskanzler bis 2020",
 			"us": true
 		},
 		{
@@ -287,75 +236,60 @@
 			"x": false,
 			"answers": [
 				{
-					"answer": "Rachel",
+					"answer": "Automobil",
 					"alt": [
-						"Raychel",
-						"Rachel Green",
-						"Rachael",
-						"Racheal",
-						"Rachele",
-						"Racel Katen Green",
-						"Rach",
-						"Raych"
+						"Auto",
+						"Rennwagen"
 					]
 				},
 				{
-					"answer": "Monica",
+					"answer": "Hund",
 					"alt": [
-						"Monika",
-						"Monnica",
-						"Monica Geller",
-						"Monica Geler",
-						"Mon"
+						"Hündchen"
 					]
 				},
 				{
-					"answer": "Phoebe",
+					"answer": "Schubkarre",
 					"alt": [
-						"Pheebe",
-						"Feebee",
-						"Phobe",
-						"Phoebe Buffay",
-						"Phoebe Buffet",
-						"Phoebe Hannigan",
-						"Phoebe Buffay Hannigan",
-						"Phoebe Buffay-Hannigan"
+						"Karre"
 					]
 				},
 				{
-					"answer": "Joey",
+					"answer": "Schuh",
 					"alt": [
-						"Joe",
-						"Joey Tribbiani",
-						"Joie",
-						"Joseph",
-						"Joseph Francis “Joey” Tribbiani Jr."
+						"Arbeitsschuh"
 					]
 				},
 				{
-					"answer": "Chandler",
+					"answer": "Schlachtschiff",
 					"alt": [
-						"Chandeler",
-						"Chandler Bing",
-						"Chandalar",
-						"Chadelar",
-						"Chanandler Bong",
-						"Chandler Muriel Bing"
+						"Schiff",
+						"Boot"
 					]
 				},
 				{
-					"answer": "Ross",
+					"answer": "Katze",
 					"alt": [
-						"Roz",
-						"Russ",
-						"Ross Geller",
-						"Ross Geler",
-						"Ross Eustace Geller"
+						"Bügeleisen"
+					]
+				},
+				{
+					"answer": "Fingerhut",
+					"alt": [
+						"Fingerhütchen"
+					]
+				},
+				{
+					"answer": "Hut",
+					"alt": [
+						"Hütchen",
+						"Zylinder",
+						"Zyllinder"
 					]
 				}
 			],
 			"id": 57800,
-			"text": "einen Charakter aus der TV Serie <i>Friends</i>",
+			"text": "Eine Spielfigur beim klassischen <i>Monopoly</i>",
 			"us": false
 		},
 		{
@@ -405,7 +339,7 @@
 				}
 			],
 			"id": 57798,
-			"text": "den Namen einer Gitarrensaite <br>jede ist nur ein Buchstabe",
+			"text": "Der Name einer Gitarrensaite <br>jede ist nur ein Buchstabe",
 			"us": false
 		},
 		{
@@ -485,7 +419,7 @@
 				}
 			],
 			"id": 57797,
-			"text": "ein U.S. Staat der mit “M” beginnt",
+			"text": "Ein U.S. Staat der mit “M” beginnt",
 			"us": true
 		},
 		{
@@ -542,7 +476,7 @@
 				}
 			],
 			"id": 57795,
-			"text": "eine der sieben Totsünden",
+			"text": "Eine der sieben Totsünden",
 			"us": false
 		},
 		{
@@ -551,38 +485,43 @@
 				{
 					"answer": "earth",
 					"alt": [
-						"the earth"
+						"the earth",
+						"erde"
 					]
 				},
 				{
 					"answer": "wind",
 					"alt": [
 						"the wind",
-						"air"
+						"air",
+						"luft"
 					]
 				},
 				{
 					"answer": "fire",
 					"alt": [
-						""
+						"feuer"
 					]
 				},
 				{
 					"answer": "water",
 					"alt": [
-						""
+						"wasser"
 					]
 				},
 				{
 					"answer": "heart",
 					"alt": [
 						"hart",
-						"the heart"
+						"the heart",
+						"herz",
+						"liebe",
+						"das Herz"
 					]
 				}
 			],
 			"id": 57794,
-			"text": "eine der Superkräfte von Captain Planet's Planeteers<br>Hinweis: Es sind (fast) alle klassische Naturelemente",
+			"text": "Eine der Superkräfte von Captain Planet's Planeteers<br>Hinweis: Es sind (fast) alle klassische Naturelemente",
 			"us": true
 		},
 		{
@@ -665,7 +604,7 @@
 				}
 			],
 			"id": 57791,
-			"text": "eines der zwölf Tierkreiszeichen",
+			"text": "Eines der zwölf Sternzeichen",
 			"us": false
 		},
 		{
@@ -721,7 +660,7 @@
 				}
 			],
 			"id": 57788,
-			"text": "einer der ersten acht Buchstaben des Alphabets",
+			"text": "Einer der ersten acht Buchstaben des Alphabets",
 			"us": false
 		},
 		{
@@ -773,7 +712,7 @@
 				}
 			],
 			"id": 57787,
-			"text": "ein Wochentag",
+			"text": "Ein Wochentag",
 			"us": false
 		},
 		{
@@ -1098,7 +1037,7 @@
 				}
 			],
 			"id": 56057,
-			"text": "einer der Planeten unseres Sonnensystems",
+			"text": "Einer der Planeten unseres Sonnensystems",
 			"us": false
 		},
 		{

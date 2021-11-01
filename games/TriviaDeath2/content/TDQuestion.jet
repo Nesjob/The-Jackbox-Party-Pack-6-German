@@ -2001,7 +2001,7 @@
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "die fünfte"
+                    "text": "der fünfte"
                 },
                 {
                     "controllerClass": "",
@@ -2009,11 +2009,11 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "die dritte"
+                    "text": "der dritte"
                 },
                 {
                     "controllerClass": "",
-                    "text": "die zweite"
+                    "text": "der zweite"
                 }
             ]
         },
