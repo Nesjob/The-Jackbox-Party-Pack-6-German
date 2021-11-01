@@ -192,7 +192,7 @@
 			],
 			"id": 57804,
 			"text": "Einer der deutschen Bundeskanzler bis 2020",
-			"us": true
+			"us": false
 		},
 		{
 			"x": false,
@@ -719,86 +719,48 @@
 			"x": false,
 			"answers": [
 				{
-					"answer": "tomato",
+					"answer": "Chrome",
 					"alt": [
-						"tomatoes",
-						"tomatos",
-						"tamato",
-						"tamahto",
-						"tomayto",
-						"tomaytoe",
-						"tomatoe"
+						"Google Chrome",
+						"Chromium"
 					]
 				},
 				{
-					"answer": "carrot",
+					"answer": "Edge",
 					"alt": [
-						"carrots",
-						"carot",
-						"carret",
-						"carots",
-						"carrets",
-						"carrut",
-						"carrit"
+						"Microsoft Edge"
 					]
 				},
 				{
-					"answer": "celery",
+					"answer": "Safari",
 					"alt": [
-						"cellery",
-						"celary",
-						"cellary"
+						"Apple Safari"
 					]
 				},
 				{
-					"answer": "beet",
+					"answer": "Firefox",
 					"alt": [
-						"beets",
-						"beat",
-						"beats"
+						"Mozilla Firefox",
+						"Mozilla"
 					]
 				},
 				{
-					"answer": "parsley",
+					"answer": "Opera",
 					"alt": [
-						"parsly",
-						"parsely",
-						"parslee",
-						"parslie"
+						"Oppera"
 					]
 				},
 				{
-					"answer": "lettuce",
+					"answer": "Internet Explorer",
 					"alt": [
-						"letuce",
-						"lettace",
-						"lettus",
-						"letus"
-					]
-				},
-				{
-					"answer": "watercress",
-					"alt": [
-						"watercrest",
-						"watercross",
-						"watercresh",
-						"watercrass",
-						"watercres"
-					]
-				},
-				{
-					"answer": "spinach",
-					"alt": [
-						"spinache",
-						"spinech",
-						"spinich",
-						"spiniche"
+						"IE",
+						"Microsoft Internet Explorer"
 					]
 				}
 			],
 			"id": 57341,
-			"text": "xxxxxone of the vegetables found in the original V8 vegetable juice",
-			"us": true
+			"text": "Einer der 6 beliebtesten Internetbrower Deutschlands",
+			"us": false
 		},
 		{
 			"x": false,
@@ -1116,11 +1078,11 @@
 					]
 				},
 				{
-					"answer": "Romeo and Juliet",
+					"answer": "Romeo und Julia",
 					"alt": [
-						"Romeo & Juliet",
-						"Romeo Juliet",
-						"Romeo and Juliett"
+						"Romeo & Julia",
+						"Romeo + Julia",
+						"Romeo Julia"
 					]
 				},
 				{
@@ -1154,7 +1116,7 @@
 				}
 			],
 			"id": 56056,
-			"text": "xxxxxone of Shakespeare’s tragedies",
+			"text": "Eine Tragödie von Shakespeare",
 			"us": true
 		},
 		{
@@ -1220,7 +1182,7 @@
 				}
 			],
 			"id": 56055,
-			"text": "eine Nobelpreis Kategorie",
+			"text": "Eine Nobelpreis Kategorie",
 			"us": false
 		},
 		{
@@ -1275,7 +1237,7 @@
 				}
 			],
 			"id": 56054,
-			"text": "ein Charakter aus der <i>Simpsons</i> Familie",
+			"text": "Ein Charakter aus der <i>Simpsons</i> Familie",
 			"us": false
 		},
 		{
@@ -1331,7 +1293,7 @@
 				}
 			],
 			"id": 56053,
-			"text": "einer der acht höchsten Buchstaben beim <i>Scrabble</i>",
+			"text": "Einer der acht höchsten Buchstaben beim <i>Scrabble</i>",
 			"us": false
 		},
 		{
@@ -1387,7 +1349,7 @@
 				}
 			],
 			"id": 56052,
-			"text": "einer der vier längesten Flüsse der Welt",
+			"text": "Einer der vier längesten Flüsse der Welt",
 			"us": false
 		},
 		{
@@ -1427,7 +1389,7 @@
 				}
 			],
 			"id": 56051,
-			"text": "einer der Gesichter in Mount Rushmore",
+			"text": "Einer der Gesichter in Mount Rushmore",
 			"us": true
 		},
 		{
@@ -1566,7 +1528,7 @@
 				}
 			],
 			"id": 55987,
-			"text": "ein spielbarer Charakter im ersten <i>Super Smash Bros.</i>",
+			"text": "Ein spielbarer Charakter im ersten <i>Super Smash Bros.</i>",
 			"us": false
 		},
 		{
@@ -1730,124 +1692,94 @@
 					]
 				},
 				{
-					"answer": "Taco Bell",
+					"answer": "Nordsee",
 					"alt": [
-						"Tacobell",
-						"Taco Bel"
+						"nord see",
+						"nordsee"
 					]
 				},
 				{
-					"answer": "Pizza Hut",
+					"answer": "KFC",
 					"alt": [
-						"PizzaHut",
-						"The Hut",
-						"Pizza Hutt",
-						"Piza Hut",
-						"P Hut"
-					]
-				},
-				{
-					"answer": "Wendy’s",
-					"alt": [
-						"Wendys",
-						"Wendies",
-						"Wendy",
-						"Wandys"
+						"kentucky fried chicken",
+						"kentucky fried chiken",
+						"k f c"
 					]
 				}
 			],
 			"id": 55970,
-			"text": "eine der Top 6 Fast-Food-Ketten in den USA<br>(nach Anzahl der Filialen)",
+			"text": "Eine der Top 5 Fast-Food-Ketten in Deutschland<br>(nach Anzahl der Filialen)",
 			"us": true
 		},
 		{
 			"x": false,
 			"answers": [
 				{
-					"answer": "Beef",
+					"answer": "Fleisch",
 					"alt": [
-						"Beef Patties",
+						"Patty",
 						"Patties",
-						"Meat",
-						"patty",
-						"beef patty",
-						"two patties",
-						"double meat",
-						"double beef",
-						"two beef patties",
-						"2 patties",
-						"2 beef patties",
-						"2 meats",
-						"two meats",
-						"two all beef patties",
-						"2 all beef patties",
-						"two all-beef patties",
-						"2 all-beef patties",
-						"double beef patties"
+						"Steak",
+						"Hackfleisch",
+						"2 fleisch",
+						"rindfleisch"
 					]
 				},
 				{
-					"answer": "Big Mac Sauce",
+					"answer": "Big Mac Soße",
 					"alt": [
 						"Sauce",
-						"Thousand Island",
-						"Thousand Island Dressing",
+						"Soße",
+						"Sosse",
 						"Dressing",
-						"Special Dressing",
-						"special sauce"
+						"Spezialsoße",
+						"Spezial Sosse"
 					]
 				},
 				{
-					"answer": "Lettuce",
+					"answer": "Salat",
 					"alt": [
-						"Letuce",
-						"Iceberg Lettuce",
-						"shredded lettuce"
+						"Eisbergsalat",
+						"Eisberg Salat",
+						"salatstreifen"
 					]
 				},
 				{
-					"answer": "Cheese",
+					"answer": "Käse",
 					"alt": [
-						"American Cheese"
+						"Schmelzkäse"
 					]
 				},
 				{
-					"answer": "Pickles",
+					"answer": "Essiggurken",
 					"alt": [
-						"Pickle",
-						"Pickel",
-						"Pickels",
-						"2 pickles",
-						"two pickles",
-						"2 pickels",
-						"two pickels"
+						"Gurken",
+						"Gürkchen",
+						"Gurke",
+						"Essiggurke"
 					]
 				},
 				{
-					"answer": "Onions",
+					"answer": "Zwiebeln",
 					"alt": [
-						"Onion",
-						"Raw Onion",
-						"Raw Onions",
-						"Chopped Onion",
-						"Chopped Onions"
+						"Zwiebel"
 					]
 				},
 				{
-					"answer": "Bun",
+					"answer": "Brötchen",
 					"alt": [
 						"Buns",
-						"Bread",
-						"Sesame Seed Bun",
-						"Sesame Bun",
-						"Sesame Seed Buns",
-						"Sesame Buns"
+						"Brot",
+						"Bun",
+						"Sesambrötchen",
+						"Sesam Brötchen",
+						"Sesam Bun"
 					]
 				}
 			],
 			"id": 55969,
-			"text": "xxxxxone of the ingredients in a Big Mac",
-			"us": true
+			"text": "Eine Zutat im Big Mac",
+			"us": false
 		},
 		{
 			"x": false,
@@ -1948,7 +1880,7 @@
 				}
 			],
 			"id": 55968,
-			"text": "eines der sieben größten vereinsgebundenen Fußballstadien Europas (Stadion- oder Vereinsname)",
+			"text": "Eines der sieben größten vereinsgebundenen Fußballstadien Europas (Stadion- oder Vereinsname)",
 			"us": true
 		},
 		{
@@ -1981,7 +1913,8 @@
 						"Baden Wüttenberg",
 						"Baden-Würtenberg",
 						"Baden Würtenberg",
-						"Baden",
+						"BaWü",
+						"Ba Wü",
 						"Württemberg",
 						"BW"
 					]
@@ -2026,7 +1959,7 @@
 				}
 			],
 			"id": 55967,
-			"text": "eines der sieben größten Bundesländer Deutschlands",
+			"text": "Eines der sieben größten Bundesländer Deutschlands",
 			"us": false
 		},
 		{
@@ -2088,11 +2021,11 @@
 					"alt": [
 						"Die Philippinen",
 						"Phillippinen",
-						"The Phillippinen",
-						"The Phillipinen",
+						"Die Phillippinen",
+						"Die Phillipinen",
 						"Phillipinen",
 						"Philipinen",
-						"The Philipinen"
+						"Die Philipinen"
 					]
 				},
 				{
@@ -2111,7 +2044,7 @@
 				}
 			],
 			"id": 55966,
-			"text": "ein Land, das mit “P” beginnt",
+			"text": "Ein Land, das mit “P” beginnt",
 			"us": false
 		},
 		{
@@ -2227,7 +2160,7 @@
 				}
 			],
 			"id": 55964,
-			"text": "ein südamerikanisches Land",
+			"text": "Ein südamerikanisches Land",
 			"us": false
 		},
 		{
@@ -2291,7 +2224,7 @@
 				}
 			],
 			"id": 55963,
-			"text": "eines der sieben größten Länder der Welt nach Landmasse",
+			"text": "Eines der sieben größten Länder der Welt nach Landmasse",
 			"us": false
 		},
 		{
@@ -2335,8 +2268,8 @@
 				}
 			],
 			"id": 55962,
-			"text": "eine Farbe auf dem original Rubik-Würfel",
-			"us": true
+			"text": "Eine Farbe auf dem originalen Rubik-Würfel",
+			"us": false
 		},
 		{
 			"x": false,
@@ -2403,7 +2336,7 @@
 			],
 			"id": 55958,
 			"text": "eine der beliebtesten Hunderassen Deutschlands (Stand 2020)",
-			"us": true
+			"us": false
 		},
 		{
 			"x": false,
@@ -2463,7 +2396,7 @@
 				}
 			],
 			"id": 55957,
-			"text": "eine Tierart mit einer Sprechrolle in der Originalversion von <i>Der König der Löwen</i>",
+			"text": "Eine Tierart mit einer Sprechrolle in der Originalversion von <i>Der König der Löwen</i>",
 			"us": true
 		},
 		{
@@ -2662,7 +2595,7 @@
 				}
 			],
 			"id": 57822,
-			"text": "eine der fünf größten Großkatzenarten der Welt",
+			"text": "Eine der fünf größten Großkatzenarten der Welt",
 			"us": false
 		},
 		{
@@ -2704,7 +2637,7 @@
 				}
 			],
 			"id": 57819,
-			"text": "einer der fünf längsten Flüsse Deutschlands",
+			"text": "Einer der fünf längsten Flüsse Deutschlands",
 			"us": true
 		},
 		{
@@ -2817,7 +2750,7 @@
 				}
 			],
 			"id": 57823,
-			"text": "ein Mitglied der Gefährten des Ringes in <i>Herr der Ringe</i>",
+			"text": "Ein Mitglied der Gefährten des Ringes in <i>Herr der Ringe</i>",
 			"us": false
 		}
 	]
