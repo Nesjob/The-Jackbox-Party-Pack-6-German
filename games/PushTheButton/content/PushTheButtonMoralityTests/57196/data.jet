@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"Keanu Reeves",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"Beyoncé",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"Dwayne \u201cThe Rock\u201d Johnson",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Aliens werden die Erde verschonen, wenn sie eine Person auf ihren Planeten zurückbringen können, um nie wieder gesehen zu werden. Wir sollten... aufgeben",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Aliens werden die Erde verschonen, wenn sie eine Person auf ihren Planeten zurückbringen können, um nie wieder gesehen zu werden. Wir sollten... aufgeben",
+         "t":"A",
+         "v":"823595_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

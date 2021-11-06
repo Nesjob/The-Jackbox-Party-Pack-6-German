@@ -1,0 +1,140 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty5"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty4"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty3"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"Difficulty"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty7"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty6"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt5"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt6"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt7"
+      },
+      {
+        "t": "S",
+        "v": "Zeichne ein lustiges Boot.",
+        "n": "HumanPromptText"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne einen Walauslauf.",
+        "n": "AlienPromptText4"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne ein U-Boot.",
+        "n": "AlienPromptText5"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne eine glückliche Ente.",
+        "n": "AlienPromptText6"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne ein Kreuzfahrtschiff.",
+        "n": "AlienPromptText7"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne eine Gondel.",
+        "n": "AlienPromptText0"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne ein Ruderboot.",
+        "n": "AlienPromptText1"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne die <i>Titanic<\/i>.",
+        "n": "AlienPromptText2"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt3"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne ein Entenboot.",
+        "n": "AlienPromptText3"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt4"
+     },
+     {
+        "s": "Zeichne ein lustiges Boot.",
+        "t": "A",
+        "v": "831698_1",
+        "n": "HumanPromptAudio"
+      }
+   ]
+}

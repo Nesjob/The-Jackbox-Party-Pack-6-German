@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"einen Milliardär",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"ein Elternteil",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"einen Chirurgen",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Du bekommst die Chance, dass deine Gehirnwellen den Körper eines anderen Menschen übernehmen und ihn auslöschen. Du wählst...",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Du bekommst die Chance, dass deine Gehirnwellen den Körper eines anderen Menschen übernehmen und ihn auslöschen. Du wählst...",
+         "t":"A",
+         "v":"823905_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

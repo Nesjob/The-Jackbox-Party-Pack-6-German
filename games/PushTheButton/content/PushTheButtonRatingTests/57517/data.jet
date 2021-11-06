@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Pommes Frites sind furchtbar, sobald sie kalt sind.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ich habe eine Zeichentrickfigur attraktiv gefunden.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Ich könnte nie vegan leben",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Ich fühle mich zum Hamburglar (Maskottchen von McDonald's, das Burger stielt) hingezogen.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Ich fühle mich zum Hamburglar (Maskottchen von McDonald's, das Burger stielt) hingezogen.",
+            "t": "A",
+            "v": "832250_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

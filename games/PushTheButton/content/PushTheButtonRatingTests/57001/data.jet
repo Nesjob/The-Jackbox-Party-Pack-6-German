@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Es ist okay, zu lügen.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ich sage immer die Wahrheit.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Ich finde es spannend, zu lügen.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Es ist okay, eine Notlüge zu erzählen.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Es ist okay, eine Notlüge zu erzählen.",
+            "t": "A",
+            "v": "818866_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

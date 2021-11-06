@@ -1,0 +1,155 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty8"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty7"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt7"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt8"
+        },
+        {
+            "t": "S",
+            "v": "Meine Lieblings-Zeichentrickfigur ist ...",
+            "n": "AlienPromptText8"
+        },
+        {
+            "t": "S",
+            "v": "Ich würde wahrscheinlich das Wort \u201cverschwitzt\u201d benutzen, um zu beschreiben ...",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Ich würde wahrscheinlich das Wort \u201cfeucht\u201d verwenden, um zu beschreiben ...",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Ich würde wahrscheinlich das Wort \u201cheiß\u201d verwenden, um zu beschreiben ...",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "Wenn ich an die Turnhalle denke, denke ich an ...",
+            "n": "AlienPromptText6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Ein merkwürdiges Körperteil ist ...",
+            "n": "AlienPromptText7"
+        },
+        {
+            "t": "S",
+            "v": "Ich würde wahrscheinlich das Wort \u201cigitt\u201d verwenden, um zu beschreiben ...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ich würde wahrscheinlich das Wort \u201cstinkend\u201d benutzen, um zu beschreiben ...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Ich würde wahrscheinlich das Wort \u201cklebrig\u201d verwenden, um zu beschreiben ...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Ich würde wahrscheinlich das Wort \u201cgrob\u201d verwenden, um zu beschreiben...",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Ich würde wahrscheinlich das Wort \u201cverschwitzt\u201d benutzen, um zu beschreiben...",
+            "t": "A",
+            "v": "834855_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

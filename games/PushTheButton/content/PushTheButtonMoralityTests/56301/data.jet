@@ -1,0 +1,65 @@
+{
+    "fields":[
+       {
+          "t":"N",
+          "v":"0",
+          "n":"AlienPromptDifficulty2"
+       },
+       {
+          "t":"N",
+          "v":"0",
+          "n":"AlienPromptDifficulty1"
+       },
+       {
+          "t":"N",
+          "v":"0",
+          "n":"AlienPromptDifficulty0"
+       },
+       {
+          "t":"N",
+          "v":"0",
+          "n":"Difficulty"
+       },
+       {
+          "t":"S",
+          "v":"false",
+          "n":"AlienPromptAdultt0"
+       },
+       {
+          "t":"S",
+          "v":"ihn zu melden",
+          "n":"AlienPromptText0"
+       },
+       {
+          "t":"S",
+          "v":"false",
+          "n":"AlienPromptAdultt1"
+       },
+       {
+          "t":"S",
+          "v":"es geheim zu halten",
+          "n":"AlienPromptText1"
+       },
+       {
+          "t":"S",
+          "v":"false",
+          "n":"AlienPromptAdultt2"
+       },
+       {
+          "t":"S",
+          "v":"der Presse einen Tipp zu geben",
+          "n":"AlienPromptText2"
+       },
+       {
+          "t":"S",
+          "v":"Du findest heraus, dass dein geliebter Großvater gelogen hat und ein Kriegsheld war. Was du tun solltest ist...",
+          "n":"HumanPromptText"
+       },
+       {
+          "s":"Du findest heraus, dass dein geliebter Großvater gelogen hat und ein Kriegsheld war. Was du tun solltest ist...",
+          "t":"A",
+          "v":"805361_0",
+          "n":"HumanPromptAudio"
+       }
+    ]
+ }
