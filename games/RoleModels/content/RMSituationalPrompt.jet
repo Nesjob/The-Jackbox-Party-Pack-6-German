@@ -6342,7 +6342,7 @@
                "prompts":[
                   {
                      "role":4,
-                     "question":"Wen würdet ihr als \u201kann Sammlung energetisierende geheimnisvoller Inhaltsstoffe enthalten\u201d beschreiben?",
+                     "question":"Wen würdet ihr als \u201dkann Sammlung energetisierende geheimnisvoller Inhaltsstoffe enthalten\u201d beschreiben?",
                      "name":"5-Stunden-Energy",
                      "idx":7
                   }
@@ -12580,7 +12580,7 @@
                "name":"Haarfärbemittel",
                "required":false,
                "tags":[
-                  "schön,
+                  "schön",
                   "Modepuppe"
                ]
             },
