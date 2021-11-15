@@ -622,26 +622,26 @@
             "x": false,
             "id": 55484,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Welche der folgenden Personen ist NICHT eine der Töchter in Shakespeares <i>König Lear</i>?",
+            "text": "Was hat Thomas Gottschalk früher moderiert?",
             "choices": [
                 {
                     "controllerClass": "",
+                    "text": "Wetten dass?"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Wetten, dass?"
+                },
+                {
+                    "controllerClass": "",
                     "correct": true,
-                    "text": "Viola"
+                    "text": "Wetten, dass..?"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Regan"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Goneril"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Cordelia"
+                    "text": "Wetten, dass...?"
                 }
             ]
         },
@@ -678,7 +678,7 @@
             "x": false,
             "id": 55515,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Was versteht man in der Kunst unter \"trompe l'oeil\"?",
             "choices": [
@@ -734,7 +734,7 @@
             "x": false,
             "id": 55519,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Welches Künstlerwerkzeug haben Patrick Swayze und Demi Moore in <i>Ghost</i> sexy gemacht?",
             "choices": [
@@ -1070,26 +1070,26 @@
             "x": false,
             "id": 55643,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
-            "text": "Wie lautet der Bildschirmname von Meg Ryans Figur in <i>E-Mail für dich</i>?",
+            "text": "Aus wie vielen Zeichen bestehen diese dämlichen Windows-Lizenzen?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "FlowerChild"
+                    "text": "8"
                 },
                 {
                     "controllerClass": "",
-                    "text": "CatLover"
+                    "text": "16"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "20"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Shopgirl"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "Bookworm"
+                    "text": "25"
                 }
             ]
         },

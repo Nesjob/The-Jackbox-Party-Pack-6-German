@@ -522,7 +522,7 @@
                "text":"<i>The Country Wife<\/i>"
             }
          ],
-         "us":false
+         "us":true
       },
       {
          "x":false,
@@ -3368,95 +3368,95 @@
       {
          "x":false,
          "id":56946,
-         "text":"Pfadfinderabzeichen",
+         "text":"Helene Fischer Alben",
          "choices":[
             {
                "difficulty":0,
                "correct":true,
-               "text":"First Aid"
+               "text":"Von hier bis unendlich"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Camping"
+               "text":"So nah wie du"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Cooking"
+               "text":"Zaubermond"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Environmental Science"
+               "text":"So wie ich bin"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Archery"
+               "text":"Für einen Tag"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Disabilities Awareness"
+               "text":"Farbenspiel"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Woodwork"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Chess"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Golf"
-            },
-            {
-               "difficulty":0,
-               "correct":true,
-               "text":"Geocaching"
+               "text":"Helene Fischer"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Diplomacy"
+               "text":"Glücksgefühle"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Trivia"
+               "text":"Alles was du brauchst"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Travel"
+               "text":"Natürlich!"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Pokémon Go"
+               "text":"Leben Pur"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Ghost Stories"
+               "text":"Mosaik"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Algebra"
+               "text":"Hier liegt mein Paradies"
             },
             {
                "difficulty":0,
                "correct":false,
-               "text":"Sewing"
+               "text":"Fischers Fritze"
+            },
+            {
+               "difficulty":0,
+               "correct":false,
+               "text":"Winterträume"
+            },
+            {
+               "difficulty":0,
+               "correct":false,
+               "text":"Seelenfeuer"
+            },
+            {
+               "difficulty":0,
+               "correct":false,
+               "text":"Für die Ewigkeit"
             }
          ],
-         "us":true
+         "us":false
       },
       {
          "x":false,

@@ -1356,40 +1356,90 @@
 			"x": false,
 			"answers": [
 				{
-					"answer": "George Washington",
+					"answer": "Sprinti",
 					"alt": [
-						"Washington"
+						"Quad"
 					]
 				},
 				{
-					"answer": "Abraham Lincoln",
+					"answer": "Knolle",
 					"alt": [
-						"Lincoln",
-						"Abe Lincoln",
-						"Lincon"
+						"Lumpe"
 					]
 				},
 				{
-					"answer": "Thomas Jefferson",
+					"answer": "Bob",
 					"alt": [
-						"Jefferson",
-						"Thom Jefferson",
-						"Jeferson",
-						"Thomas Jeferson",
-						"Tom Jefferson",
-						"Tom Jererson"
+						"Bob der Baumeister"
 					]
 				},
 				{
-					"answer": "Theodore Roosevelt",
+					"answer": "Rollo",
 					"alt": [
-						"Roosevelt",
-						"Teddy Roosevelt"
+						"Roller",
+						"Walzi"
+					]
+				},
+				{
+					"answer": "Mixi",
+					"alt": [
+						"Orangli"
+					]
+				},
+				{
+					"answer": "Winzi",
+					"alt": [
+						"Gelber Kran"
+					]
+				},
+				{
+					"answer": "Buddel",
+					"alt": [
+						"Mocke"
+					]
+				},
+				{
+					"answer": "Schleppo",
+					"alt": [
+						"Abschleppwagen"
+					]
+				},
+				{
+					"answer": "Heppo",
+					"alt": [
+						"Chränli"
+					]
+				},
+				{
+					"answer": "Buddel",
+					"alt": [
+						"Schaufellader"
+					]
+				},
+				{
+					"answer": "Baggi",
+					"alt": [
+						"Bagger",
+						"Schuba"
+					]
+				},
+				{
+					"answer": "Leo",
+					"alt": [
+						"Leonard",
+						"Leonhard"
+					]
+				},
+				{
+					"answer": "Wendy",
+					"alt": [
+						"Wendie",
+						"Rita"
 					]
 				}
 			],
 			"id": 56051,
-			"text": "Einer der Gesichter in Mount Rushmore",
+			"text": "Ein Charakter aus dem Team von Bob der Baumeister",
 			"us": true
 		},
 		{
@@ -2335,7 +2385,7 @@
 				}
 			],
 			"id": 55958,
-			"text": "eine der beliebtesten Hunderassen Deutschlands (Stand 2020)",
+			"text": "Eine der beliebtesten Hunderassen Deutschlands (Stand 2020)",
 			"us": false
 		},
 		{
