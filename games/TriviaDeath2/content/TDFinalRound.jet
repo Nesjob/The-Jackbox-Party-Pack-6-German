@@ -1447,7 +1447,7 @@
       {
          "x":false,
          "id":55246,
-         "text":"Schüler in der Netflix-Serie \u2019s <i>Sex Education<\/i>",
+         "text":"Schüler in der Netflix-Serie <i>Sex Education<\/i>",
          "choices":[
             {
                "difficulty":0,
@@ -15132,12 +15132,12 @@
             {
                "difficulty":1,
                "correct":true,
-               "text":"Bundestagswahl in Russland"
+               "text":"Parlamentswahl in Russland"
             },
             {
                "difficulty":0,
                "correct":true,
-               "text":"Bundestagswahl in England"
+               "text":"Parlamentswahl in England"
             },
             {
                "difficulty":0,
