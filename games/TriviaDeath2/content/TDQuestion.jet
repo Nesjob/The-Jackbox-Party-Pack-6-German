@@ -652,7 +652,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Welches dieser Instrumente spielt Dr. Teeth, der Bandleader aus <i>Die Muppet Show</i>,?",
+            "text": "Welches dieser Instrumente spielt Dr. Teeth, der Bandleader aus <i>Die Muppet Show</i>?",
             "choices": [
                 {
                     "controllerClass": "",
