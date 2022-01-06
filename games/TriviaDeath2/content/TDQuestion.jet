@@ -6173,7 +6173,7 @@
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "Bantamgewicht"
+                    "text": "Fliegengewicht"
                 },
                 {
                     "controllerClass": "",
@@ -6185,7 +6185,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "Cruisergewicht"
+                    "text": "Bantamgewicht"
                 }
             ]
         },
@@ -12646,7 +12646,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "text": "Konkavpiegel"
+                    "text": "Konkavspiegel"
                 },
                 {
                     "controllerClass": "",

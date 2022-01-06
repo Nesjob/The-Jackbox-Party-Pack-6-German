@@ -37,7 +37,7 @@
             "pic": false,
             "us": false,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Ich weiß, dass Sie nicht der Mörder sind, wenn Sie mir sagen können, auf welchem Kontinent sich die größte Wüste befindet.",
+            "text": "[EventName=HOST/AltHost]Ich weiß, dass du nicht der Mörder bist, wenn du mir sagen kannst, auf welchem Kontinent sich die größte Wüste befindet.",
             "choices": [
                 {
                     "controllerClass": "",
@@ -121,24 +121,24 @@
             "pic": false,
             "us": true,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Was hat es mit den <i>Property Brothers</i> auf sich?",
+            "text": "[EventName=HOST/AltHost]Welcher dieser Zahlensysteme gibt es eigentlich gar nicht?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "sie sind eigentlich keine Brüder"
+                    "text": "Additionssystem"
                 },
                 {
                     "controllerClass": "",
-                    "text": "sie wurden im Abstand von 10 Monaten geboren"
-                },
-                {
-                    "controllerClass": "",
-                    "text": "sie sind zweieiige Zwillinge"
-                },
-                {
                     "correct": true,
+                    "text": "Exponentialsystem"
+                },
+                {
                     "controllerClass": "",
-                    "text": "sie sind eineiige Zwillinge"
+                    "text": "Hybridsystem"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Stellenwertsystem"
                 }
             ]
         },
@@ -149,24 +149,24 @@
             "pic": false,
             "us": false,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Wie lautet der Name der fiktiven Band, die mit Ziggy Stardust spielte?",
+            "text": "[EventName=HOST/AltHost]Wann haben wir in Deutschland das erste Mal bei der Polizei Fingerabdrücke erfasst?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "The Spiders from Mars",
+                    "text": "1903",
                     "correct": true
                 },
                 {
                     "controllerClass": "",
-                    "text": "Ground Control"
+                    "text": "1927"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Space Jam"
+                    "text": "1945"
                 },
                 {
                     "controllerClass": "",
-                    "text": "The Fires of Venus"
+                    "text": "1982"
                 }
             ]
         },
@@ -177,7 +177,7 @@
             "pic": false,
             "us": true,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Was bedeutet \"10-4\"?",
+            "text": "[EventName=HOST/AltHost]Was bedeutet bei uns \"10-4\"?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -205,7 +205,7 @@
             "pic": false,
             "us": true,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Ich lasse Sie gehen, wenn Sie herausfinden können, welche dieser Sendungen eine Netflix-Originalserie ist!",
+            "text": "[EventName=HOST/AltHost]Ich lasse dich gehen, wenn du mir sagen kannst, welche dieser Sendungen eine Netflix-Originalserie ist!",
             "choices": [
                 {
                     "controllerClass": "",
@@ -233,7 +233,7 @@
             "pic": false,
             "us": false,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Um zu beweisen, dass Sie unschuldig sind, sagen Sie mir einfach, welches Zitat René Descartes zugeschrieben wird.",
+            "text": "[EventName=HOST/AltHost]Um zu beweisen, dass du unschuldig bist, sag mir einfach, welches Zitat René Descartes zugeschrieben wird.",
             "choices": [
                 {
                     "controllerClass": "",
@@ -287,26 +287,26 @@
             "x": false,
             "id": 55915,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Ich lasse Sie gehen, wenn Sie mir sagen können, wer die Hauptrolle in Jordan Peele's <i>Us</i> spielte.",
+            "text": "[EventName=HOST/AltHost]Ich lasse dich gehen, wenn du mir sagen kannst, wie der zweite Vorname von Til Schweiger lautet.",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Viola Davis"
+                    "text": "David"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Danai Gurira"
+                    "text": "Sebastian"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Sonequa Martin-Green"
+                    "text": "Robert"
                 },
                 {
                     "correct": true,
                     "controllerClass": "",
-                    "text": "Lupita Nyong'o"
+                    "text": "Valentin"
                 }
             ]
         },
@@ -315,26 +315,26 @@
             "x": false,
             "id": 55914,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Sie können Ihren Namen reinwaschen, wenn Sie mir sagen, welches ein Naughty by Nature-Song ist.",
+            "text": "[EventName=HOST/AltHost]Du kannst dich nur noch retten, wenn du mir sagen kannst, was die Saccharose ist.",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Hip Hop Hollywood"
+                    "text": "ein amerikanischer Hip-Hop Hünstler"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Hip Hop Hooray",
+                    "text": "ein Kohlenhydrat",
                     "correct": true
                 },
                 {
                     "controllerClass": "",
-                    "text": "Hip Hop Holiday"
+                    "text": "eine traditionelle Wildpflanze"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Hippity Hip Hop"
+                    "text": "Klassische Wiener Schokolade"
                 }
             ]
         },
@@ -345,24 +345,24 @@
             "pic": false,
             "us": false,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Wer schrieb die Songs \"Big Yellow Taxi\" und \"River\"?",
+            "text": "[EventName=HOST/AltHost]Wer schrieb den Song \"MfG\"?",
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "Cat Stevens"
+                    "text": "Falco"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Joni Mitchell",
+                    "text": "Die fantastischen Vier",
                     "correct": true
                 },
                 {
                     "controllerClass": "",
-                    "text": "Joan Baez"
+                    "text": "Stefan Raab"
                 },
                 {
                     "controllerClass": "",
-                    "text": "Alanis Morissette"
+                    "text": "Die Ärzte"
                 }
             ]
         },
@@ -401,7 +401,7 @@
             "pic": false,
             "us": false,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Auf welchem Kontinent hat die Kartoffel ihren Ursprung?",
+            "text": "[EventName=HOST/AltHost]Von welchem Kontinent hat die Kartoffel ihren Ursprung?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -427,7 +427,7 @@
             "x": false,
             "id": 55864,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": true,
             "text": "[EventName=HOST/AltHost]Welcher dieser Weine ist traditionell der kräftigste und dunkelste?",
             "choices": [
@@ -457,7 +457,7 @@
             "pic": false,
             "us": true,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Beweisen Sie, dass Sie unschuldig sind und sagen Sie mir, wo Calvin Harris und Rihanna in \"We Found Love\" ihre Liebe gefunden haben?",
+            "text": "[EventName=HOST/AltHost]Beweise, dass du unschuldig bist und sag mir, wo Calvin Harris und Rihanna in \"We Found Love\" ihre Liebe gefunden haben.",
             "choices": [
                 {
                     "controllerClass": "",
@@ -485,7 +485,7 @@
             "pic": false,
             "us": false,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Wie würden Sie die Architektur des Rokoko charakterisieren?",
+            "text": "[EventName=HOST/AltHost]Wie würdest du die Architektur des Rokoko charakterisieren?",
             "choices": [
                 {
                     "controllerClass": "",

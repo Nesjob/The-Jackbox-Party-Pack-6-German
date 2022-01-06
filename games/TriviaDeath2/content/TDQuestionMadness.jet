@@ -80,7 +80,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "correct (#1)": true,
+                    "correct": true,
                     "text": "ein Pferd"
                 }
             ]
@@ -152,7 +152,7 @@
             "choices": [
                 {
                     "controllerClass": "",
-                    "correct (#2)": true,
+                    "correct": true,
                     "text": "Löwe"
                 },
                 {
@@ -180,7 +180,7 @@
             "choices": [
                 {
                     "controllerClass": "",
-                    "correct (#2)": true,
+                    "correct": true,
                     "text": "Mond"
                 },
                 {
@@ -220,7 +220,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "correct (#1)": true,
+                    "correct": true,
                     "text": "1"
                 }
             ]
@@ -272,7 +272,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "correct (#3)": true,
+                    "correct": true,
                     "text": "31. Oktober"
                 },
                 {
@@ -356,7 +356,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "correct (#3)": true,
+                    "correct": true,
                     "text": "Frankreich"
                 },
                 {
@@ -384,7 +384,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "correct (#3)": true,
+                    "correct": true,
                     "text": "Eisen"
                 },
                 {
@@ -412,7 +412,7 @@
                 },
                 {
                     "controllerClass": "",
-                    "correct (#3)": true,
+                    "correct": true,
                     "text": "Harrison Ford"
                 },
                 {

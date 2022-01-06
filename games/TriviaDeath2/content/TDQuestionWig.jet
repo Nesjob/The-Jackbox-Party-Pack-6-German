@@ -41,7 +41,7 @@
             "choices": [
                 {
                     "controllerClass": "",
-                    "correct (#1)": true,
+                    "correct": true,
                     "text": "Fierecilla"
                 },
                 {
@@ -209,7 +209,7 @@
             "choices": [
                 {
                     "controllerClass": "",
-                    "correct (#1)": true,
+                    "correct": true,
                     "text": "<i>Dumbo</i>"
                 },
                 {
@@ -265,7 +265,7 @@
             "choices": [
                 {
                     "controllerClass": "",
-                    "correct (#1)": true,
+                    "correct": true,
                     "text": "<i>Gilmore Girls</i>"
                 },
                 {
@@ -377,7 +377,7 @@
             "choices": [
                 {
                     "controllerClass": "",
-                    "correct (#1)": true,
+                    "correct": true,
                     "text": "<i>Der Exorzist</i>"
                 },
                 {
