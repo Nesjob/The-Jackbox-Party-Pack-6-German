@@ -121,7 +121,7 @@
             "pic": false,
             "us": true,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Welcher dieser Zahlensysteme gibt es eigentlich gar nicht?",
+            "text": "[EventName=HOST/AltHost]Welches dieser Zahlensysteme gibt es eigentlich gar nicht?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -401,7 +401,7 @@
             "pic": false,
             "us": false,
             "hasIntro": true,
-            "text": "[EventName=HOST/AltHost]Von welchem Kontinent hat die Kartoffel ihren Ursprung?",
+            "text": "[EventName=HOST/AltHost]Auf welchem Kontinent hat die Kartoffel ihren Ursprung?",
             "choices": [
                 {
                     "controllerClass": "",
