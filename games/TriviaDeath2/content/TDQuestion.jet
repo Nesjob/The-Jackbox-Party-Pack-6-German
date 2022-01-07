@@ -146,7 +146,7 @@
             "x": false,
             "id": 54537,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Welcher dieser Horror-Klassiker wurde zuerst veröffentlicht?",
             "choices": [
