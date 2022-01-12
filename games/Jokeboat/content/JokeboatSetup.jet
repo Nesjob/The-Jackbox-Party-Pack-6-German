@@ -12,7 +12,7 @@
          ],
          "timing":"4.25",
          "x":false,
-         "setup":"Ich m\u00F6chte ein Geschäft aufmachen, dass nur <TOPIC> verkauft",
+         "setup":"Ich m\u00F6chte ein Geschäft aufmachen, das nur <TOPIC> verkauft",
          "id":55843,
          "categories":",#things",
          "type":"5"
