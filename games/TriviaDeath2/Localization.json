@@ -45,8 +45,8 @@
         "PRESS": "Drücke",
         "TO_START": "zum starten",
         "TO_CANCEL": "zum abbrechen",
-        "TO_START_GAME": "um das Spiel zu starten",
-        "TO_CANCEL_GAME": "um das Spiel abzubrechen",
+        "TO_START_GAME": "zum starten",
+        "TO_CANCEL_GAME": "zum abzubrechen",
         "JOIN_AUDIENCE": "Komm ins Publikum!",
         "PLAY_AGAIN_WITH": "NOCHMAL SPIELEN MIT",
         "SAME_PLAYERS": "GLEICHEN SPIELERN",
@@ -153,7 +153,7 @@
         
         "MATH_FROZEN_BANNER":"Du bist eingefroren",
         
-        "MIRROR_BANNER":"Was hat Tante Hildegard auf den Spiegel geschrieben?",
+        "MIRROR_BANNER":"Was hat Tante Mildred auf den Spiegel geschrieben?",
         "MIRROR_ENTRY":"HIER SCHREIBEN",
         "MIRROR_SAFE_PLAYER_BANNER":"Schreibe ein Wort auf den Spiegel",
         

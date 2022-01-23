@@ -1266,7 +1266,7 @@
             "x": false,
             "id": 54013,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": true,
             "text": "In welchem Musical gibt es den Song \"And I Am Telling You I'm Not Going\"?",
             "choices": [
@@ -24619,7 +24619,7 @@
             "x": false,
             "id": 55646,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Wer ist die Stiefmutter von Christian Bale?",
             "choices": [
