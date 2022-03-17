@@ -12882,7 +12882,7 @@
 				},
 				{
 					"difficulty": 1,
-					"correct": true,
+					"correct": false,
 					"text": "Wunderstraße"
 				}
 			],
@@ -21639,7 +21639,7 @@
 		{
 			"difficulty": 0,
 			"correct": false,
-			"text": "Read Dead Redemption"
+			"text": "Red Dead Redemption"
 		},
 		{
 			"difficulty": 0,
