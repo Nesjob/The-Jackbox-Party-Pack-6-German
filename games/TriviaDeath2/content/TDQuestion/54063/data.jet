@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "The plasma that surrounds the sun is known as the... what?",
+            "t": "A",
+            "v": "770210_1",
+            "n": "Q"
+        },
+        {
+            "s": "Ich weiß, als Gamer ist die Frage vielleicht etwas schwierig, aber vielleicht weiß es ja trotzdem wer.",
+            "t": "A",
+            "v": "770217_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[Blue Moon] [Stella Artois] [Skol] [Corona]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

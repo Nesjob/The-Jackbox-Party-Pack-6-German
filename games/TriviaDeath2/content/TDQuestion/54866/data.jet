@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "They all have good walls, but which of these Chinese cities contains part of the Great Wall?",
+            "t": "A",
+            "v": "778289_2",
+            "n": "Q"
+        },
+        {
+            "s": "Reden wir mal über Mauern. Und damit meine ich nicht die in Berlin...",
+            "t": "A",
+            "v": "778296_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[Shenzhen] [Beijing] [Shanghai] [Xi\u2019an]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

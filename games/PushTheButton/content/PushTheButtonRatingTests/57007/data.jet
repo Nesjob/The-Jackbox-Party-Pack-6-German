@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Ich kann keine Erdnüsse essen.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ich möchte vegan leben",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Spargel lässt mein Pipi riechen.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Ich kann keinen Koriander essen.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Ich kann keinen Koriander essen.",
+            "t": "A",
+            "v": "818979_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

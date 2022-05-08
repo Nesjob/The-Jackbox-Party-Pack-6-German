@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "If I throw a rocking bachelor party for my dear friend in London, what\u2019s it called?",
+            "t": "A",
+            "v": "769560_1",
+            "n": "Q"
+        },
+        {
+            "s": "Kennt ihr das? Ihr liegt beim Zahnarzt und der Doktor arbeitet gerade in eurem Mund und stellt euch irgendwelche Fragen, und ihr könnt nur antworten mit njahaha hmummbmhuhm...",
+            "t": "A",
+            "v": "769567_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[a buck\u2019s night] [a bachelor experience] [a stag do] [a hen party]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

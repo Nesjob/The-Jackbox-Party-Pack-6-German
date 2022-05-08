@@ -1,0 +1,110 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "Spinnen sind tolle Haustiere.",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Schlangen sind mir unheimlich",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Ich würde eine Vogelspinne streicheln.",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Schlangen sind tolle Haustiere.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ich flippe nicht aus, wenn ich eine Spinne auf mir finde.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Entenküken sind sehr niedlich.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Ich würde ausflippen, wenn ich aufwachen würde, um eine Spinne auf meinem Gesicht zu finden.",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Spinnen sind tolle Haustiere.",
+            "t": "A",
+            "v": "832130_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Ich bin im Moment sehr müde.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ich fluche zu viel",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Ich kaufe immer das neueste Gadget.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Ich bin von neuer Technologie eingeschüchtert.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Ich bin von neuer Technologie eingeschüchtert.",
+            "t": "A",
+            "v": "820191_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

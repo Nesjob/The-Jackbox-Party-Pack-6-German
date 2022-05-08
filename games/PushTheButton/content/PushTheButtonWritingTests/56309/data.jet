@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Jemand, in den ich mal verknallt war, war ...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Mein Lieblingsfilmmonster ist ...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Die schlimmste Person auf der Welt ist ...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Jemand, den ich attraktiv finde, ist ...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Jemand, den ich attraktiv finde, ist ...",
+            "t": "A",
+            "v": "805471_0",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

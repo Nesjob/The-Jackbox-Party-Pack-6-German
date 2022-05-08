@@ -1,0 +1,80 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Ich LIEBE Horrorfilme",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Wir könnten wahrscheinlich die Dinosaurier zurückbringen.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Online-Piraterie ist ein schreckliches Verbrechen.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Donuts sind besser als Bagels.",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "<i>Jurassic Park<\/i> ist ein schlechter Film.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "<i>Jurassic Park<\/i> ist ein schlechter Film.",
+            "t": "A",
+            "v": "890300_2",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

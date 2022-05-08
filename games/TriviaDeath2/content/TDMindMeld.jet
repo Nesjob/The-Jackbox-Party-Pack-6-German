@@ -69,181 +69,130 @@
 			"x": false,
 			"answers": [
 				{
-					"answer": "Charlie Brown",
+					"answer": "Maggie",
 					"alt": [
-						"Charlie",
-						"Chuck"
+						"maggie simpson",
+						"maggy",
+						"maggie simpsons"
 					]
 				},
 				{
-					"answer": "Lucy",
+					"answer": "Lisa",
 					"alt": [
-						"Lucy van Pelt",
-						"Lucy Pelt",
-						"Lucille",
-						"Lucille van Pelt",
-						"Lucille Pelt"
+						"lisa simpson",
+						"lisa simpsons"
 					]
 				},
 				{
-					"answer": "Linus",
+					"answer": "Marge",
 					"alt": [
-						"Linus van Pelt",
-						"Linus Pelt"
+						"marge simpson",
+						"magre simpson",
+						"marge simpsons"
 					]
 				},
 				{
-					"answer": "Sally",
+					"answer": "Bart",
 					"alt": [
-						"Sally Brown",
-						"Sallie",
-						"Sallie Brown"
+						"bart simpson",
+						"bart simpsons"
 					]
 				},
 				{
-					"answer": "Patty",
+					"answer": "Homer",
 					"alt": [
-						"Peppermint Patty",
-						"Pepermint Patty",
-						"Patti",
-						"Peppermint Patti",
-						"PP",
-						"Patricia",
-						"Patricia Reichardt",
-						"Patty Reichardt",
-						"Paty"
-					]
-				},
-				{
-					"answer": "Schroeder",
-					"alt": [
-						"Shroeder",
-						"shrowder",
-						"Schrowder"
-					]
-				},
-				{
-					"answer": "Snoopy",
-					"alt": [
-						"Snoop",
-						"Snoppy"
-					]
-				},
-				{
-					"answer": "Woodstock",
-					"alt": [
-						"wood stock",
-						"woodstalk",
-						"wood stalk"
+						"homer simpson",
+						"humer simpson",
+						"homer simpsons"
 					]
 				}
 			],
 			"id": 57805,
-			"text": "Ein Character aus <i>Charlie Brown</i>",
+			"text": "Eines der 5 bekannten Mitglieder der <i>Simpsons</i> Familie",
 			"us": false
 		},
 		{
 			"x": false,
 			"answers": [
 				{
-					"answer": "George Washington",
+					"answer": "Konrad Adenauer",
 					"alt": [
-						"Washington"
+						"conrad adenauer",
+						"adenauer",
+						"John Adam"
 					]
 				},
 				{
-					"answer": "John Adams",
+					"answer": "Ludwig Erhard",
 					"alt": [
-						"Adams",
-						"Adam",
-						"John Adam",
-						"Jon Adams",
-						"Jon Adam"
+						"erhard",
+						"ludwig erhardt",
+						"ludwig",
+						"erhardt"
 					]
 				},
 				{
-					"answer": "Thomas Jefferson",
+					"answer": "Kurt Georg Kiesinger",
 					"alt": [
-						"Jeferson",
-						"Tomas Jefferson",
-						"Tomas Jeferson",
-						"Tom Jefferson",
-						"Thomas Jeferson",
-						"Jefferson"
+						"kurt kiesinger",
+						"georg kiesinger",
+						"kiesinger",
+						"kurt georg"
 					]
 				},
 				{
-					"answer": "James Madison",
+					"answer": "Willy Brandt",
 					"alt": [
-						"Madison",
-						"James Maddison",
-						"Maddison",
-						"James Madison Jr."
+						"willi brandt",
+						"willy brant",
+						"willy brannt",
+						"brandt",
+						"brannt"
 					]
 				},
 				{
-					"answer": "James Monroe",
+					"answer": "Walter Scheel",
 					"alt": [
-						"Monroe",
-						"Monro",
-						"Munroe",
-						"James Munroe"
+						"scheel",
+						"walter"
 					]
 				},
 				{
-					"answer": "John Quincy Adams",
+					"answer": "Helmut Schmidt",
 					"alt": [
-						"John Q Adams",
-						"JQA",
-						"JQ Adams",
-						"John Q. Adams",
-						"Jon Quincy Adams"
+						"schmidt",
+						"schmitt",
+						"helmut schmitt"
 					]
 				},
 				{
-					"answer": "Andrew Jackson",
+					"answer": "Helmut Kohl",
 					"alt": [
-						"Jackson",
-						"Andrew Jacksen",
-						"Jacksen"
+						"kohl",
+						"hellmut kohl",
+						"helmut"
 					]
 				},
 				{
-					"answer": "Martin Van Buren",
+					"answer": "Gerhard Schröder",
 					"alt": [
-						"MVB",
-						"Van Buren",
-						"Martin Van Buron",
-						"Van Burin",
-						"Martin Van Burin",
-						"Buren",
-						"Maarten Van Buren",
-						"Marten Van Buren"
+						"schröder",
+						"gerhard",
+						"gerhart schröder",
+						"schrödder"
 					]
 				},
 				{
-					"answer": "William Henry Harrison",
+					"answer": "Angela Merkel",
 					"alt": [
-						"Harrison",
-						"Harison",
-						"William Henry Harison",
-						"William Harrison",
-						"Will Harrison",
-						"Will Henry Harrison",
-						"William Harison"
-					]
-				},
-				{
-					"answer": "John Tyler",
-					"alt": [
-						"Tyler",
-						"Jon Tyler"
+						"angela",
+						"merkel"
 					]
 				}
 			],
 			"id": 57804,
-			"text": "Einer der ersten U.S. Präsidenten",
-			"us": true
+			"text": "Einer der deutschen Bundeskanzler bis 2020",
+			"us": false
 		},
 		{
 			"x": false,
@@ -287,75 +236,61 @@
 			"x": false,
 			"answers": [
 				{
-					"answer": "Rachel",
+					"answer": "Automobil",
 					"alt": [
-						"Raychel",
-						"Rachel Green",
-						"Rachael",
-						"Racheal",
-						"Rachele",
-						"Racel Katen Green",
-						"Rach",
-						"Raych"
+						"Auto",
+						"Rennwagen"
 					]
 				},
 				{
-					"answer": "Monica",
+					"answer": "Hund",
 					"alt": [
-						"Monika",
-						"Monnica",
-						"Monica Geller",
-						"Monica Geler",
-						"Mon"
+						"Hündchen"
 					]
 				},
 				{
-					"answer": "Phoebe",
+					"answer": "Schubkarre",
 					"alt": [
-						"Pheebe",
-						"Feebee",
-						"Phobe",
-						"Phoebe Buffay",
-						"Phoebe Buffet",
-						"Phoebe Hannigan",
-						"Phoebe Buffay Hannigan",
-						"Phoebe Buffay-Hannigan"
+						"Karre"
 					]
 				},
 				{
-					"answer": "Joey",
+					"answer": "Schuh",
 					"alt": [
-						"Joe",
-						"Joey Tribbiani",
-						"Joie",
-						"Joseph",
-						"Joseph Francis “Joey” Tribbiani Jr."
+						"Stiefel",
+						"Arbeitsschuh"
 					]
 				},
 				{
-					"answer": "Chandler",
+					"answer": "Schlachtschiff",
 					"alt": [
-						"Chandeler",
-						"Chandler Bing",
-						"Chandalar",
-						"Chadelar",
-						"Chanandler Bong",
-						"Chandler Muriel Bing"
+						"Schiff",
+						"Boot"
 					]
 				},
 				{
-					"answer": "Ross",
+					"answer": "Katze",
 					"alt": [
-						"Roz",
-						"Russ",
-						"Ross Geller",
-						"Ross Geler",
-						"Ross Eustace Geller"
+						"Bügeleisen"
+					]
+				},
+				{
+					"answer": "Fingerhut",
+					"alt": [
+						"Fingerhütchen"
+					]
+				},
+				{
+					"answer": "Hut",
+					"alt": [
+						"Hütchen",
+						"Zylinder",
+						"Zyllinder"
 					]
 				}
 			],
 			"id": 57800,
-			"text": "einen Charakter aus der TV Serie <i>Friends</i>",
+			"text": "Eine Spielfigur beim klassischen <i>Monopoly</i>",
 			"us": false
 		},
 		{
@@ -405,7 +340,7 @@
 				}
 			],
 			"id": 57798,
-			"text": "den Namen einer Gitarrensaite <br>jede ist nur ein Buchstabe",
+			"text": "Der Name einer Gitarrensaite <br>jede ist nur ein Buchstabe",
 			"us": false
 		},
 		{
@@ -485,7 +420,7 @@
 				}
 			],
 			"id": 57797,
-			"text": "ein U.S. Staat der mit “M” beginnt",
+			"text": "Ein U.S. Staat der mit “M” beginnt",
 			"us": true
 		},
 		{
@@ -542,7 +477,7 @@
 				}
 			],
 			"id": 57795,
-			"text": "eine der sieben Totsünden",
+			"text": "Eine der sieben Totsünden",
 			"us": false
 		},
 		{
@@ -551,38 +486,43 @@
 				{
 					"answer": "earth",
 					"alt": [
-						"the earth"
+						"the earth",
+						"erde"
 					]
 				},
 				{
 					"answer": "wind",
 					"alt": [
 						"the wind",
-						"air"
+						"air",
+						"luft"
 					]
 				},
 				{
 					"answer": "fire",
 					"alt": [
-						""
+						"feuer"
 					]
 				},
 				{
 					"answer": "water",
 					"alt": [
-						""
+						"wasser"
 					]
 				},
 				{
 					"answer": "heart",
 					"alt": [
 						"hart",
-						"the heart"
+						"the heart",
+						"herz",
+						"liebe",
+						"das Herz"
 					]
 				}
 			],
 			"id": 57794,
-			"text": "eine der Superkräfte von Captain Planet's Planeteers<br>Hinweis: Es sind (fast) alle klassische Naturelemente",
+			"text": "Eine der Superkräfte von Captain Planet's Planeteers<br>Hinweis: Es sind (fast) alle klassische Naturelemente",
 			"us": true
 		},
 		{
@@ -665,7 +605,7 @@
 				}
 			],
 			"id": 57791,
-			"text": "eines der zwölf Tierkreiszeichen",
+			"text": "Eines der zwölf Sternzeichen",
 			"us": false
 		},
 		{
@@ -721,7 +661,7 @@
 				}
 			],
 			"id": 57788,
-			"text": "einer der ersten acht Buchstaben des Alphabets",
+			"text": "Einer der ersten acht Buchstaben des Alphabets",
 			"us": false
 		},
 		{
@@ -773,92 +713,54 @@
 				}
 			],
 			"id": 57787,
-			"text": "ein Wochentag",
+			"text": "Ein Wochentag",
 			"us": false
 		},
 		{
 			"x": false,
 			"answers": [
 				{
-					"answer": "tomato",
+					"answer": "Chrome",
 					"alt": [
-						"tomatoes",
-						"tomatos",
-						"tamato",
-						"tamahto",
-						"tomayto",
-						"tomaytoe",
-						"tomatoe"
+						"Google Chrome",
+						"Chromium"
 					]
 				},
 				{
-					"answer": "carrot",
+					"answer": "Edge",
 					"alt": [
-						"carrots",
-						"carot",
-						"carret",
-						"carots",
-						"carrets",
-						"carrut",
-						"carrit"
+						"Microsoft Edge"
 					]
 				},
 				{
-					"answer": "celery",
+					"answer": "Safari",
 					"alt": [
-						"cellery",
-						"celary",
-						"cellary"
+						"Apple Safari"
 					]
 				},
 				{
-					"answer": "beet",
+					"answer": "Firefox",
 					"alt": [
-						"beets",
-						"beat",
-						"beats"
+						"Mozilla Firefox",
+						"Mozilla"
 					]
 				},
 				{
-					"answer": "parsley",
+					"answer": "Opera",
 					"alt": [
-						"parsly",
-						"parsely",
-						"parslee",
-						"parslie"
+						"Oppera"
 					]
 				},
 				{
-					"answer": "lettuce",
+					"answer": "Internet Explorer",
 					"alt": [
-						"letuce",
-						"lettace",
-						"lettus",
-						"letus"
-					]
-				},
-				{
-					"answer": "watercress",
-					"alt": [
-						"watercrest",
-						"watercross",
-						"watercresh",
-						"watercrass",
-						"watercres"
-					]
-				},
-				{
-					"answer": "spinach",
-					"alt": [
-						"spinache",
-						"spinech",
-						"spinich",
-						"spiniche"
+						"IE",
+						"Microsoft Internet Explorer"
 					]
 				}
 			],
 			"id": 57341,
-			"text": "xxxxxone of the vegetables found in the original V8 vegetable juice",
+			"text": "Einer der 6 beliebtesten Internetbrowser Deutschlands",
 			"us": false
 		},
 		{
@@ -1098,7 +1000,7 @@
 				}
 			],
 			"id": 56057,
-			"text": "einer der Planeten unseres Sonnensystems",
+			"text": "Einer der Planeten unseres Sonnensystems",
 			"us": false
 		},
 		{
@@ -1177,11 +1079,11 @@
 					]
 				},
 				{
-					"answer": "Romeo and Juliet",
+					"answer": "Romeo und Julia",
 					"alt": [
-						"Romeo & Juliet",
-						"Romeo Juliet",
-						"Romeo and Juliett"
+						"Romeo & Julia",
+						"Romeo + Julia",
+						"Romeo Julia"
 					]
 				},
 				{
@@ -1215,8 +1117,8 @@
 				}
 			],
 			"id": 56056,
-			"text": "xxxxxone of Shakespeare’s tragedies",
-			"us": false
+			"text": "Eine Tragödie von Shakespeare",
+			"us": true
 		},
 		{
 			"x": false,
@@ -1281,7 +1183,7 @@
 				}
 			],
 			"id": 56055,
-			"text": "eine Nobelpreis Kategorie",
+			"text": "Eine Nobelpreis Kategorie",
 			"us": false
 		},
 		{
@@ -1336,7 +1238,7 @@
 				}
 			],
 			"id": 56054,
-			"text": "ein Charakter aus den <i>Simpsons</i>",
+			"text": "Ein Charakter aus der <i>Simpsons</i> Familie",
 			"us": false
 		},
 		{
@@ -1392,7 +1294,7 @@
 				}
 			],
 			"id": 56053,
-			"text": "einer der acht höchsten Buchstaben beim <i>Scrabble</i> (deutsch)",
+			"text": "Einer der acht höchsten Buchstaben beim <i>Scrabble</i>",
 			"us": false
 		},
 		{
@@ -1448,47 +1350,97 @@
 				}
 			],
 			"id": 56052,
-			"text": "einer der vier längesten Flüsse der Welt",
+			"text": "Einer der vier längesten Flüsse der Welt",
 			"us": false
 		},
 		{
 			"x": false,
 			"answers": [
 				{
-					"answer": "George Washington",
+					"answer": "Sprinti",
 					"alt": [
-						"Washington"
+						"Quad"
 					]
 				},
 				{
-					"answer": "Abraham Lincoln",
+					"answer": "Knolle",
 					"alt": [
-						"Lincoln",
-						"Abe Lincoln",
-						"Lincon"
+						"Lumpe"
 					]
 				},
 				{
-					"answer": "Thomas Jefferson",
+					"answer": "Bob",
 					"alt": [
-						"Jefferson",
-						"Thom Jefferson",
-						"Jeferson",
-						"Thomas Jeferson",
-						"Tom Jefferson",
-						"Tom Jererson"
+						"Bob der Baumeister"
 					]
 				},
 				{
-					"answer": "Theodore Roosevelt",
+					"answer": "Rollo",
 					"alt": [
-						"Roosevelt",
-						"Teddy Roosevelt"
+						"Roller",
+						"Walzi"
+					]
+				},
+				{
+					"answer": "Mixi",
+					"alt": [
+						"Orangli"
+					]
+				},
+				{
+					"answer": "Winzi",
+					"alt": [
+						"Gelber Kran"
+					]
+				},
+				{
+					"answer": "Buddel",
+					"alt": [
+						"Mocke"
+					]
+				},
+				{
+					"answer": "Schleppo",
+					"alt": [
+						"Abschleppwagen"
+					]
+				},
+				{
+					"answer": "Heppo",
+					"alt": [
+						"Chränli"
+					]
+				},
+				{
+					"answer": "Buddel",
+					"alt": [
+						"Schaufellader"
+					]
+				},
+				{
+					"answer": "Baggi",
+					"alt": [
+						"Bagger",
+						"Schuba"
+					]
+				},
+				{
+					"answer": "Leo",
+					"alt": [
+						"Leonard",
+						"Leonhard"
+					]
+				},
+				{
+					"answer": "Wendy",
+					"alt": [
+						"Wendie",
+						"Rita"
 					]
 				}
 			],
 			"id": 56051,
-			"text": "einer der Gesichter in Mount Rushmore",
+			"text": "Ein Charakter aus dem Team von Bob der Baumeister",
 			"us": true
 		},
 		{
@@ -1627,7 +1579,7 @@
 				}
 			],
 			"id": 55987,
-			"text": "ein spielbarer Character im ersten <i>Super Smash Bros.</i>",
+			"text": "Ein spielbarer Charakter im ersten <i>Super Smash Bros.</i>",
 			"us": false
 		},
 		{
@@ -1791,123 +1743,93 @@
 					]
 				},
 				{
-					"answer": "Taco Bell",
+					"answer": "Nordsee",
 					"alt": [
-						"Tacobell",
-						"Taco Bel"
+						"nord see",
+						"nordsee"
 					]
 				},
 				{
-					"answer": "Pizza Hut",
+					"answer": "KFC",
 					"alt": [
-						"PizzaHut",
-						"The Hut",
-						"Pizza Hutt",
-						"Piza Hut",
-						"P Hut"
-					]
-				},
-				{
-					"answer": "Wendy’s",
-					"alt": [
-						"Wendys",
-						"Wendies",
-						"Wendy",
-						"Wandys"
+						"kentucky fried chicken",
+						"kentucky fried chiken",
+						"k f c"
 					]
 				}
 			],
 			"id": 55970,
-			"text": "eine der Top 6 Fast-Food-Ketten in den USA<br>(nach Anzahl der Filialen)",
+			"text": "Eine der Top 5 Fast-Food-Ketten in Deutschland<br>(nach Anzahl der Filialen)",
 			"us": true
 		},
 		{
 			"x": false,
 			"answers": [
 				{
-					"answer": "Beef",
+					"answer": "Fleisch",
 					"alt": [
-						"Beef Patties",
+						"Patty",
 						"Patties",
-						"Meat",
-						"patty",
-						"beef patty",
-						"two patties",
-						"double meat",
-						"double beef",
-						"two beef patties",
-						"2 patties",
-						"2 beef patties",
-						"2 meats",
-						"two meats",
-						"two all beef patties",
-						"2 all beef patties",
-						"two all-beef patties",
-						"2 all-beef patties",
-						"double beef patties"
+						"Steak",
+						"Hackfleisch",
+						"2 fleisch",
+						"rindfleisch"
 					]
 				},
 				{
-					"answer": "Big Mac Sauce",
+					"answer": "Big Mac Soße",
 					"alt": [
 						"Sauce",
-						"Thousand Island",
-						"Thousand Island Dressing",
+						"Soße",
+						"Sosse",
 						"Dressing",
-						"Special Dressing",
-						"special sauce"
+						"Spezialsoße",
+						"Spezial Sosse"
 					]
 				},
 				{
-					"answer": "Lettuce",
+					"answer": "Salat",
 					"alt": [
-						"Letuce",
-						"Iceberg Lettuce",
-						"shredded lettuce"
+						"Eisbergsalat",
+						"Eisberg Salat",
+						"salatstreifen"
 					]
 				},
 				{
-					"answer": "Cheese",
+					"answer": "Käse",
 					"alt": [
-						"American Cheese"
+						"Schmelzkäse"
 					]
 				},
 				{
-					"answer": "Pickles",
+					"answer": "Essiggurken",
 					"alt": [
-						"Pickle",
-						"Pickel",
-						"Pickels",
-						"2 pickles",
-						"two pickles",
-						"2 pickels",
-						"two pickels"
+						"Gurken",
+						"Gürkchen",
+						"Gurke",
+						"Essiggurke"
 					]
 				},
 				{
-					"answer": "Onions",
+					"answer": "Zwiebeln",
 					"alt": [
-						"Onion",
-						"Raw Onion",
-						"Raw Onions",
-						"Chopped Onion",
-						"Chopped Onions"
+						"Zwiebel"
 					]
 				},
 				{
-					"answer": "Bun",
+					"answer": "Brötchen",
 					"alt": [
 						"Buns",
-						"Bread",
-						"Sesame Seed Bun",
-						"Sesame Bun",
-						"Sesame Seed Buns",
-						"Sesame Buns"
+						"Brot",
+						"Bun",
+						"Sesambrötchen",
+						"Sesam Brötchen",
+						"Sesam Bun"
 					]
 				}
 			],
 			"id": 55969,
-			"text": "xxxxxone of the ingredients in a Big Mac",
+			"text": "Eine Zutat im Big Mac",
 			"us": false
 		},
 		{
@@ -2009,7 +1931,7 @@
 				}
 			],
 			"id": 55968,
-			"text": "eines der sieben größten vereinsgebundenen Fußballstadien Europas (Stadion- oder Vereinsname)",
+			"text": "Eines der sieben größten vereinsgebundenen Fußballstadien Europas (Stadion- oder Vereinsname)",
 			"us": true
 		},
 		{
@@ -2042,7 +1964,8 @@
 						"Baden Wüttenberg",
 						"Baden-Würtenberg",
 						"Baden Würtenberg",
-						"Baden",
+						"BaWü",
+						"Ba Wü",
 						"Württemberg",
 						"BW"
 					]
@@ -2087,7 +2010,7 @@
 				}
 			],
 			"id": 55967,
-			"text": "eines der sieben größten Bundesländer Deutschlands",
+			"text": "Eines der sieben größten Bundesländer Deutschlands",
 			"us": false
 		},
 		{
@@ -2149,11 +2072,11 @@
 					"alt": [
 						"Die Philippinen",
 						"Phillippinen",
-						"The Phillippinen",
-						"The Phillipinen",
+						"Die Phillippinen",
+						"Die Phillipinen",
 						"Phillipinen",
 						"Philipinen",
-						"The Philipinen"
+						"Die Philipinen"
 					]
 				},
 				{
@@ -2172,7 +2095,7 @@
 				}
 			],
 			"id": 55966,
-			"text": "ein Land, dass mit “P” beginnt",
+			"text": "Ein Land, das mit “P” beginnt",
 			"us": false
 		},
 		{
@@ -2288,7 +2211,7 @@
 				}
 			],
 			"id": 55964,
-			"text": "ein südamerikanisches Land",
+			"text": "Ein südamerikanisches Land",
 			"us": false
 		},
 		{
@@ -2352,7 +2275,7 @@
 				}
 			],
 			"id": 55963,
-			"text": "eines der sieben größten Länder der Welt nach Landmasse",
+			"text": "Eines der sieben größten Länder der Welt nach Landmasse",
 			"us": false
 		},
 		{
@@ -2396,8 +2319,8 @@
 				}
 			],
 			"id": 55962,
-			"text": "eine Farbe auf dem original Rubik-Würfel",
-			"us": true
+			"text": "Eine Farbe auf dem originalen Rubik-Würfel",
+			"us": false
 		},
 		{
 			"x": false,
@@ -2463,8 +2386,8 @@
 				}
 			],
 			"id": 55958,
-			"text": "eine der beliebtesten Hunderassen Deutschlands (Stand 2020)",
-			"us": true
+			"text": "Eine der beliebtesten Hunderassen Deutschlands (Stand 2020)",
+			"us": false
 		},
 		{
 			"x": false,
@@ -2524,7 +2447,7 @@
 				}
 			],
 			"id": 55957,
-			"text": "eine Tierart mit einer Sprechrolle in der Originalversion von <i>Der König der Löwen</i>",
+			"text": "Eine Tierart mit einer Sprechrolle in der Originalversion von <i>Der König der Löwen</i>",
 			"us": true
 		},
 		{
@@ -2657,7 +2580,7 @@
 				{
 					"answer": "Australien",
 					"alt": [
-						"Oceanien"
+						"Ozeanien"
 					]
 				},
 				{
@@ -2723,7 +2646,7 @@
 				}
 			],
 			"id": 57822,
-			"text": "eine der fünf größten Großkatzenarten der Welt",
+			"text": "Eine der fünf größten Großkatzenarten der Welt",
 			"us": false
 		},
 		{
@@ -2765,7 +2688,7 @@
 				}
 			],
 			"id": 57819,
-			"text": "einer der fünf längsten Flüsse Deutschlands",
+			"text": "Einer der fünf längsten Flüsse Deutschlands",
 			"us": true
 		},
 		{
@@ -2878,7 +2801,7 @@
 				}
 			],
 			"id": 57823,
-			"text": "ein Mitglied der Gefährten des Ringes in <i>Herr der Ringe</i>",
+			"text": "Ein Mitglied der Gefährten des Ringes in <i>Herr der Ringe</i>",
 			"us": false
 		}
 	]

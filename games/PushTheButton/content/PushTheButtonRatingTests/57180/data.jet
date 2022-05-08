@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Ich hasse Kokosnuss als Eiscreme",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ich werde nie pünktlich sein.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Schlangen sind bessere Haustiere als Katzen.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "NIEMAND sieht in einem Catsuit besser aus als ich.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "NIEMAND sieht in einem Catsuit besser aus als ich.",
+            "t": "A",
+            "v": "823389_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

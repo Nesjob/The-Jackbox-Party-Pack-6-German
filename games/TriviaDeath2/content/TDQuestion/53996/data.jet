@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Which of these is NOT a law of thermodynamics?",
+            "t": "A",
+            "v": "769540_1",
+            "n": "Q"
+        },
+        {
+            "s": "Reden wir über Gesetze! Ich hasse Gesetze!",
+            "t": "A",
+            "v": "769547_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[energy cannot be created or destroyed] [temperature decreases as matter decreases] [entropy is always increasing] [entropy becomes constant as temperature hits zero]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

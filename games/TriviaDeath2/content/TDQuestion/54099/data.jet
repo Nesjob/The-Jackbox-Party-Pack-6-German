@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Which mineral would hurt you the LEAST because it\u2019s the SOFTEST?",
+            "t": "A",
+            "v": "770570_1",
+            "n": "Q"
+        },
+        {
+            "s": "Ich mache mir mehr Gedaken um eure Gesundheit, als ihr vielleicht denkt. Also...",
+            "t": "A",
+            "v": "770577_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[diamond] [topaz] [quartz] [calcite]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

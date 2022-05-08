@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Who wrote <i>The Secret<\/i>?",
+            "t": "A",
+            "v": "776609_1",
+            "n": "Q"
+        },
+        {
+            "s": "Wir sind doch alle irgendwo ein bisschen lebensmüde, oder?",
+            "t": "A",
+            "v": "776616_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[Rhonda Byrne] [Brené Brown] [Anne Lamott] [Oprah Winfrey]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

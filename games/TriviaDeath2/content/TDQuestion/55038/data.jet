@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "What does the \u201cS\u201d in ASMR stand for?",
+            "t": "A",
+            "v": "780009_3",
+            "n": "Q"
+        },
+        {
+            "s": "Hat irgendwer von euch zufällig Probleme mit seiner Persönlichkeit?",
+            "t": "A",
+            "v": "780016_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[sound] [speciality ] [sonic] [sensory]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

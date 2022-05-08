@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "What musical features the song \u201cAnd I Am Telling You I\u2019m Not Going\u201d?",
+            "t": "A",
+            "v": "769710_1",
+            "n": "Q"
+        },
+        {
+            "s": "Ich hab ne coole Spotify Playlist zusammengestellt mit Songs für die Gäste, die ich in meinem Hotel gefangen halte.",
+            "t": "A",
+            "v": "769717_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[<i>Wicked<\/i>] [<i>Spring Awakening<\/i>] [<i>Jesus Christ Superstar<\/i>] [<i>Dreamgirls<\/i>]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

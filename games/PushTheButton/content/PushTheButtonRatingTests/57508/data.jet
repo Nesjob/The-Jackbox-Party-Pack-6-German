@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Ich wünschte, ich wüsste mehr über Sport.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ich habe keine Ahnung, was die Regeln des Fußballs sind.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Ich weiß, wer vor fünf Jahren die World Series gewonnen hat.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Fußball ist langweilig.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Fußball ist langweilig.",
+            "t": "A",
+            "v": "832142_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

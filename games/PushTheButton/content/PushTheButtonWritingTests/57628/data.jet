@@ -1,0 +1,155 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty8"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty7"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt7"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt8"
+        },
+        {
+            "t": "S",
+            "v": "Ich wünschte, ich hätte mehr Zeit, um das zu tun...",
+            "n": "AlienPromptText8"
+        },
+        {
+            "t": "S",
+            "v": "Ich verbringe die meiste Zeit meiner Freizeit damit, dies zu tun ...",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Es muss ein Gesetz geben, das dies verbietet...",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Wenn ich Superman wäre, würde ich die meiste Zeit damit verbringen, dies zu tun...",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "Etwas, das ich jeden Morgen mache, ist ...",
+            "n": "AlienPromptText6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Am liebsten entspanne ich mich, wenn ...",
+            "n": "AlienPromptText7"
+        },
+        {
+            "t": "S",
+            "v": "Eine Aktivität, die mir wirklich Spaß macht, ist ...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Ich denke, die Kinder müssen mehr Zeit damit verbringen, dies zu tun ...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Ich verschwende so viel Zeit damit ...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Ich wünschte, es gäbe einen schnelleren Weg, dies zu tun...",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Ich verbringe die meiste Zeit meiner Freizeit damit, dies zu tun...",
+            "t": "A",
+            "v": "833708_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

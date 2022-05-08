@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Who is Noam Chomsky?",
+            "t": "A",
+            "v": "779559_3",
+            "n": "Q"
+        },
+        {
+            "s": "Ich frage mich, ob man Leute umbringen noch klimafreundlicher gestalten kann...",
+            "t": "A",
+            "v": "779566_3",
+            "n": "Intro"
+        },
+        {
+            "s": "[a linguist] [a poet] [a physicist] [a novelist]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

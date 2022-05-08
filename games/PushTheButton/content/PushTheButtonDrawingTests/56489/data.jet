@@ -1,0 +1,80 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty3"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne einen Prominenten.",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne einen toten Schauspieler.",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne einen Charakter aus einem Film.",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt3"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne eine attraktive Person.",
+         "n":"AlienPromptText3"
+      },
+      {
+         "t":"S",
+         "v":"Zeichne einen berühmten Schauspieler.",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Zeichne einen berühmten Schauspieler.",
+         "t":"A",
+         "v":"808204_0",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

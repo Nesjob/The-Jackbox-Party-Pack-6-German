@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"kommst dann da raus",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"erzählst es dann jemandem",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"hinterlässt dann einen Zettel",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Du wirst verhaftet und der Beamte lässt versehentlich die Zelle unverschlossen. Du...",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Du wirst verhaftet und der Beamte lässt versehentlich die Zelle unverschlossen. Du...",
+         "t":"A",
+         "v":"814868_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Es sollte einen nationalen Welpentag geben, an dem wir uns den Tag frei nehmen, um Welpen zu würdigen.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Speck ist furchtbar.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Baseball ist langweilig.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Baseball würde mehr Spaß machen, wenn der Pitcher \u201cTschu-tschu!\u201d schreien würde, wenn er einen Fastball wirft.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Baseball würde mehr Spaß machen, wenn der Pitcher \u201cTschu-tschu!\u201d schreien würde, wenn er einen Fastball wirft.",
+            "t": "A",
+            "v": "834975_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

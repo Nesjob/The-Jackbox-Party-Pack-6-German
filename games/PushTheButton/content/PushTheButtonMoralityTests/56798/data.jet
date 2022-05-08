@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"0",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"Verbrechen zu bekämpfen",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"wirst du reich",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"niemandem etwas zu sagen",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Du erhältst die Fähigkeit, unsichtbar zu werden und dann...",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Du erhältst die Fähigkeit, unsichtbar zu werden und dann...",
+         "t":"A",
+         "v":"814488_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}

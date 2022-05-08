@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "What movie is about a party where somebody gets murdered?",
+            "t": "A",
+            "v": "805936_1",
+            "n": "Q"
+        },
+        {
+            "s": "Ich bin ehrlich, die ganze Umgebung von diesem Hotel ist nicht besonders Unternehmensfreundlich. Alle Läden sind umgezogen aufgrund von mangelnder Kundschaft.",
+            "t": "A",
+            "v": "805943_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[<i>My Dinner with Andre<\/i>] [<i>Four Weddings and a Funeral<\/i>] [<i>Gosford Park<\/i>] [<i>Guess Who\u2019s Coming to Dinner?<\/i>]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

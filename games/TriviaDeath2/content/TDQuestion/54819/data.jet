@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Who did Dolly Parton beg \u201cplease don\u2019t take my man\u201d?",
+            "t": "A",
+            "v": "777819_2",
+            "n": "Q"
+        },
+        {
+            "s": "Die Frage hier müsstet ihr eigentlich wissen!",
+            "t": "A",
+            "v": "777826_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[Jolene] [Aimee] [Lorraine] [Gloria]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty8"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty7"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt7"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt8"
+        },
+        {
+            "t": "S",
+            "v": "Etwas, wofür ich jemanden bezahle, ist ...",
+            "n": "AlienPromptText8"
+        },
+        {
+            "t": "S",
+            "v": "Wenn ich einen Roboter hätte, würde ich ihn benutzen, um ...",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Ich wünschte, es gäbe einen einfacheren Weg, um ...",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Die eine Sache, von der ich wünschte, ich müsste sie nicht regelmäßig tun, ist ...",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "Eine tolle Aktivität für ein erstes Date wäre es, ...",
+            "n": "AlienPromptText6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Das Dümmste, was ich gemacht habe, als ich jünger war, war ...",
+            "n": "AlienPromptText7"
+        },
+        {
+            "t": "S",
+            "v": "Meine unbeliebteste Hausarbeit ist ...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Der schlimmste Teil meines Jobs ist ...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Das erste, was ich tun würde, wenn ich Präsident wäre, ist...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Etwas, das ich gerne alleine mache, ist ...",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Wenn ich einen Roboter hätte, würde ich ihn benutzen, um ...",
+            "t": "A",
+            "v": "832796_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

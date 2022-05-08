@@ -9,7 +9,7 @@
             "pic": false,
             "us": false,
             "hasIntro": false,
-            "text": "Wie haben Sie festgelegt, dass Sie begraben werden wollen, damit Sie \"genau wie Beethoven\" sein können?",
+            "text": "Wie hast du festgelegt, dass du begraben werden willst, damit du \"genau wie Beethoven\" sein könntest?",
             "choices": [
                 {
                     "controllerClass": "",
@@ -41,7 +41,7 @@
             "choices": [
                 {
                     "controllerClass": "",
-                    "correct (#1)": true,
+                    "correct": true,
                     "text": "Fierecilla"
                 },
                 {
@@ -63,7 +63,7 @@
             "x": false,
             "id": 55475,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Du hast zur Schlafenszeit jedes Mal hysterisch gelacht, wenn du gelesen hast, welche <i>Alice's Adventures in Wonderland</i>-Figur nach einer Enthauptung ruft?",
             "choices": [
@@ -147,7 +147,7 @@
             "x": false,
             "id": 55346,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Was hast du 1962 meinem älteren Bruder statt Babynahrung zu essen gegeben?",
             "choices": [
@@ -209,7 +209,7 @@
             "choices": [
                 {
                     "controllerClass": "",
-                    "correct (#1)": true,
+                    "correct": true,
                     "text": "<i>Dumbo</i>"
                 },
                 {
@@ -265,7 +265,7 @@
             "choices": [
                 {
                     "controllerClass": "",
-                    "correct (#1)": true,
+                    "correct": true,
                     "text": "<i>Gilmore Girls</i>"
                 },
                 {
@@ -287,7 +287,7 @@
             "x": false,
             "id": 56046,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Mutter, du hast mir mal erzählt, dass du die Reinigung angeschrien hast, weil sie Drahtbügel benutzt hat, wegen welchem berühmten Filmstar?",
             "choices": [
@@ -343,7 +343,7 @@
             "x": false,
             "id": 55437,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Eines Nachts im Jahr 1961 hast du auf den Himmel gezeigt und gesagt, dass mein richtiger Vater die Erde umkreist. Das würde bedeuten, mein Vater war wer?",
             "choices": [
@@ -377,7 +377,7 @@
             "choices": [
                 {
                     "controllerClass": "",
-                    "correct (#1)": true,
+                    "correct": true,
                     "text": "<i>Der Exorzist</i>"
                 },
                 {
@@ -399,7 +399,7 @@
             "x": false,
             "id": 55477,
             "pic": false,
-            "us": true,
+            "us": false,
             "hasIntro": false,
             "text": "Wie viel kostete ein Hamburger, als du 1955 in die erste McDonald's-Filiale gingst?",
             "choices": [
@@ -427,7 +427,7 @@
             "x": false,
             "id": 55362,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Mutter, welches berühmte Buch von Dr. Benjamin Spock hast du zu meiner Geburt geschenkt bekommen, aber dann nie gelesen?",
             "choices": [
@@ -455,7 +455,7 @@
             "x": false,
             "id": 55325,
             "pic": false,
-            "us": false,
+            "us": true,
             "hasIntro": false,
             "text": "Welches ist das erste Lied, das die Beatles jemals in der <i>The Ed Sullivan Show</i> gespielt haben?",
             "choices": [

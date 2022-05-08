@@ -1,0 +1,125 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty5"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty4"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty3"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"Difficulty"
+      },
+      {
+         "t":"N",
+         "v":"2",
+         "n":"AlienPromptDifficulty6"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt5"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt6"
+      },
+      {
+        "t": "S",
+        "v": "Zeichne deinen Großvater.",
+        "n": "HumanPromptText"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne den Weihnachtsmann.",
+        "n": "AlienPromptText4"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne Moses.",
+        "n": "AlienPromptText5"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne den Unglaublichen Hulk.",
+        "n": "AlienPromptText6"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne einen Soldaten.",
+        "n": "AlienPromptText0"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne einen gruseligen alten Mann.",
+        "n": "AlienPromptText1"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne deinen Vater.",
+        "n": "AlienPromptText2"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt3"
+     },
+     {
+        "t": "S",
+        "v": "Zeichne Gandalf.",
+        "n": "AlienPromptText3"
+     },
+     {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt4"
+     },
+     {
+        "s": "Zeichne deinen Großvater.",
+        "t": "A",
+        "v": "889856_1",
+        "n": "HumanPromptAudio"
+     }
+   ]
+}

@@ -1,0 +1,65 @@
+{
+   "fields":[
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty2"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty1"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"AlienPromptDifficulty0"
+      },
+      {
+         "t":"N",
+         "v":"1",
+         "n":"Difficulty"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt0"
+      },
+      {
+         "t":"S",
+         "v":"ihn küssen",
+         "n":"AlienPromptText0"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt1"
+      },
+      {
+         "t":"S",
+         "v":"ihn beißen",
+         "n":"AlienPromptText1"
+      },
+      {
+         "t":"S",
+         "v":"false",
+         "n":"AlienPromptAdultt2"
+      },
+      {
+         "t":"S",
+         "v":"ihn schlagen",
+         "n":"AlienPromptText2"
+      },
+      {
+         "t":"S",
+         "v":"Ein wilder Wolf stürmt direkt auf dich zu! Was tust du?",
+         "n":"HumanPromptText"
+      },
+      {
+         "s":"Ein wilder Wolf stürmt direkt auf dich zu! Was tust du?",
+         "t":"A",
+         "v":"825414_1",
+         "n":"HumanPromptAudio"
+      }
+   ]
+}
